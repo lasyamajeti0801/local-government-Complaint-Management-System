@@ -1,43 +1,40 @@
+// ============================================================
+// NAGAR CONNECT - AUTHENTICATION & RBAC MIDDLEWARE
+// ============================================================
+
 const jwt = require('jsonwebtoken');
-const { queryOne } = require('../../database/db');
+const { JWT_SECRET } = require('../config/constants');
+const db = require('../config/db');
 
-const JWT_SECRET = process.env.JWT_SECRET || 'nagar_connect_secure_jwt_secret_key_2026';
-
-/**
- * Authentication Middleware:
- * Extracts JWT token from Authorization header or session cookie,
- * verifies signature, and attaches user record to request object.
- */
-async function authenticateToken(req, res, next) {
+// Verify Bearer JWT Token
+function authenticateToken(req, res, next) {
   const authHeader = req.headers['authorization'];
   const token = authHeader && authHeader.startsWith('Bearer ') 
-    ? authHeader.split(' ')[1] 
-    : (req.query.token || req.headers['x-access-token']);
+    ? authHeader.substring(7) 
+    : (req.query.token || null);
 
   if (!token) {
     return res.status(401).json({
       success: false,
-      message: 'Authentication token required. Please sign in.'
+      error: 'Authentication required. Please log in with municipal credentials.'
     });
   }
 
   try {
     const decoded = jwt.verify(token, JWT_SECRET);
-    const user = await queryOne(`
-      SELECT 
-        u.id, u.full_name, u.email, u.phone, u.role_id,
-        r.name as role_name, u.department_id, d.name as department_name,
-        u.designation, u.employee_id, u.ward_number, u.is_active
+    // Fetch fresh user state from database
+    const user = db.get(`
+      SELECT u.id, u.name, u.email, u.phone, u.role, u.department_id, u.employee_id,
+             u.designation, u.ward_number, u.is_active, d.name as department_name, d.code as department_code
       FROM users u
-      LEFT JOIN roles r ON u.role_id = r.id
       LEFT JOIN departments d ON u.department_id = d.id
       WHERE u.id = ? AND u.is_active = 1
-    `, [decoded.id || decoded.userId]);
+    `, [decoded.id]);
 
     if (!user) {
       return res.status(401).json({
         success: false,
-        message: 'Invalid session or user account deactivated.'
+        error: 'User session is invalid or account has been deactivated.'
       });
     }
 
@@ -46,38 +43,35 @@ async function authenticateToken(req, res, next) {
   } catch (err) {
     return res.status(403).json({
       success: false,
-      message: 'Session expired or invalid authentication token.'
+      error: 'Session expired or token is invalid. Please log in again.'
     });
   }
 }
 
-/**
- * Optional Authentication: Attaches user if token present, but does not block guests.
- */
-async function optionalAuth(req, res, next) {
-  const authHeader = req.headers['authorization'];
-  const token = authHeader && authHeader.startsWith('Bearer ') ? authHeader.split(' ')[1] : null;
-
-  if (token) {
-    try {
-      const decoded = jwt.verify(token, JWT_SECRET);
-      const user = await queryOne(`
-        SELECT u.id, u.full_name, u.email, u.role_id, r.name as role_name, u.department_id
-        FROM users u
-        LEFT JOIN roles r ON u.role_id = r.id
-        WHERE u.id = ? AND u.is_active = 1
-      `, [decoded.id || decoded.userId]);
-      if (user) req.user = user;
-    } catch (e) {
-      // Ignore invalid optional token
+// Require one of allowed roles
+function requireRoles(...allowedRoles) {
+  return (req, res, next) => {
+    if (!req.user) {
+      return res.status(401).json({ success: false, error: 'Unauthorized.' });
     }
-  }
 
-  next();
+    // SUPER_ADMIN has access to all routes
+    if (req.user.role === 'SUPER_ADMIN') {
+      return next();
+    }
+
+    if (!allowedRoles.includes(req.user.role)) {
+      return res.status(403).json({
+        success: false,
+        error: `Access Denied: Your role (${req.user.role}) is not authorized to access this municipal endpoint. Required: [${allowedRoles.join(', ')}]`
+      });
+    }
+
+    next();
+  };
 }
 
 module.exports = {
   authenticateToken,
-  optionalAuth,
-  JWT_SECRET
+  requireRoles
 };

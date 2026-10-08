@@ -1,103 +1,78 @@
+// ============================================================
+// NAGAR CONNECT - MUNICIPAL E-GOVERNANCE BACKEND SERVER
+// ============================================================
+
 const express = require('express');
 const cors = require('cors');
 const path = require('path');
-const fs = require('fs');
-const dotenv = require('dotenv');
-const { getDb } = require('../database/db');
-const { vectorStore } = require('../rag/retrieval/vectorStore');
+const { PORT } = require('./config/constants');
+const errorHandler = require('./middleware/errorHandler');
 
-dotenv.config();
+// Route Imports
+const authRoutes = require('./routes/authRoutes');
+const citizenRoutes = require('./routes/citizenRoutes');
+const officerRoutes = require('./routes/officerRoutes');
+const assignmentRoutes = require('./routes/assignmentRoutes');
+const slaRoutes = require('./routes/slaRoutes');
+const notificationRoutes = require('./routes/notificationRoutes');
 
 const app = express();
-const PORT = process.env.PORT || 5000;
 
-// Enable CORS
+// Middlewares
 app.use(cors({
   origin: '*',
-  methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'Authorization', 'x-access-token']
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization']
 }));
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
-app.use(express.json({ limit: '20mb' }));
-app.use(express.urlencoded({ extended: true, limit: '20mb' }));
+// Serve Static Frontend Assets
+app.use(express.static(path.resolve(__dirname, '../frontend')));
 
-// Static uploads directory
-const uploadsDir = path.join(__dirname, '..', 'uploads');
-if (!fs.existsSync(uploadsDir)) {
-  fs.mkdirSync(uploadsDir, { recursive: true });
-}
-app.use('/uploads', express.static(uploadsDir));
-
-// Serve Frontend compiled build from frontend/dist
-const distDir = path.join(__dirname, '..', 'frontend', 'dist');
-if (fs.existsSync(distDir)) {
-  app.use(express.static(distDir));
-}
-
-// Route Handlers
-const authRoutes = require('./routes/auth');
-const complaintRoutes = require('./routes/complaints');
-const officerRoutes = require('./routes/officer');
-const fieldRoutes = require('./routes/field');
-const ragRoutes = require('./routes/rag');
-const commonRoutes = require('./routes/common');
-
+// API Routes
 app.use('/api/auth', authRoutes);
-app.use('/api/complaints', complaintRoutes);
+app.use('/api/citizen', citizenRoutes);
 app.use('/api/officer', officerRoutes);
-app.use('/api/field', fieldRoutes);
-app.use('/api/rag', ragRoutes);
-app.use('/api/documents', ragRoutes);
-app.use('/api/common', commonRoutes);
-app.use('/api', commonRoutes);
+app.use('/api/assignments', assignmentRoutes);
+app.use('/api/sla', slaRoutes);
+app.use('/api/notifications', notificationRoutes);
 
-// Health check endpoint
+// System Health Check
 app.get('/api/health', (req, res) => {
   res.json({
-    status: 'ONLINE',
-    system: 'NAGAR CONNECT',
-    tagline: 'Your Voice. Our Responsibility. A Better Nagar.',
-    version: '1.5.0',
-    rag_engine: 'Active (128-dim VectorStore)',
+    status: 'UP',
+    platform: 'Nagar Connect Municipal Platform',
+    version: '1.3.0 (Member 3: Department Officer Management)',
     timestamp: new Date().toISOString()
   });
 });
 
-// Single Page Application Fallback for Express v5
-if (fs.existsSync(distDir)) {
-  app.use((req, res, next) => {
-    if (req.method === 'GET' && !req.path.startsWith('/api') && !req.path.startsWith('/uploads')) {
-      return res.sendFile(path.join(distDir, 'index.html'));
-    }
-    next();
+// Fallback to frontend index.html for SPA routing
+app.use((req, res, next) => {
+  if (req.path.startsWith('/api/')) {
+    return res.status(404).json({ success: false, error: 'API endpoint not found.' });
+  }
+  res.sendFile(path.resolve(__dirname, '../frontend/index.html'));
+});
+
+// Centralized Error Handler
+app.use(errorHandler);
+
+// Start Server
+if (require.main === module) {
+  app.listen(PORT, () => {
+    console.log(`=======================================================`);
+    console.log(`🏛️ NAGAR CONNECT - MUNICIPAL E-GOVERNANCE PLATFORM`);
+    console.log(`“Your Voice. Our Responsibility. A Better Nagar.”`);
+    console.log(`-------------------------------------------------------`);
+    console.log(`🚀 Server running on: http://localhost:${PORT}`);
+    console.log(`   - Citizen Portal:      http://localhost:${PORT}/#citizen-dashboard`);
+    console.log(`   - Officer Portal:      http://localhost:${PORT}/#officer-dashboard`);
+    console.log(`   - Officer Queue:       http://localhost:${PORT}/#officer-queue`);
+    console.log(`   - Health Check:        http://localhost:${PORT}/api/health`);
+    console.log(`=======================================================`);
   });
 }
 
-// Boot and startup
-async function startServer() {
-  try {
-    console.log('🏛️ Initializing NAGAR CONNECT Municipal Platform...');
-    await getDb();
-    console.log('💾 Database connection verified.');
-
-    await vectorStore.initialize();
-    const stats = vectorStore.getStats();
-    console.log(`🧠 Centralized RAG Engine online (${stats.totalChunks} chunks in memory index, ${stats.totalDocuments} documents).`);
-
-    app.listen(PORT, () => {
-      console.log(`\n==========================================================`);
-      console.log(`🏛️ NAGAR CONNECT IS READY TO ACCESS AT ONE SINGLE LINK:`);
-      console.log(`👉 http://localhost:${PORT}`);
-      console.log(`==========================================================\n`);
-    });
-  } catch (err) {
-    console.error('Fatal server boot error:', err);
-    process.exit(1);
-  }
-}
-
-if (require.main === module) {
-  startServer();
-}
-
-module.exports = { app, startServer };
+module.exports = app;
