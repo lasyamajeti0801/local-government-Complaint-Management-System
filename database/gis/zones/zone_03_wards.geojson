@@ -1,0 +1,2507 @@
+{
+  "type": "FeatureCollection",
+  "zone": "Zone_03",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "W-03-001",
+      "properties": {
+        "ward_number": 1,
+        "ward_code": "W-03-001",
+        "ward_name": "Zone_03 Municipal Ward 1",
+        "population_census": 12350,
+        "residential_properties": 2580,
+        "commercial_units": 365,
+        "sanitation_workers_allocated": 16,
+        "nodal_officer": "OFF-ZONE3-WARD1",
+        "helpline": "+91-1800-425-1031"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.637700, 17.536000],
+          [78.647700, 17.538000],
+          [78.649700, 17.551000],
+          [78.640700, 17.554000],
+          [78.637700, 17.536000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-002",
+      "properties": {
+        "ward_number": 2,
+        "ward_code": "W-03-002",
+        "ward_name": "Zone_03 Municipal Ward 2",
+        "population_census": 12700,
+        "residential_properties": 2660,
+        "commercial_units": 380,
+        "sanitation_workers_allocated": 17,
+        "nodal_officer": "OFF-ZONE3-WARD2",
+        "helpline": "+91-1800-425-1032"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.638700, 17.537000],
+          [78.648700, 17.539000],
+          [78.650700, 17.552000],
+          [78.641700, 17.555000],
+          [78.638700, 17.537000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-003",
+      "properties": {
+        "ward_number": 3,
+        "ward_code": "W-03-003",
+        "ward_name": "Zone_03 Municipal Ward 3",
+        "population_census": 13050,
+        "residential_properties": 2740,
+        "commercial_units": 395,
+        "sanitation_workers_allocated": 18,
+        "nodal_officer": "OFF-ZONE3-WARD3",
+        "helpline": "+91-1800-425-1033"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.639700, 17.538000],
+          [78.649700, 17.540000],
+          [78.651700, 17.553000],
+          [78.642700, 17.556000],
+          [78.639700, 17.538000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-004",
+      "properties": {
+        "ward_number": 4,
+        "ward_code": "W-03-004",
+        "ward_name": "Zone_03 Municipal Ward 4",
+        "population_census": 13400,
+        "residential_properties": 2820,
+        "commercial_units": 410,
+        "sanitation_workers_allocated": 19,
+        "nodal_officer": "OFF-ZONE3-WARD4",
+        "helpline": "+91-1800-425-1034"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.640700, 17.539000],
+          [78.650700, 17.541000],
+          [78.652700, 17.554000],
+          [78.643700, 17.557000],
+          [78.640700, 17.539000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-005",
+      "properties": {
+        "ward_number": 5,
+        "ward_code": "W-03-005",
+        "ward_name": "Zone_03 Municipal Ward 5",
+        "population_census": 13750,
+        "residential_properties": 2900,
+        "commercial_units": 425,
+        "sanitation_workers_allocated": 20,
+        "nodal_officer": "OFF-ZONE3-WARD5",
+        "helpline": "+91-1800-425-1035"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.641700, 17.540000],
+          [78.651700, 17.542000],
+          [78.653700, 17.555000],
+          [78.644700, 17.558000],
+          [78.641700, 17.540000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-006",
+      "properties": {
+        "ward_number": 6,
+        "ward_code": "W-03-006",
+        "ward_name": "Zone_03 Municipal Ward 6",
+        "population_census": 14100,
+        "residential_properties": 2980,
+        "commercial_units": 440,
+        "sanitation_workers_allocated": 21,
+        "nodal_officer": "OFF-ZONE3-WARD6",
+        "helpline": "+91-1800-425-1036"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.642700, 17.541000],
+          [78.652700, 17.543000],
+          [78.654700, 17.556000],
+          [78.645700, 17.559000],
+          [78.642700, 17.541000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-007",
+      "properties": {
+        "ward_number": 7,
+        "ward_code": "W-03-007",
+        "ward_name": "Zone_03 Municipal Ward 7",
+        "population_census": 14450,
+        "residential_properties": 3060,
+        "commercial_units": 455,
+        "sanitation_workers_allocated": 22,
+        "nodal_officer": "OFF-ZONE3-WARD7",
+        "helpline": "+91-1800-425-1037"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.643700, 17.542000],
+          [78.653700, 17.544000],
+          [78.655700, 17.557000],
+          [78.646700, 17.560000],
+          [78.643700, 17.542000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-008",
+      "properties": {
+        "ward_number": 8,
+        "ward_code": "W-03-008",
+        "ward_name": "Zone_03 Municipal Ward 8",
+        "population_census": 14800,
+        "residential_properties": 3140,
+        "commercial_units": 470,
+        "sanitation_workers_allocated": 23,
+        "nodal_officer": "OFF-ZONE3-WARD8",
+        "helpline": "+91-1800-425-1038"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.644700, 17.543000],
+          [78.654700, 17.545000],
+          [78.656700, 17.558000],
+          [78.647700, 17.561000],
+          [78.644700, 17.543000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-009",
+      "properties": {
+        "ward_number": 9,
+        "ward_code": "W-03-009",
+        "ward_name": "Zone_03 Municipal Ward 9",
+        "population_census": 15150,
+        "residential_properties": 3220,
+        "commercial_units": 485,
+        "sanitation_workers_allocated": 24,
+        "nodal_officer": "OFF-ZONE3-WARD9",
+        "helpline": "+91-1800-425-1039"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.645700, 17.544000],
+          [78.655700, 17.546000],
+          [78.657700, 17.559000],
+          [78.648700, 17.562000],
+          [78.645700, 17.544000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-010",
+      "properties": {
+        "ward_number": 10,
+        "ward_code": "W-03-010",
+        "ward_name": "Zone_03 Municipal Ward 10",
+        "population_census": 15500,
+        "residential_properties": 3300,
+        "commercial_units": 500,
+        "sanitation_workers_allocated": 25,
+        "nodal_officer": "OFF-ZONE3-WARD10",
+        "helpline": "+91-1800-425-1040"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.646700, 17.545000],
+          [78.656700, 17.547000],
+          [78.658700, 17.560000],
+          [78.649700, 17.563000],
+          [78.646700, 17.545000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-011",
+      "properties": {
+        "ward_number": 11,
+        "ward_code": "W-03-011",
+        "ward_name": "Zone_03 Municipal Ward 11",
+        "population_census": 15850,
+        "residential_properties": 3380,
+        "commercial_units": 515,
+        "sanitation_workers_allocated": 26,
+        "nodal_officer": "OFF-ZONE3-WARD11",
+        "helpline": "+91-1800-425-1041"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.647700, 17.546000],
+          [78.657700, 17.548000],
+          [78.659700, 17.561000],
+          [78.650700, 17.564000],
+          [78.647700, 17.546000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-012",
+      "properties": {
+        "ward_number": 12,
+        "ward_code": "W-03-012",
+        "ward_name": "Zone_03 Municipal Ward 12",
+        "population_census": 16200,
+        "residential_properties": 3460,
+        "commercial_units": 530,
+        "sanitation_workers_allocated": 27,
+        "nodal_officer": "OFF-ZONE3-WARD12",
+        "helpline": "+91-1800-425-1042"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.648700, 17.547000],
+          [78.658700, 17.549000],
+          [78.660700, 17.562000],
+          [78.651700, 17.565000],
+          [78.648700, 17.547000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-013",
+      "properties": {
+        "ward_number": 13,
+        "ward_code": "W-03-013",
+        "ward_name": "Zone_03 Municipal Ward 13",
+        "population_census": 16550,
+        "residential_properties": 3540,
+        "commercial_units": 545,
+        "sanitation_workers_allocated": 28,
+        "nodal_officer": "OFF-ZONE3-WARD13",
+        "helpline": "+91-1800-425-1043"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.649700, 17.548000],
+          [78.659700, 17.550000],
+          [78.661700, 17.563000],
+          [78.652700, 17.566000],
+          [78.649700, 17.548000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-014",
+      "properties": {
+        "ward_number": 14,
+        "ward_code": "W-03-014",
+        "ward_name": "Zone_03 Municipal Ward 14",
+        "population_census": 16900,
+        "residential_properties": 3620,
+        "commercial_units": 560,
+        "sanitation_workers_allocated": 29,
+        "nodal_officer": "OFF-ZONE3-WARD14",
+        "helpline": "+91-1800-425-1044"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.650700, 17.549000],
+          [78.660700, 17.551000],
+          [78.662700, 17.564000],
+          [78.653700, 17.567000],
+          [78.650700, 17.549000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-015",
+      "properties": {
+        "ward_number": 15,
+        "ward_code": "W-03-015",
+        "ward_name": "Zone_03 Municipal Ward 15",
+        "population_census": 17250,
+        "residential_properties": 3700,
+        "commercial_units": 575,
+        "sanitation_workers_allocated": 30,
+        "nodal_officer": "OFF-ZONE3-WARD15",
+        "helpline": "+91-1800-425-1045"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.651700, 17.550000],
+          [78.661700, 17.552000],
+          [78.663700, 17.565000],
+          [78.654700, 17.568000],
+          [78.651700, 17.550000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-016",
+      "properties": {
+        "ward_number": 16,
+        "ward_code": "W-03-016",
+        "ward_name": "Zone_03 Municipal Ward 16",
+        "population_census": 17600,
+        "residential_properties": 3780,
+        "commercial_units": 590,
+        "sanitation_workers_allocated": 31,
+        "nodal_officer": "OFF-ZONE3-WARD16",
+        "helpline": "+91-1800-425-1046"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.652700, 17.551000],
+          [78.662700, 17.553000],
+          [78.664700, 17.566000],
+          [78.655700, 17.569000],
+          [78.652700, 17.551000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-017",
+      "properties": {
+        "ward_number": 17,
+        "ward_code": "W-03-017",
+        "ward_name": "Zone_03 Municipal Ward 17",
+        "population_census": 17950,
+        "residential_properties": 3860,
+        "commercial_units": 605,
+        "sanitation_workers_allocated": 32,
+        "nodal_officer": "OFF-ZONE3-WARD17",
+        "helpline": "+91-1800-425-1047"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.653700, 17.552000],
+          [78.663700, 17.554000],
+          [78.665700, 17.567000],
+          [78.656700, 17.570000],
+          [78.653700, 17.552000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-018",
+      "properties": {
+        "ward_number": 18,
+        "ward_code": "W-03-018",
+        "ward_name": "Zone_03 Municipal Ward 18",
+        "population_census": 18300,
+        "residential_properties": 3940,
+        "commercial_units": 620,
+        "sanitation_workers_allocated": 33,
+        "nodal_officer": "OFF-ZONE3-WARD18",
+        "helpline": "+91-1800-425-1048"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.654700, 17.553000],
+          [78.664700, 17.555000],
+          [78.666700, 17.568000],
+          [78.657700, 17.571000],
+          [78.654700, 17.553000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-019",
+      "properties": {
+        "ward_number": 19,
+        "ward_code": "W-03-019",
+        "ward_name": "Zone_03 Municipal Ward 19",
+        "population_census": 18650,
+        "residential_properties": 4020,
+        "commercial_units": 635,
+        "sanitation_workers_allocated": 34,
+        "nodal_officer": "OFF-ZONE3-WARD19",
+        "helpline": "+91-1800-425-1049"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.655700, 17.554000],
+          [78.665700, 17.556000],
+          [78.667700, 17.569000],
+          [78.658700, 17.572000],
+          [78.655700, 17.554000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-020",
+      "properties": {
+        "ward_number": 20,
+        "ward_code": "W-03-020",
+        "ward_name": "Zone_03 Municipal Ward 20",
+        "population_census": 19000,
+        "residential_properties": 4100,
+        "commercial_units": 650,
+        "sanitation_workers_allocated": 15,
+        "nodal_officer": "OFF-ZONE3-WARD20",
+        "helpline": "+91-1800-425-1050"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.656700, 17.555000],
+          [78.666700, 17.557000],
+          [78.668700, 17.570000],
+          [78.659700, 17.573000],
+          [78.656700, 17.555000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-021",
+      "properties": {
+        "ward_number": 21,
+        "ward_code": "W-03-021",
+        "ward_name": "Zone_03 Municipal Ward 21",
+        "population_census": 19350,
+        "residential_properties": 4180,
+        "commercial_units": 665,
+        "sanitation_workers_allocated": 16,
+        "nodal_officer": "OFF-ZONE3-WARD21",
+        "helpline": "+91-1800-425-1051"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.657700, 17.556000],
+          [78.667700, 17.558000],
+          [78.669700, 17.571000],
+          [78.660700, 17.574000],
+          [78.657700, 17.556000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-022",
+      "properties": {
+        "ward_number": 22,
+        "ward_code": "W-03-022",
+        "ward_name": "Zone_03 Municipal Ward 22",
+        "population_census": 19700,
+        "residential_properties": 4260,
+        "commercial_units": 680,
+        "sanitation_workers_allocated": 17,
+        "nodal_officer": "OFF-ZONE3-WARD22",
+        "helpline": "+91-1800-425-1052"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.658700, 17.557000],
+          [78.668700, 17.559000],
+          [78.670700, 17.572000],
+          [78.661700, 17.575000],
+          [78.658700, 17.557000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-023",
+      "properties": {
+        "ward_number": 23,
+        "ward_code": "W-03-023",
+        "ward_name": "Zone_03 Municipal Ward 23",
+        "population_census": 20050,
+        "residential_properties": 4340,
+        "commercial_units": 695,
+        "sanitation_workers_allocated": 18,
+        "nodal_officer": "OFF-ZONE3-WARD23",
+        "helpline": "+91-1800-425-1053"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.659700, 17.558000],
+          [78.669700, 17.560000],
+          [78.671700, 17.573000],
+          [78.662700, 17.576000],
+          [78.659700, 17.558000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-024",
+      "properties": {
+        "ward_number": 24,
+        "ward_code": "W-03-024",
+        "ward_name": "Zone_03 Municipal Ward 24",
+        "population_census": 20400,
+        "residential_properties": 4420,
+        "commercial_units": 710,
+        "sanitation_workers_allocated": 19,
+        "nodal_officer": "OFF-ZONE3-WARD24",
+        "helpline": "+91-1800-425-1054"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.660700, 17.559000],
+          [78.670700, 17.561000],
+          [78.672700, 17.574000],
+          [78.663700, 17.577000],
+          [78.660700, 17.559000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-025",
+      "properties": {
+        "ward_number": 25,
+        "ward_code": "W-03-025",
+        "ward_name": "Zone_03 Municipal Ward 25",
+        "population_census": 20750,
+        "residential_properties": 4500,
+        "commercial_units": 725,
+        "sanitation_workers_allocated": 20,
+        "nodal_officer": "OFF-ZONE3-WARD25",
+        "helpline": "+91-1800-425-1055"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.661700, 17.560000],
+          [78.671700, 17.562000],
+          [78.673700, 17.575000],
+          [78.664700, 17.578000],
+          [78.661700, 17.560000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-026",
+      "properties": {
+        "ward_number": 26,
+        "ward_code": "W-03-026",
+        "ward_name": "Zone_03 Municipal Ward 26",
+        "population_census": 21100,
+        "residential_properties": 4580,
+        "commercial_units": 740,
+        "sanitation_workers_allocated": 21,
+        "nodal_officer": "OFF-ZONE3-WARD26",
+        "helpline": "+91-1800-425-1056"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.662700, 17.561000],
+          [78.672700, 17.563000],
+          [78.674700, 17.576000],
+          [78.665700, 17.579000],
+          [78.662700, 17.561000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-027",
+      "properties": {
+        "ward_number": 27,
+        "ward_code": "W-03-027",
+        "ward_name": "Zone_03 Municipal Ward 27",
+        "population_census": 21450,
+        "residential_properties": 4660,
+        "commercial_units": 755,
+        "sanitation_workers_allocated": 22,
+        "nodal_officer": "OFF-ZONE3-WARD27",
+        "helpline": "+91-1800-425-1057"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.663700, 17.562000],
+          [78.673700, 17.564000],
+          [78.675700, 17.577000],
+          [78.666700, 17.580000],
+          [78.663700, 17.562000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-028",
+      "properties": {
+        "ward_number": 28,
+        "ward_code": "W-03-028",
+        "ward_name": "Zone_03 Municipal Ward 28",
+        "population_census": 21800,
+        "residential_properties": 4740,
+        "commercial_units": 770,
+        "sanitation_workers_allocated": 23,
+        "nodal_officer": "OFF-ZONE3-WARD28",
+        "helpline": "+91-1800-425-1058"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.664700, 17.563000],
+          [78.674700, 17.565000],
+          [78.676700, 17.578000],
+          [78.667700, 17.581000],
+          [78.664700, 17.563000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-029",
+      "properties": {
+        "ward_number": 29,
+        "ward_code": "W-03-029",
+        "ward_name": "Zone_03 Municipal Ward 29",
+        "population_census": 22150,
+        "residential_properties": 4820,
+        "commercial_units": 785,
+        "sanitation_workers_allocated": 24,
+        "nodal_officer": "OFF-ZONE3-WARD29",
+        "helpline": "+91-1800-425-1059"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.665700, 17.564000],
+          [78.675700, 17.566000],
+          [78.677700, 17.579000],
+          [78.668700, 17.582000],
+          [78.665700, 17.564000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-030",
+      "properties": {
+        "ward_number": 30,
+        "ward_code": "W-03-030",
+        "ward_name": "Zone_03 Municipal Ward 30",
+        "population_census": 22500,
+        "residential_properties": 4900,
+        "commercial_units": 800,
+        "sanitation_workers_allocated": 25,
+        "nodal_officer": "OFF-ZONE3-WARD30",
+        "helpline": "+91-1800-425-1060"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.666700, 17.565000],
+          [78.676700, 17.567000],
+          [78.678700, 17.580000],
+          [78.669700, 17.583000],
+          [78.666700, 17.565000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-031",
+      "properties": {
+        "ward_number": 31,
+        "ward_code": "W-03-031",
+        "ward_name": "Zone_03 Municipal Ward 31",
+        "population_census": 22850,
+        "residential_properties": 4980,
+        "commercial_units": 815,
+        "sanitation_workers_allocated": 26,
+        "nodal_officer": "OFF-ZONE3-WARD31",
+        "helpline": "+91-1800-425-1061"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.667700, 17.566000],
+          [78.677700, 17.568000],
+          [78.679700, 17.581000],
+          [78.670700, 17.584000],
+          [78.667700, 17.566000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-032",
+      "properties": {
+        "ward_number": 32,
+        "ward_code": "W-03-032",
+        "ward_name": "Zone_03 Municipal Ward 32",
+        "population_census": 23200,
+        "residential_properties": 5060,
+        "commercial_units": 830,
+        "sanitation_workers_allocated": 27,
+        "nodal_officer": "OFF-ZONE3-WARD32",
+        "helpline": "+91-1800-425-1062"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.668700, 17.567000],
+          [78.678700, 17.569000],
+          [78.680700, 17.582000],
+          [78.671700, 17.585000],
+          [78.668700, 17.567000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-033",
+      "properties": {
+        "ward_number": 33,
+        "ward_code": "W-03-033",
+        "ward_name": "Zone_03 Municipal Ward 33",
+        "population_census": 23550,
+        "residential_properties": 5140,
+        "commercial_units": 845,
+        "sanitation_workers_allocated": 28,
+        "nodal_officer": "OFF-ZONE3-WARD33",
+        "helpline": "+91-1800-425-1063"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.669700, 17.568000],
+          [78.679700, 17.570000],
+          [78.681700, 17.583000],
+          [78.672700, 17.586000],
+          [78.669700, 17.568000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-034",
+      "properties": {
+        "ward_number": 34,
+        "ward_code": "W-03-034",
+        "ward_name": "Zone_03 Municipal Ward 34",
+        "population_census": 23900,
+        "residential_properties": 5220,
+        "commercial_units": 860,
+        "sanitation_workers_allocated": 29,
+        "nodal_officer": "OFF-ZONE3-WARD34",
+        "helpline": "+91-1800-425-1064"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.670700, 17.569000],
+          [78.680700, 17.571000],
+          [78.682700, 17.584000],
+          [78.673700, 17.587000],
+          [78.670700, 17.569000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-035",
+      "properties": {
+        "ward_number": 35,
+        "ward_code": "W-03-035",
+        "ward_name": "Zone_03 Municipal Ward 35",
+        "population_census": 24250,
+        "residential_properties": 5300,
+        "commercial_units": 875,
+        "sanitation_workers_allocated": 30,
+        "nodal_officer": "OFF-ZONE3-WARD35",
+        "helpline": "+91-1800-425-1065"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.671700, 17.570000],
+          [78.681700, 17.572000],
+          [78.683700, 17.585000],
+          [78.674700, 17.588000],
+          [78.671700, 17.570000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-036",
+      "properties": {
+        "ward_number": 36,
+        "ward_code": "W-03-036",
+        "ward_name": "Zone_03 Municipal Ward 36",
+        "population_census": 24600,
+        "residential_properties": 5380,
+        "commercial_units": 890,
+        "sanitation_workers_allocated": 31,
+        "nodal_officer": "OFF-ZONE3-WARD36",
+        "helpline": "+91-1800-425-1066"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.672700, 17.571000],
+          [78.682700, 17.573000],
+          [78.684700, 17.586000],
+          [78.675700, 17.589000],
+          [78.672700, 17.571000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-037",
+      "properties": {
+        "ward_number": 37,
+        "ward_code": "W-03-037",
+        "ward_name": "Zone_03 Municipal Ward 37",
+        "population_census": 24950,
+        "residential_properties": 5460,
+        "commercial_units": 905,
+        "sanitation_workers_allocated": 32,
+        "nodal_officer": "OFF-ZONE3-WARD37",
+        "helpline": "+91-1800-425-1067"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.673700, 17.572000],
+          [78.683700, 17.574000],
+          [78.685700, 17.587000],
+          [78.676700, 17.590000],
+          [78.673700, 17.572000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-038",
+      "properties": {
+        "ward_number": 38,
+        "ward_code": "W-03-038",
+        "ward_name": "Zone_03 Municipal Ward 38",
+        "population_census": 25300,
+        "residential_properties": 5540,
+        "commercial_units": 920,
+        "sanitation_workers_allocated": 33,
+        "nodal_officer": "OFF-ZONE3-WARD38",
+        "helpline": "+91-1800-425-1068"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.674700, 17.573000],
+          [78.684700, 17.575000],
+          [78.686700, 17.588000],
+          [78.677700, 17.591000],
+          [78.674700, 17.573000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-039",
+      "properties": {
+        "ward_number": 39,
+        "ward_code": "W-03-039",
+        "ward_name": "Zone_03 Municipal Ward 39",
+        "population_census": 25650,
+        "residential_properties": 5620,
+        "commercial_units": 935,
+        "sanitation_workers_allocated": 34,
+        "nodal_officer": "OFF-ZONE3-WARD39",
+        "helpline": "+91-1800-425-1069"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.675700, 17.574000],
+          [78.685700, 17.576000],
+          [78.687700, 17.589000],
+          [78.678700, 17.592000],
+          [78.675700, 17.574000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-040",
+      "properties": {
+        "ward_number": 40,
+        "ward_code": "W-03-040",
+        "ward_name": "Zone_03 Municipal Ward 40",
+        "population_census": 26000,
+        "residential_properties": 5700,
+        "commercial_units": 950,
+        "sanitation_workers_allocated": 15,
+        "nodal_officer": "OFF-ZONE3-WARD40",
+        "helpline": "+91-1800-425-1070"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.676700, 17.575000],
+          [78.686700, 17.577000],
+          [78.688700, 17.590000],
+          [78.679700, 17.593000],
+          [78.676700, 17.575000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-041",
+      "properties": {
+        "ward_number": 41,
+        "ward_code": "W-03-041",
+        "ward_name": "Zone_03 Municipal Ward 41",
+        "population_census": 26350,
+        "residential_properties": 5780,
+        "commercial_units": 965,
+        "sanitation_workers_allocated": 16,
+        "nodal_officer": "OFF-ZONE3-WARD41",
+        "helpline": "+91-1800-425-1071"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.677700, 17.576000],
+          [78.687700, 17.578000],
+          [78.689700, 17.591000],
+          [78.680700, 17.594000],
+          [78.677700, 17.576000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-042",
+      "properties": {
+        "ward_number": 42,
+        "ward_code": "W-03-042",
+        "ward_name": "Zone_03 Municipal Ward 42",
+        "population_census": 26700,
+        "residential_properties": 5860,
+        "commercial_units": 980,
+        "sanitation_workers_allocated": 17,
+        "nodal_officer": "OFF-ZONE3-WARD42",
+        "helpline": "+91-1800-425-1072"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.678700, 17.577000],
+          [78.688700, 17.579000],
+          [78.690700, 17.592000],
+          [78.681700, 17.595000],
+          [78.678700, 17.577000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-043",
+      "properties": {
+        "ward_number": 43,
+        "ward_code": "W-03-043",
+        "ward_name": "Zone_03 Municipal Ward 43",
+        "population_census": 27050,
+        "residential_properties": 5940,
+        "commercial_units": 995,
+        "sanitation_workers_allocated": 18,
+        "nodal_officer": "OFF-ZONE3-WARD43",
+        "helpline": "+91-1800-425-1073"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.679700, 17.578000],
+          [78.689700, 17.580000],
+          [78.691700, 17.593000],
+          [78.682700, 17.596000],
+          [78.679700, 17.578000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-044",
+      "properties": {
+        "ward_number": 44,
+        "ward_code": "W-03-044",
+        "ward_name": "Zone_03 Municipal Ward 44",
+        "population_census": 27400,
+        "residential_properties": 6020,
+        "commercial_units": 1010,
+        "sanitation_workers_allocated": 19,
+        "nodal_officer": "OFF-ZONE3-WARD44",
+        "helpline": "+91-1800-425-1074"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.680700, 17.579000],
+          [78.690700, 17.581000],
+          [78.692700, 17.594000],
+          [78.683700, 17.597000],
+          [78.680700, 17.579000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-045",
+      "properties": {
+        "ward_number": 45,
+        "ward_code": "W-03-045",
+        "ward_name": "Zone_03 Municipal Ward 45",
+        "population_census": 27750,
+        "residential_properties": 6100,
+        "commercial_units": 1025,
+        "sanitation_workers_allocated": 20,
+        "nodal_officer": "OFF-ZONE3-WARD45",
+        "helpline": "+91-1800-425-1075"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.681700, 17.580000],
+          [78.691700, 17.582000],
+          [78.693700, 17.595000],
+          [78.684700, 17.598000],
+          [78.681700, 17.580000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-046",
+      "properties": {
+        "ward_number": 46,
+        "ward_code": "W-03-046",
+        "ward_name": "Zone_03 Municipal Ward 46",
+        "population_census": 28100,
+        "residential_properties": 6180,
+        "commercial_units": 1040,
+        "sanitation_workers_allocated": 21,
+        "nodal_officer": "OFF-ZONE3-WARD46",
+        "helpline": "+91-1800-425-1076"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.682700, 17.581000],
+          [78.692700, 17.583000],
+          [78.694700, 17.596000],
+          [78.685700, 17.599000],
+          [78.682700, 17.581000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-047",
+      "properties": {
+        "ward_number": 47,
+        "ward_code": "W-03-047",
+        "ward_name": "Zone_03 Municipal Ward 47",
+        "population_census": 28450,
+        "residential_properties": 6260,
+        "commercial_units": 1055,
+        "sanitation_workers_allocated": 22,
+        "nodal_officer": "OFF-ZONE3-WARD47",
+        "helpline": "+91-1800-425-1077"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.683700, 17.582000],
+          [78.693700, 17.584000],
+          [78.695700, 17.597000],
+          [78.686700, 17.600000],
+          [78.683700, 17.582000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-048",
+      "properties": {
+        "ward_number": 48,
+        "ward_code": "W-03-048",
+        "ward_name": "Zone_03 Municipal Ward 48",
+        "population_census": 28800,
+        "residential_properties": 6340,
+        "commercial_units": 1070,
+        "sanitation_workers_allocated": 23,
+        "nodal_officer": "OFF-ZONE3-WARD48",
+        "helpline": "+91-1800-425-1078"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.684700, 17.583000],
+          [78.694700, 17.585000],
+          [78.696700, 17.598000],
+          [78.687700, 17.601000],
+          [78.684700, 17.583000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-049",
+      "properties": {
+        "ward_number": 49,
+        "ward_code": "W-03-049",
+        "ward_name": "Zone_03 Municipal Ward 49",
+        "population_census": 29150,
+        "residential_properties": 6420,
+        "commercial_units": 1085,
+        "sanitation_workers_allocated": 24,
+        "nodal_officer": "OFF-ZONE3-WARD49",
+        "helpline": "+91-1800-425-1079"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.685700, 17.584000],
+          [78.695700, 17.586000],
+          [78.697700, 17.599000],
+          [78.688700, 17.602000],
+          [78.685700, 17.584000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-050",
+      "properties": {
+        "ward_number": 50,
+        "ward_code": "W-03-050",
+        "ward_name": "Zone_03 Municipal Ward 50",
+        "population_census": 29500,
+        "residential_properties": 6500,
+        "commercial_units": 1100,
+        "sanitation_workers_allocated": 25,
+        "nodal_officer": "OFF-ZONE3-WARD50",
+        "helpline": "+91-1800-425-1080"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.686700, 17.585000],
+          [78.696700, 17.587000],
+          [78.698700, 17.600000],
+          [78.689700, 17.603000],
+          [78.686700, 17.585000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-051",
+      "properties": {
+        "ward_number": 51,
+        "ward_code": "W-03-051",
+        "ward_name": "Zone_03 Municipal Ward 51",
+        "population_census": 29850,
+        "residential_properties": 6580,
+        "commercial_units": 1115,
+        "sanitation_workers_allocated": 26,
+        "nodal_officer": "OFF-ZONE3-WARD51",
+        "helpline": "+91-1800-425-1081"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.687700, 17.586000],
+          [78.697700, 17.588000],
+          [78.699700, 17.601000],
+          [78.690700, 17.604000],
+          [78.687700, 17.586000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-052",
+      "properties": {
+        "ward_number": 52,
+        "ward_code": "W-03-052",
+        "ward_name": "Zone_03 Municipal Ward 52",
+        "population_census": 30200,
+        "residential_properties": 6660,
+        "commercial_units": 1130,
+        "sanitation_workers_allocated": 27,
+        "nodal_officer": "OFF-ZONE3-WARD52",
+        "helpline": "+91-1800-425-1082"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.688700, 17.587000],
+          [78.698700, 17.589000],
+          [78.700700, 17.602000],
+          [78.691700, 17.605000],
+          [78.688700, 17.587000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-053",
+      "properties": {
+        "ward_number": 53,
+        "ward_code": "W-03-053",
+        "ward_name": "Zone_03 Municipal Ward 53",
+        "population_census": 30550,
+        "residential_properties": 6740,
+        "commercial_units": 1145,
+        "sanitation_workers_allocated": 28,
+        "nodal_officer": "OFF-ZONE3-WARD53",
+        "helpline": "+91-1800-425-1083"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.689700, 17.588000],
+          [78.699700, 17.590000],
+          [78.701700, 17.603000],
+          [78.692700, 17.606000],
+          [78.689700, 17.588000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-054",
+      "properties": {
+        "ward_number": 54,
+        "ward_code": "W-03-054",
+        "ward_name": "Zone_03 Municipal Ward 54",
+        "population_census": 30900,
+        "residential_properties": 6820,
+        "commercial_units": 1160,
+        "sanitation_workers_allocated": 29,
+        "nodal_officer": "OFF-ZONE3-WARD54",
+        "helpline": "+91-1800-425-1084"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.690700, 17.589000],
+          [78.700700, 17.591000],
+          [78.702700, 17.604000],
+          [78.693700, 17.607000],
+          [78.690700, 17.589000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-055",
+      "properties": {
+        "ward_number": 55,
+        "ward_code": "W-03-055",
+        "ward_name": "Zone_03 Municipal Ward 55",
+        "population_census": 31250,
+        "residential_properties": 6900,
+        "commercial_units": 1175,
+        "sanitation_workers_allocated": 30,
+        "nodal_officer": "OFF-ZONE3-WARD55",
+        "helpline": "+91-1800-425-1085"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.691700, 17.590000],
+          [78.701700, 17.592000],
+          [78.703700, 17.605000],
+          [78.694700, 17.608000],
+          [78.691700, 17.590000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-056",
+      "properties": {
+        "ward_number": 56,
+        "ward_code": "W-03-056",
+        "ward_name": "Zone_03 Municipal Ward 56",
+        "population_census": 31600,
+        "residential_properties": 6980,
+        "commercial_units": 1190,
+        "sanitation_workers_allocated": 31,
+        "nodal_officer": "OFF-ZONE3-WARD56",
+        "helpline": "+91-1800-425-1086"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.692700, 17.591000],
+          [78.702700, 17.593000],
+          [78.704700, 17.606000],
+          [78.695700, 17.609000],
+          [78.692700, 17.591000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-057",
+      "properties": {
+        "ward_number": 57,
+        "ward_code": "W-03-057",
+        "ward_name": "Zone_03 Municipal Ward 57",
+        "population_census": 31950,
+        "residential_properties": 7060,
+        "commercial_units": 1205,
+        "sanitation_workers_allocated": 32,
+        "nodal_officer": "OFF-ZONE3-WARD57",
+        "helpline": "+91-1800-425-1087"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.693700, 17.592000],
+          [78.703700, 17.594000],
+          [78.705700, 17.607000],
+          [78.696700, 17.610000],
+          [78.693700, 17.592000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-058",
+      "properties": {
+        "ward_number": 58,
+        "ward_code": "W-03-058",
+        "ward_name": "Zone_03 Municipal Ward 58",
+        "population_census": 32300,
+        "residential_properties": 7140,
+        "commercial_units": 1220,
+        "sanitation_workers_allocated": 33,
+        "nodal_officer": "OFF-ZONE3-WARD58",
+        "helpline": "+91-1800-425-1088"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.694700, 17.593000],
+          [78.704700, 17.595000],
+          [78.706700, 17.608000],
+          [78.697700, 17.611000],
+          [78.694700, 17.593000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-059",
+      "properties": {
+        "ward_number": 59,
+        "ward_code": "W-03-059",
+        "ward_name": "Zone_03 Municipal Ward 59",
+        "population_census": 32650,
+        "residential_properties": 7220,
+        "commercial_units": 1235,
+        "sanitation_workers_allocated": 34,
+        "nodal_officer": "OFF-ZONE3-WARD59",
+        "helpline": "+91-1800-425-1089"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.695700, 17.594000],
+          [78.705700, 17.596000],
+          [78.707700, 17.609000],
+          [78.698700, 17.612000],
+          [78.695700, 17.594000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-060",
+      "properties": {
+        "ward_number": 60,
+        "ward_code": "W-03-060",
+        "ward_name": "Zone_03 Municipal Ward 60",
+        "population_census": 33000,
+        "residential_properties": 7300,
+        "commercial_units": 1250,
+        "sanitation_workers_allocated": 15,
+        "nodal_officer": "OFF-ZONE3-WARD60",
+        "helpline": "+91-1800-425-1090"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.696700, 17.595000],
+          [78.706700, 17.597000],
+          [78.708700, 17.610000],
+          [78.699700, 17.613000],
+          [78.696700, 17.595000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-061",
+      "properties": {
+        "ward_number": 61,
+        "ward_code": "W-03-061",
+        "ward_name": "Zone_03 Municipal Ward 61",
+        "population_census": 33350,
+        "residential_properties": 7380,
+        "commercial_units": 1265,
+        "sanitation_workers_allocated": 16,
+        "nodal_officer": "OFF-ZONE3-WARD61",
+        "helpline": "+91-1800-425-1091"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.697700, 17.596000],
+          [78.707700, 17.598000],
+          [78.709700, 17.611000],
+          [78.700700, 17.614000],
+          [78.697700, 17.596000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-062",
+      "properties": {
+        "ward_number": 62,
+        "ward_code": "W-03-062",
+        "ward_name": "Zone_03 Municipal Ward 62",
+        "population_census": 33700,
+        "residential_properties": 7460,
+        "commercial_units": 1280,
+        "sanitation_workers_allocated": 17,
+        "nodal_officer": "OFF-ZONE3-WARD62",
+        "helpline": "+91-1800-425-1092"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.698700, 17.597000],
+          [78.708700, 17.599000],
+          [78.710700, 17.612000],
+          [78.701700, 17.615000],
+          [78.698700, 17.597000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-063",
+      "properties": {
+        "ward_number": 63,
+        "ward_code": "W-03-063",
+        "ward_name": "Zone_03 Municipal Ward 63",
+        "population_census": 34050,
+        "residential_properties": 7540,
+        "commercial_units": 1295,
+        "sanitation_workers_allocated": 18,
+        "nodal_officer": "OFF-ZONE3-WARD63",
+        "helpline": "+91-1800-425-1093"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.699700, 17.598000],
+          [78.709700, 17.600000],
+          [78.711700, 17.613000],
+          [78.702700, 17.616000],
+          [78.699700, 17.598000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-064",
+      "properties": {
+        "ward_number": 64,
+        "ward_code": "W-03-064",
+        "ward_name": "Zone_03 Municipal Ward 64",
+        "population_census": 34400,
+        "residential_properties": 7620,
+        "commercial_units": 1310,
+        "sanitation_workers_allocated": 19,
+        "nodal_officer": "OFF-ZONE3-WARD64",
+        "helpline": "+91-1800-425-1094"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.700700, 17.599000],
+          [78.710700, 17.601000],
+          [78.712700, 17.614000],
+          [78.703700, 17.617000],
+          [78.700700, 17.599000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-065",
+      "properties": {
+        "ward_number": 65,
+        "ward_code": "W-03-065",
+        "ward_name": "Zone_03 Municipal Ward 65",
+        "population_census": 34750,
+        "residential_properties": 7700,
+        "commercial_units": 1325,
+        "sanitation_workers_allocated": 20,
+        "nodal_officer": "OFF-ZONE3-WARD65",
+        "helpline": "+91-1800-425-1095"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.701700, 17.600000],
+          [78.711700, 17.602000],
+          [78.713700, 17.615000],
+          [78.704700, 17.618000],
+          [78.701700, 17.600000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-066",
+      "properties": {
+        "ward_number": 66,
+        "ward_code": "W-03-066",
+        "ward_name": "Zone_03 Municipal Ward 66",
+        "population_census": 35100,
+        "residential_properties": 7780,
+        "commercial_units": 1340,
+        "sanitation_workers_allocated": 21,
+        "nodal_officer": "OFF-ZONE3-WARD66",
+        "helpline": "+91-1800-425-1096"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.702700, 17.601000],
+          [78.712700, 17.603000],
+          [78.714700, 17.616000],
+          [78.705700, 17.619000],
+          [78.702700, 17.601000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-067",
+      "properties": {
+        "ward_number": 67,
+        "ward_code": "W-03-067",
+        "ward_name": "Zone_03 Municipal Ward 67",
+        "population_census": 35450,
+        "residential_properties": 7860,
+        "commercial_units": 1355,
+        "sanitation_workers_allocated": 22,
+        "nodal_officer": "OFF-ZONE3-WARD67",
+        "helpline": "+91-1800-425-1097"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.703700, 17.602000],
+          [78.713700, 17.604000],
+          [78.715700, 17.617000],
+          [78.706700, 17.620000],
+          [78.703700, 17.602000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-068",
+      "properties": {
+        "ward_number": 68,
+        "ward_code": "W-03-068",
+        "ward_name": "Zone_03 Municipal Ward 68",
+        "population_census": 35800,
+        "residential_properties": 7940,
+        "commercial_units": 1370,
+        "sanitation_workers_allocated": 23,
+        "nodal_officer": "OFF-ZONE3-WARD68",
+        "helpline": "+91-1800-425-1098"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.704700, 17.603000],
+          [78.714700, 17.605000],
+          [78.716700, 17.618000],
+          [78.707700, 17.621000],
+          [78.704700, 17.603000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-069",
+      "properties": {
+        "ward_number": 69,
+        "ward_code": "W-03-069",
+        "ward_name": "Zone_03 Municipal Ward 69",
+        "population_census": 36150,
+        "residential_properties": 8020,
+        "commercial_units": 1385,
+        "sanitation_workers_allocated": 24,
+        "nodal_officer": "OFF-ZONE3-WARD69",
+        "helpline": "+91-1800-425-1099"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.705700, 17.604000],
+          [78.715700, 17.606000],
+          [78.717700, 17.619000],
+          [78.708700, 17.622000],
+          [78.705700, 17.604000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-070",
+      "properties": {
+        "ward_number": 70,
+        "ward_code": "W-03-070",
+        "ward_name": "Zone_03 Municipal Ward 70",
+        "population_census": 36500,
+        "residential_properties": 8100,
+        "commercial_units": 1400,
+        "sanitation_workers_allocated": 25,
+        "nodal_officer": "OFF-ZONE3-WARD70",
+        "helpline": "+91-1800-425-1100"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.706700, 17.605000],
+          [78.716700, 17.607000],
+          [78.718700, 17.620000],
+          [78.709700, 17.623000],
+          [78.706700, 17.605000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-071",
+      "properties": {
+        "ward_number": 71,
+        "ward_code": "W-03-071",
+        "ward_name": "Zone_03 Municipal Ward 71",
+        "population_census": 36850,
+        "residential_properties": 8180,
+        "commercial_units": 1415,
+        "sanitation_workers_allocated": 26,
+        "nodal_officer": "OFF-ZONE3-WARD71",
+        "helpline": "+91-1800-425-1101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.707700, 17.606000],
+          [78.717700, 17.608000],
+          [78.719700, 17.621000],
+          [78.710700, 17.624000],
+          [78.707700, 17.606000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-072",
+      "properties": {
+        "ward_number": 72,
+        "ward_code": "W-03-072",
+        "ward_name": "Zone_03 Municipal Ward 72",
+        "population_census": 37200,
+        "residential_properties": 8260,
+        "commercial_units": 1430,
+        "sanitation_workers_allocated": 27,
+        "nodal_officer": "OFF-ZONE3-WARD72",
+        "helpline": "+91-1800-425-1102"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.708700, 17.607000],
+          [78.718700, 17.609000],
+          [78.720700, 17.622000],
+          [78.711700, 17.625000],
+          [78.708700, 17.607000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-073",
+      "properties": {
+        "ward_number": 73,
+        "ward_code": "W-03-073",
+        "ward_name": "Zone_03 Municipal Ward 73",
+        "population_census": 37550,
+        "residential_properties": 8340,
+        "commercial_units": 1445,
+        "sanitation_workers_allocated": 28,
+        "nodal_officer": "OFF-ZONE3-WARD73",
+        "helpline": "+91-1800-425-1103"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.709700, 17.608000],
+          [78.719700, 17.610000],
+          [78.721700, 17.623000],
+          [78.712700, 17.626000],
+          [78.709700, 17.608000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-074",
+      "properties": {
+        "ward_number": 74,
+        "ward_code": "W-03-074",
+        "ward_name": "Zone_03 Municipal Ward 74",
+        "population_census": 37900,
+        "residential_properties": 8420,
+        "commercial_units": 1460,
+        "sanitation_workers_allocated": 29,
+        "nodal_officer": "OFF-ZONE3-WARD74",
+        "helpline": "+91-1800-425-1104"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.710700, 17.609000],
+          [78.720700, 17.611000],
+          [78.722700, 17.624000],
+          [78.713700, 17.627000],
+          [78.710700, 17.609000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-075",
+      "properties": {
+        "ward_number": 75,
+        "ward_code": "W-03-075",
+        "ward_name": "Zone_03 Municipal Ward 75",
+        "population_census": 38250,
+        "residential_properties": 8500,
+        "commercial_units": 1475,
+        "sanitation_workers_allocated": 30,
+        "nodal_officer": "OFF-ZONE3-WARD75",
+        "helpline": "+91-1800-425-1105"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.711700, 17.610000],
+          [78.721700, 17.612000],
+          [78.723700, 17.625000],
+          [78.714700, 17.628000],
+          [78.711700, 17.610000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-076",
+      "properties": {
+        "ward_number": 76,
+        "ward_code": "W-03-076",
+        "ward_name": "Zone_03 Municipal Ward 76",
+        "population_census": 38600,
+        "residential_properties": 8580,
+        "commercial_units": 1490,
+        "sanitation_workers_allocated": 31,
+        "nodal_officer": "OFF-ZONE3-WARD76",
+        "helpline": "+91-1800-425-1106"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.712700, 17.611000],
+          [78.722700, 17.613000],
+          [78.724700, 17.626000],
+          [78.715700, 17.629000],
+          [78.712700, 17.611000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-077",
+      "properties": {
+        "ward_number": 77,
+        "ward_code": "W-03-077",
+        "ward_name": "Zone_03 Municipal Ward 77",
+        "population_census": 38950,
+        "residential_properties": 8660,
+        "commercial_units": 1505,
+        "sanitation_workers_allocated": 32,
+        "nodal_officer": "OFF-ZONE3-WARD77",
+        "helpline": "+91-1800-425-1107"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.713700, 17.612000],
+          [78.723700, 17.614000],
+          [78.725700, 17.627000],
+          [78.716700, 17.630000],
+          [78.713700, 17.612000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-078",
+      "properties": {
+        "ward_number": 78,
+        "ward_code": "W-03-078",
+        "ward_name": "Zone_03 Municipal Ward 78",
+        "population_census": 39300,
+        "residential_properties": 8740,
+        "commercial_units": 1520,
+        "sanitation_workers_allocated": 33,
+        "nodal_officer": "OFF-ZONE3-WARD78",
+        "helpline": "+91-1800-425-1108"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.714700, 17.613000],
+          [78.724700, 17.615000],
+          [78.726700, 17.628000],
+          [78.717700, 17.631000],
+          [78.714700, 17.613000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-079",
+      "properties": {
+        "ward_number": 79,
+        "ward_code": "W-03-079",
+        "ward_name": "Zone_03 Municipal Ward 79",
+        "population_census": 39650,
+        "residential_properties": 8820,
+        "commercial_units": 1535,
+        "sanitation_workers_allocated": 34,
+        "nodal_officer": "OFF-ZONE3-WARD79",
+        "helpline": "+91-1800-425-1109"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.715700, 17.614000],
+          [78.725700, 17.616000],
+          [78.727700, 17.629000],
+          [78.718700, 17.632000],
+          [78.715700, 17.614000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-080",
+      "properties": {
+        "ward_number": 80,
+        "ward_code": "W-03-080",
+        "ward_name": "Zone_03 Municipal Ward 80",
+        "population_census": 40000,
+        "residential_properties": 8900,
+        "commercial_units": 1550,
+        "sanitation_workers_allocated": 15,
+        "nodal_officer": "OFF-ZONE3-WARD80",
+        "helpline": "+91-1800-425-1110"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.716700, 17.615000],
+          [78.726700, 17.617000],
+          [78.728700, 17.630000],
+          [78.719700, 17.633000],
+          [78.716700, 17.615000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-081",
+      "properties": {
+        "ward_number": 81,
+        "ward_code": "W-03-081",
+        "ward_name": "Zone_03 Municipal Ward 81",
+        "population_census": 40350,
+        "residential_properties": 8980,
+        "commercial_units": 1565,
+        "sanitation_workers_allocated": 16,
+        "nodal_officer": "OFF-ZONE3-WARD81",
+        "helpline": "+91-1800-425-1111"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.717700, 17.616000],
+          [78.727700, 17.618000],
+          [78.729700, 17.631000],
+          [78.720700, 17.634000],
+          [78.717700, 17.616000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-082",
+      "properties": {
+        "ward_number": 82,
+        "ward_code": "W-03-082",
+        "ward_name": "Zone_03 Municipal Ward 82",
+        "population_census": 40700,
+        "residential_properties": 9060,
+        "commercial_units": 1580,
+        "sanitation_workers_allocated": 17,
+        "nodal_officer": "OFF-ZONE3-WARD82",
+        "helpline": "+91-1800-425-1112"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.718700, 17.617000],
+          [78.728700, 17.619000],
+          [78.730700, 17.632000],
+          [78.721700, 17.635000],
+          [78.718700, 17.617000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-083",
+      "properties": {
+        "ward_number": 83,
+        "ward_code": "W-03-083",
+        "ward_name": "Zone_03 Municipal Ward 83",
+        "population_census": 41050,
+        "residential_properties": 9140,
+        "commercial_units": 1595,
+        "sanitation_workers_allocated": 18,
+        "nodal_officer": "OFF-ZONE3-WARD83",
+        "helpline": "+91-1800-425-1113"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.719700, 17.618000],
+          [78.729700, 17.620000],
+          [78.731700, 17.633000],
+          [78.722700, 17.636000],
+          [78.719700, 17.618000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-084",
+      "properties": {
+        "ward_number": 84,
+        "ward_code": "W-03-084",
+        "ward_name": "Zone_03 Municipal Ward 84",
+        "population_census": 41400,
+        "residential_properties": 9220,
+        "commercial_units": 1610,
+        "sanitation_workers_allocated": 19,
+        "nodal_officer": "OFF-ZONE3-WARD84",
+        "helpline": "+91-1800-425-1114"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.720700, 17.619000],
+          [78.730700, 17.621000],
+          [78.732700, 17.634000],
+          [78.723700, 17.637000],
+          [78.720700, 17.619000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-085",
+      "properties": {
+        "ward_number": 85,
+        "ward_code": "W-03-085",
+        "ward_name": "Zone_03 Municipal Ward 85",
+        "population_census": 41750,
+        "residential_properties": 9300,
+        "commercial_units": 1625,
+        "sanitation_workers_allocated": 20,
+        "nodal_officer": "OFF-ZONE3-WARD85",
+        "helpline": "+91-1800-425-1115"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.721700, 17.620000],
+          [78.731700, 17.622000],
+          [78.733700, 17.635000],
+          [78.724700, 17.638000],
+          [78.721700, 17.620000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-086",
+      "properties": {
+        "ward_number": 86,
+        "ward_code": "W-03-086",
+        "ward_name": "Zone_03 Municipal Ward 86",
+        "population_census": 42100,
+        "residential_properties": 9380,
+        "commercial_units": 1640,
+        "sanitation_workers_allocated": 21,
+        "nodal_officer": "OFF-ZONE3-WARD86",
+        "helpline": "+91-1800-425-1116"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.722700, 17.621000],
+          [78.732700, 17.623000],
+          [78.734700, 17.636000],
+          [78.725700, 17.639000],
+          [78.722700, 17.621000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-087",
+      "properties": {
+        "ward_number": 87,
+        "ward_code": "W-03-087",
+        "ward_name": "Zone_03 Municipal Ward 87",
+        "population_census": 42450,
+        "residential_properties": 9460,
+        "commercial_units": 1655,
+        "sanitation_workers_allocated": 22,
+        "nodal_officer": "OFF-ZONE3-WARD87",
+        "helpline": "+91-1800-425-1117"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.723700, 17.622000],
+          [78.733700, 17.624000],
+          [78.735700, 17.637000],
+          [78.726700, 17.640000],
+          [78.723700, 17.622000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-088",
+      "properties": {
+        "ward_number": 88,
+        "ward_code": "W-03-088",
+        "ward_name": "Zone_03 Municipal Ward 88",
+        "population_census": 42800,
+        "residential_properties": 9540,
+        "commercial_units": 1670,
+        "sanitation_workers_allocated": 23,
+        "nodal_officer": "OFF-ZONE3-WARD88",
+        "helpline": "+91-1800-425-1118"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.724700, 17.623000],
+          [78.734700, 17.625000],
+          [78.736700, 17.638000],
+          [78.727700, 17.641000],
+          [78.724700, 17.623000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-089",
+      "properties": {
+        "ward_number": 89,
+        "ward_code": "W-03-089",
+        "ward_name": "Zone_03 Municipal Ward 89",
+        "population_census": 43150,
+        "residential_properties": 9620,
+        "commercial_units": 1685,
+        "sanitation_workers_allocated": 24,
+        "nodal_officer": "OFF-ZONE3-WARD89",
+        "helpline": "+91-1800-425-1119"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.725700, 17.624000],
+          [78.735700, 17.626000],
+          [78.737700, 17.639000],
+          [78.728700, 17.642000],
+          [78.725700, 17.624000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-090",
+      "properties": {
+        "ward_number": 90,
+        "ward_code": "W-03-090",
+        "ward_name": "Zone_03 Municipal Ward 90",
+        "population_census": 43500,
+        "residential_properties": 9700,
+        "commercial_units": 1700,
+        "sanitation_workers_allocated": 25,
+        "nodal_officer": "OFF-ZONE3-WARD90",
+        "helpline": "+91-1800-425-1120"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.726700, 17.625000],
+          [78.736700, 17.627000],
+          [78.738700, 17.640000],
+          [78.729700, 17.643000],
+          [78.726700, 17.625000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-091",
+      "properties": {
+        "ward_number": 91,
+        "ward_code": "W-03-091",
+        "ward_name": "Zone_03 Municipal Ward 91",
+        "population_census": 43850,
+        "residential_properties": 9780,
+        "commercial_units": 1715,
+        "sanitation_workers_allocated": 26,
+        "nodal_officer": "OFF-ZONE3-WARD91",
+        "helpline": "+91-1800-425-1121"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.727700, 17.626000],
+          [78.737700, 17.628000],
+          [78.739700, 17.641000],
+          [78.730700, 17.644000],
+          [78.727700, 17.626000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-092",
+      "properties": {
+        "ward_number": 92,
+        "ward_code": "W-03-092",
+        "ward_name": "Zone_03 Municipal Ward 92",
+        "population_census": 44200,
+        "residential_properties": 9860,
+        "commercial_units": 1730,
+        "sanitation_workers_allocated": 27,
+        "nodal_officer": "OFF-ZONE3-WARD92",
+        "helpline": "+91-1800-425-1122"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.728700, 17.627000],
+          [78.738700, 17.629000],
+          [78.740700, 17.642000],
+          [78.731700, 17.645000],
+          [78.728700, 17.627000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-093",
+      "properties": {
+        "ward_number": 93,
+        "ward_code": "W-03-093",
+        "ward_name": "Zone_03 Municipal Ward 93",
+        "population_census": 44550,
+        "residential_properties": 9940,
+        "commercial_units": 1745,
+        "sanitation_workers_allocated": 28,
+        "nodal_officer": "OFF-ZONE3-WARD93",
+        "helpline": "+91-1800-425-1123"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.729700, 17.628000],
+          [78.739700, 17.630000],
+          [78.741700, 17.643000],
+          [78.732700, 17.646000],
+          [78.729700, 17.628000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-094",
+      "properties": {
+        "ward_number": 94,
+        "ward_code": "W-03-094",
+        "ward_name": "Zone_03 Municipal Ward 94",
+        "population_census": 44900,
+        "residential_properties": 10020,
+        "commercial_units": 1760,
+        "sanitation_workers_allocated": 29,
+        "nodal_officer": "OFF-ZONE3-WARD94",
+        "helpline": "+91-1800-425-1124"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.730700, 17.629000],
+          [78.740700, 17.631000],
+          [78.742700, 17.644000],
+          [78.733700, 17.647000],
+          [78.730700, 17.629000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-095",
+      "properties": {
+        "ward_number": 95,
+        "ward_code": "W-03-095",
+        "ward_name": "Zone_03 Municipal Ward 95",
+        "population_census": 45250,
+        "residential_properties": 10100,
+        "commercial_units": 1775,
+        "sanitation_workers_allocated": 30,
+        "nodal_officer": "OFF-ZONE3-WARD95",
+        "helpline": "+91-1800-425-1125"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.731700, 17.630000],
+          [78.741700, 17.632000],
+          [78.743700, 17.645000],
+          [78.734700, 17.648000],
+          [78.731700, 17.630000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-096",
+      "properties": {
+        "ward_number": 96,
+        "ward_code": "W-03-096",
+        "ward_name": "Zone_03 Municipal Ward 96",
+        "population_census": 45600,
+        "residential_properties": 10180,
+        "commercial_units": 1790,
+        "sanitation_workers_allocated": 31,
+        "nodal_officer": "OFF-ZONE3-WARD96",
+        "helpline": "+91-1800-425-1126"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.732700, 17.631000],
+          [78.742700, 17.633000],
+          [78.744700, 17.646000],
+          [78.735700, 17.649000],
+          [78.732700, 17.631000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-097",
+      "properties": {
+        "ward_number": 97,
+        "ward_code": "W-03-097",
+        "ward_name": "Zone_03 Municipal Ward 97",
+        "population_census": 45950,
+        "residential_properties": 10260,
+        "commercial_units": 1805,
+        "sanitation_workers_allocated": 32,
+        "nodal_officer": "OFF-ZONE3-WARD97",
+        "helpline": "+91-1800-425-1127"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.733700, 17.632000],
+          [78.743700, 17.634000],
+          [78.745700, 17.647000],
+          [78.736700, 17.650000],
+          [78.733700, 17.632000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-098",
+      "properties": {
+        "ward_number": 98,
+        "ward_code": "W-03-098",
+        "ward_name": "Zone_03 Municipal Ward 98",
+        "population_census": 46300,
+        "residential_properties": 10340,
+        "commercial_units": 1820,
+        "sanitation_workers_allocated": 33,
+        "nodal_officer": "OFF-ZONE3-WARD98",
+        "helpline": "+91-1800-425-1128"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.734700, 17.633000],
+          [78.744700, 17.635000],
+          [78.746700, 17.648000],
+          [78.737700, 17.651000],
+          [78.734700, 17.633000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-099",
+      "properties": {
+        "ward_number": 99,
+        "ward_code": "W-03-099",
+        "ward_name": "Zone_03 Municipal Ward 99",
+        "population_census": 46650,
+        "residential_properties": 10420,
+        "commercial_units": 1835,
+        "sanitation_workers_allocated": 34,
+        "nodal_officer": "OFF-ZONE3-WARD99",
+        "helpline": "+91-1800-425-1129"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.735700, 17.634000],
+          [78.745700, 17.636000],
+          [78.747700, 17.649000],
+          [78.738700, 17.652000],
+          [78.735700, 17.634000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "W-03-100",
+      "properties": {
+        "ward_number": 100,
+        "ward_code": "W-03-100",
+        "ward_name": "Zone_03 Municipal Ward 100",
+        "population_census": 47000,
+        "residential_properties": 10500,
+        "commercial_units": 1850,
+        "sanitation_workers_allocated": 15,
+        "nodal_officer": "OFF-ZONE3-WARD100",
+        "helpline": "+91-1800-425-1130"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.736700, 17.635000],
+          [78.746700, 17.637000],
+          [78.748700, 17.650000],
+          [78.739700, 17.653000],
+          [78.736700, 17.635000]
+        ]]
+      }
+    }
+  }
+}

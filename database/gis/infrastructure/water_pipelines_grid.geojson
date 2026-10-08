@@ -1,0 +1,2406 @@
+{
+  "type": "FeatureCollection",
+  "infrastructure_type": "Drinking Water Pipeline Network",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "INFRA-1",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0001",
+        "description": "Drinking Water Pipeline Network Segment 1",
+        "capacity_rating": 51,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.482000, 17.381000],
+          [78.487000, 17.387000],
+          [78.492000, 17.392000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-2",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0002",
+        "description": "Drinking Water Pipeline Network Segment 2",
+        "capacity_rating": 52,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.484000, 17.382000],
+          [78.489000, 17.388000],
+          [78.494000, 17.393000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-3",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0003",
+        "description": "Drinking Water Pipeline Network Segment 3",
+        "capacity_rating": 53,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.486000, 17.383000],
+          [78.491000, 17.389000],
+          [78.496000, 17.394000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-4",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0004",
+        "description": "Drinking Water Pipeline Network Segment 4",
+        "capacity_rating": 54,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.488000, 17.384000],
+          [78.493000, 17.390000],
+          [78.498000, 17.395000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-5",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0005",
+        "description": "Drinking Water Pipeline Network Segment 5",
+        "capacity_rating": 55,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.490000, 17.385000],
+          [78.495000, 17.391000],
+          [78.500000, 17.396000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-6",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0006",
+        "description": "Drinking Water Pipeline Network Segment 6",
+        "capacity_rating": 56,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.492000, 17.386000],
+          [78.497000, 17.392000],
+          [78.502000, 17.397000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-7",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0007",
+        "description": "Drinking Water Pipeline Network Segment 7",
+        "capacity_rating": 57,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.494000, 17.387000],
+          [78.499000, 17.393000],
+          [78.504000, 17.398000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-8",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0008",
+        "description": "Drinking Water Pipeline Network Segment 8",
+        "capacity_rating": 58,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.496000, 17.388000],
+          [78.501000, 17.394000],
+          [78.506000, 17.399000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-9",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0009",
+        "description": "Drinking Water Pipeline Network Segment 9",
+        "capacity_rating": 59,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.498000, 17.389000],
+          [78.503000, 17.395000],
+          [78.508000, 17.400000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-10",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0010",
+        "description": "Drinking Water Pipeline Network Segment 10",
+        "capacity_rating": 60,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.500000, 17.390000],
+          [78.505000, 17.396000],
+          [78.510000, 17.401000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-11",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0011",
+        "description": "Drinking Water Pipeline Network Segment 11",
+        "capacity_rating": 61,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.502000, 17.391000],
+          [78.507000, 17.397000],
+          [78.512000, 17.402000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-12",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0012",
+        "description": "Drinking Water Pipeline Network Segment 12",
+        "capacity_rating": 62,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.504000, 17.392000],
+          [78.509000, 17.398000],
+          [78.514000, 17.403000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-13",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0013",
+        "description": "Drinking Water Pipeline Network Segment 13",
+        "capacity_rating": 63,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.506000, 17.393000],
+          [78.511000, 17.399000],
+          [78.516000, 17.404000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-14",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0014",
+        "description": "Drinking Water Pipeline Network Segment 14",
+        "capacity_rating": 64,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.508000, 17.394000],
+          [78.513000, 17.400000],
+          [78.518000, 17.405000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-15",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0015",
+        "description": "Drinking Water Pipeline Network Segment 15",
+        "capacity_rating": 65,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.510000, 17.395000],
+          [78.515000, 17.401000],
+          [78.520000, 17.406000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-16",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0016",
+        "description": "Drinking Water Pipeline Network Segment 16",
+        "capacity_rating": 66,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.512000, 17.396000],
+          [78.517000, 17.402000],
+          [78.522000, 17.407000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-17",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0017",
+        "description": "Drinking Water Pipeline Network Segment 17",
+        "capacity_rating": 67,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.514000, 17.397000],
+          [78.519000, 17.403000],
+          [78.524000, 17.408000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-18",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0018",
+        "description": "Drinking Water Pipeline Network Segment 18",
+        "capacity_rating": 68,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.516000, 17.398000],
+          [78.521000, 17.404000],
+          [78.526000, 17.409000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-19",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0019",
+        "description": "Drinking Water Pipeline Network Segment 19",
+        "capacity_rating": 69,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.518000, 17.399000],
+          [78.523000, 17.405000],
+          [78.528000, 17.410000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-20",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0020",
+        "description": "Drinking Water Pipeline Network Segment 20",
+        "capacity_rating": 70,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.520000, 17.400000],
+          [78.525000, 17.406000],
+          [78.530000, 17.411000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-21",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0021",
+        "description": "Drinking Water Pipeline Network Segment 21",
+        "capacity_rating": 71,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.522000, 17.401000],
+          [78.527000, 17.407000],
+          [78.532000, 17.412000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-22",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0022",
+        "description": "Drinking Water Pipeline Network Segment 22",
+        "capacity_rating": 72,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.524000, 17.402000],
+          [78.529000, 17.408000],
+          [78.534000, 17.413000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-23",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0023",
+        "description": "Drinking Water Pipeline Network Segment 23",
+        "capacity_rating": 73,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.526000, 17.403000],
+          [78.531000, 17.409000],
+          [78.536000, 17.414000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-24",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0024",
+        "description": "Drinking Water Pipeline Network Segment 24",
+        "capacity_rating": 74,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.528000, 17.404000],
+          [78.533000, 17.410000],
+          [78.538000, 17.415000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-25",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0025",
+        "description": "Drinking Water Pipeline Network Segment 25",
+        "capacity_rating": 75,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.530000, 17.405000],
+          [78.535000, 17.411000],
+          [78.540000, 17.416000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-26",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0026",
+        "description": "Drinking Water Pipeline Network Segment 26",
+        "capacity_rating": 76,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.532000, 17.406000],
+          [78.537000, 17.412000],
+          [78.542000, 17.417000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-27",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0027",
+        "description": "Drinking Water Pipeline Network Segment 27",
+        "capacity_rating": 77,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.534000, 17.407000],
+          [78.539000, 17.413000],
+          [78.544000, 17.418000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-28",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0028",
+        "description": "Drinking Water Pipeline Network Segment 28",
+        "capacity_rating": 78,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.536000, 17.408000],
+          [78.541000, 17.414000],
+          [78.546000, 17.419000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-29",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0029",
+        "description": "Drinking Water Pipeline Network Segment 29",
+        "capacity_rating": 79,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.538000, 17.409000],
+          [78.543000, 17.415000],
+          [78.548000, 17.420000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-30",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0030",
+        "description": "Drinking Water Pipeline Network Segment 30",
+        "capacity_rating": 80,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.540000, 17.410000],
+          [78.545000, 17.416000],
+          [78.550000, 17.421000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-31",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0031",
+        "description": "Drinking Water Pipeline Network Segment 31",
+        "capacity_rating": 81,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.542000, 17.411000],
+          [78.547000, 17.417000],
+          [78.552000, 17.422000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-32",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0032",
+        "description": "Drinking Water Pipeline Network Segment 32",
+        "capacity_rating": 82,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.544000, 17.412000],
+          [78.549000, 17.418000],
+          [78.554000, 17.423000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-33",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0033",
+        "description": "Drinking Water Pipeline Network Segment 33",
+        "capacity_rating": 83,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.546000, 17.413000],
+          [78.551000, 17.419000],
+          [78.556000, 17.424000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-34",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0034",
+        "description": "Drinking Water Pipeline Network Segment 34",
+        "capacity_rating": 84,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.548000, 17.414000],
+          [78.553000, 17.420000],
+          [78.558000, 17.425000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-35",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0035",
+        "description": "Drinking Water Pipeline Network Segment 35",
+        "capacity_rating": 85,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.550000, 17.415000],
+          [78.555000, 17.421000],
+          [78.560000, 17.426000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-36",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0036",
+        "description": "Drinking Water Pipeline Network Segment 36",
+        "capacity_rating": 86,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.552000, 17.416000],
+          [78.557000, 17.422000],
+          [78.562000, 17.427000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-37",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0037",
+        "description": "Drinking Water Pipeline Network Segment 37",
+        "capacity_rating": 87,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.554000, 17.417000],
+          [78.559000, 17.423000],
+          [78.564000, 17.428000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-38",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0038",
+        "description": "Drinking Water Pipeline Network Segment 38",
+        "capacity_rating": 88,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.556000, 17.418000],
+          [78.561000, 17.424000],
+          [78.566000, 17.429000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-39",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0039",
+        "description": "Drinking Water Pipeline Network Segment 39",
+        "capacity_rating": 89,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.558000, 17.419000],
+          [78.563000, 17.425000],
+          [78.568000, 17.430000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-40",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0040",
+        "description": "Drinking Water Pipeline Network Segment 40",
+        "capacity_rating": 90,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.560000, 17.420000],
+          [78.565000, 17.426000],
+          [78.570000, 17.431000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-41",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0041",
+        "description": "Drinking Water Pipeline Network Segment 41",
+        "capacity_rating": 91,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.562000, 17.421000],
+          [78.567000, 17.427000],
+          [78.572000, 17.432000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-42",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0042",
+        "description": "Drinking Water Pipeline Network Segment 42",
+        "capacity_rating": 92,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.564000, 17.422000],
+          [78.569000, 17.428000],
+          [78.574000, 17.433000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-43",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0043",
+        "description": "Drinking Water Pipeline Network Segment 43",
+        "capacity_rating": 93,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.566000, 17.423000],
+          [78.571000, 17.429000],
+          [78.576000, 17.434000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-44",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0044",
+        "description": "Drinking Water Pipeline Network Segment 44",
+        "capacity_rating": 94,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.568000, 17.424000],
+          [78.573000, 17.430000],
+          [78.578000, 17.435000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-45",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0045",
+        "description": "Drinking Water Pipeline Network Segment 45",
+        "capacity_rating": 95,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.570000, 17.425000],
+          [78.575000, 17.431000],
+          [78.580000, 17.436000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-46",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0046",
+        "description": "Drinking Water Pipeline Network Segment 46",
+        "capacity_rating": 96,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.572000, 17.426000],
+          [78.577000, 17.432000],
+          [78.582000, 17.437000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-47",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0047",
+        "description": "Drinking Water Pipeline Network Segment 47",
+        "capacity_rating": 97,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.574000, 17.427000],
+          [78.579000, 17.433000],
+          [78.584000, 17.438000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-48",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0048",
+        "description": "Drinking Water Pipeline Network Segment 48",
+        "capacity_rating": 98,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.576000, 17.428000],
+          [78.581000, 17.434000],
+          [78.586000, 17.439000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-49",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0049",
+        "description": "Drinking Water Pipeline Network Segment 49",
+        "capacity_rating": 99,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.578000, 17.429000],
+          [78.583000, 17.435000],
+          [78.588000, 17.440000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-50",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0050",
+        "description": "Drinking Water Pipeline Network Segment 50",
+        "capacity_rating": 100,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.580000, 17.430000],
+          [78.585000, 17.436000],
+          [78.590000, 17.441000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-51",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0051",
+        "description": "Drinking Water Pipeline Network Segment 51",
+        "capacity_rating": 101,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.582000, 17.431000],
+          [78.587000, 17.437000],
+          [78.592000, 17.442000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-52",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0052",
+        "description": "Drinking Water Pipeline Network Segment 52",
+        "capacity_rating": 102,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.584000, 17.432000],
+          [78.589000, 17.438000],
+          [78.594000, 17.443000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-53",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0053",
+        "description": "Drinking Water Pipeline Network Segment 53",
+        "capacity_rating": 103,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.586000, 17.433000],
+          [78.591000, 17.439000],
+          [78.596000, 17.444000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-54",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0054",
+        "description": "Drinking Water Pipeline Network Segment 54",
+        "capacity_rating": 104,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.588000, 17.434000],
+          [78.593000, 17.440000],
+          [78.598000, 17.445000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-55",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0055",
+        "description": "Drinking Water Pipeline Network Segment 55",
+        "capacity_rating": 105,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.590000, 17.435000],
+          [78.595000, 17.441000],
+          [78.600000, 17.446000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-56",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0056",
+        "description": "Drinking Water Pipeline Network Segment 56",
+        "capacity_rating": 106,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.592000, 17.436000],
+          [78.597000, 17.442000],
+          [78.602000, 17.447000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-57",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0057",
+        "description": "Drinking Water Pipeline Network Segment 57",
+        "capacity_rating": 107,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.594000, 17.437000],
+          [78.599000, 17.443000],
+          [78.604000, 17.448000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-58",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0058",
+        "description": "Drinking Water Pipeline Network Segment 58",
+        "capacity_rating": 108,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.596000, 17.438000],
+          [78.601000, 17.444000],
+          [78.606000, 17.449000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-59",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0059",
+        "description": "Drinking Water Pipeline Network Segment 59",
+        "capacity_rating": 109,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.598000, 17.439000],
+          [78.603000, 17.445000],
+          [78.608000, 17.450000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-60",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0060",
+        "description": "Drinking Water Pipeline Network Segment 60",
+        "capacity_rating": 110,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.600000, 17.440000],
+          [78.605000, 17.446000],
+          [78.610000, 17.451000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-61",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0061",
+        "description": "Drinking Water Pipeline Network Segment 61",
+        "capacity_rating": 111,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.602000, 17.441000],
+          [78.607000, 17.447000],
+          [78.612000, 17.452000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-62",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0062",
+        "description": "Drinking Water Pipeline Network Segment 62",
+        "capacity_rating": 112,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.604000, 17.442000],
+          [78.609000, 17.448000],
+          [78.614000, 17.453000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-63",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0063",
+        "description": "Drinking Water Pipeline Network Segment 63",
+        "capacity_rating": 113,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.606000, 17.443000],
+          [78.611000, 17.449000],
+          [78.616000, 17.454000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-64",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0064",
+        "description": "Drinking Water Pipeline Network Segment 64",
+        "capacity_rating": 114,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.608000, 17.444000],
+          [78.613000, 17.450000],
+          [78.618000, 17.455000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-65",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0065",
+        "description": "Drinking Water Pipeline Network Segment 65",
+        "capacity_rating": 115,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.610000, 17.445000],
+          [78.615000, 17.451000],
+          [78.620000, 17.456000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-66",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0066",
+        "description": "Drinking Water Pipeline Network Segment 66",
+        "capacity_rating": 116,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.612000, 17.446000],
+          [78.617000, 17.452000],
+          [78.622000, 17.457000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-67",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0067",
+        "description": "Drinking Water Pipeline Network Segment 67",
+        "capacity_rating": 117,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.614000, 17.447000],
+          [78.619000, 17.453000],
+          [78.624000, 17.458000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-68",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0068",
+        "description": "Drinking Water Pipeline Network Segment 68",
+        "capacity_rating": 118,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.616000, 17.448000],
+          [78.621000, 17.454000],
+          [78.626000, 17.459000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-69",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0069",
+        "description": "Drinking Water Pipeline Network Segment 69",
+        "capacity_rating": 119,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.618000, 17.449000],
+          [78.623000, 17.455000],
+          [78.628000, 17.460000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-70",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0070",
+        "description": "Drinking Water Pipeline Network Segment 70",
+        "capacity_rating": 120,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.620000, 17.450000],
+          [78.625000, 17.456000],
+          [78.630000, 17.461000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-71",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0071",
+        "description": "Drinking Water Pipeline Network Segment 71",
+        "capacity_rating": 121,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.622000, 17.451000],
+          [78.627000, 17.457000],
+          [78.632000, 17.462000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-72",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0072",
+        "description": "Drinking Water Pipeline Network Segment 72",
+        "capacity_rating": 122,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.624000, 17.452000],
+          [78.629000, 17.458000],
+          [78.634000, 17.463000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-73",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0073",
+        "description": "Drinking Water Pipeline Network Segment 73",
+        "capacity_rating": 123,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.626000, 17.453000],
+          [78.631000, 17.459000],
+          [78.636000, 17.464000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-74",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0074",
+        "description": "Drinking Water Pipeline Network Segment 74",
+        "capacity_rating": 124,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.628000, 17.454000],
+          [78.633000, 17.460000],
+          [78.638000, 17.465000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-75",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0075",
+        "description": "Drinking Water Pipeline Network Segment 75",
+        "capacity_rating": 125,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.630000, 17.455000],
+          [78.635000, 17.461000],
+          [78.640000, 17.466000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-76",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0076",
+        "description": "Drinking Water Pipeline Network Segment 76",
+        "capacity_rating": 126,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.632000, 17.456000],
+          [78.637000, 17.462000],
+          [78.642000, 17.467000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-77",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0077",
+        "description": "Drinking Water Pipeline Network Segment 77",
+        "capacity_rating": 127,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.634000, 17.457000],
+          [78.639000, 17.463000],
+          [78.644000, 17.468000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-78",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0078",
+        "description": "Drinking Water Pipeline Network Segment 78",
+        "capacity_rating": 128,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.636000, 17.458000],
+          [78.641000, 17.464000],
+          [78.646000, 17.469000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-79",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0079",
+        "description": "Drinking Water Pipeline Network Segment 79",
+        "capacity_rating": 129,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.638000, 17.459000],
+          [78.643000, 17.465000],
+          [78.648000, 17.470000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-80",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0080",
+        "description": "Drinking Water Pipeline Network Segment 80",
+        "capacity_rating": 130,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.640000, 17.460000],
+          [78.645000, 17.466000],
+          [78.650000, 17.471000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-81",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0081",
+        "description": "Drinking Water Pipeline Network Segment 81",
+        "capacity_rating": 131,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.642000, 17.461000],
+          [78.647000, 17.467000],
+          [78.652000, 17.472000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-82",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0082",
+        "description": "Drinking Water Pipeline Network Segment 82",
+        "capacity_rating": 132,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.644000, 17.462000],
+          [78.649000, 17.468000],
+          [78.654000, 17.473000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-83",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0083",
+        "description": "Drinking Water Pipeline Network Segment 83",
+        "capacity_rating": 133,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.646000, 17.463000],
+          [78.651000, 17.469000],
+          [78.656000, 17.474000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-84",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0084",
+        "description": "Drinking Water Pipeline Network Segment 84",
+        "capacity_rating": 134,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.648000, 17.464000],
+          [78.653000, 17.470000],
+          [78.658000, 17.475000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-85",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0085",
+        "description": "Drinking Water Pipeline Network Segment 85",
+        "capacity_rating": 135,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.650000, 17.465000],
+          [78.655000, 17.471000],
+          [78.660000, 17.476000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-86",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0086",
+        "description": "Drinking Water Pipeline Network Segment 86",
+        "capacity_rating": 136,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.652000, 17.466000],
+          [78.657000, 17.472000],
+          [78.662000, 17.477000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-87",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0087",
+        "description": "Drinking Water Pipeline Network Segment 87",
+        "capacity_rating": 137,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.654000, 17.467000],
+          [78.659000, 17.473000],
+          [78.664000, 17.478000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-88",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0088",
+        "description": "Drinking Water Pipeline Network Segment 88",
+        "capacity_rating": 138,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.656000, 17.468000],
+          [78.661000, 17.474000],
+          [78.666000, 17.479000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-89",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0089",
+        "description": "Drinking Water Pipeline Network Segment 89",
+        "capacity_rating": 139,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.658000, 17.469000],
+          [78.663000, 17.475000],
+          [78.668000, 17.480000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-90",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0090",
+        "description": "Drinking Water Pipeline Network Segment 90",
+        "capacity_rating": 140,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.660000, 17.470000],
+          [78.665000, 17.476000],
+          [78.670000, 17.481000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-91",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0091",
+        "description": "Drinking Water Pipeline Network Segment 91",
+        "capacity_rating": 141,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.662000, 17.471000],
+          [78.667000, 17.477000],
+          [78.672000, 17.482000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-92",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0092",
+        "description": "Drinking Water Pipeline Network Segment 92",
+        "capacity_rating": 142,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.664000, 17.472000],
+          [78.669000, 17.478000],
+          [78.674000, 17.483000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-93",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0093",
+        "description": "Drinking Water Pipeline Network Segment 93",
+        "capacity_rating": 143,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.666000, 17.473000],
+          [78.671000, 17.479000],
+          [78.676000, 17.484000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-94",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0094",
+        "description": "Drinking Water Pipeline Network Segment 94",
+        "capacity_rating": 144,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.668000, 17.474000],
+          [78.673000, 17.480000],
+          [78.678000, 17.485000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-95",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0095",
+        "description": "Drinking Water Pipeline Network Segment 95",
+        "capacity_rating": 145,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.670000, 17.475000],
+          [78.675000, 17.481000],
+          [78.680000, 17.486000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-96",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0096",
+        "description": "Drinking Water Pipeline Network Segment 96",
+        "capacity_rating": 146,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.672000, 17.476000],
+          [78.677000, 17.482000],
+          [78.682000, 17.487000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-97",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0097",
+        "description": "Drinking Water Pipeline Network Segment 97",
+        "capacity_rating": 147,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.674000, 17.477000],
+          [78.679000, 17.483000],
+          [78.684000, 17.488000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-98",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0098",
+        "description": "Drinking Water Pipeline Network Segment 98",
+        "capacity_rating": 148,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.676000, 17.478000],
+          [78.681000, 17.484000],
+          [78.686000, 17.489000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-99",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0099",
+        "description": "Drinking Water Pipeline Network Segment 99",
+        "capacity_rating": 149,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.678000, 17.479000],
+          [78.683000, 17.485000],
+          [78.688000, 17.490000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-100",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0100",
+        "description": "Drinking Water Pipeline Network Segment 100",
+        "capacity_rating": 50,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.680000, 17.480000],
+          [78.685000, 17.486000],
+          [78.690000, 17.491000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-101",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0101",
+        "description": "Drinking Water Pipeline Network Segment 101",
+        "capacity_rating": 51,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.682000, 17.481000],
+          [78.687000, 17.487000],
+          [78.692000, 17.492000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-102",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0102",
+        "description": "Drinking Water Pipeline Network Segment 102",
+        "capacity_rating": 52,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.684000, 17.482000],
+          [78.689000, 17.488000],
+          [78.694000, 17.493000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-103",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0103",
+        "description": "Drinking Water Pipeline Network Segment 103",
+        "capacity_rating": 53,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.686000, 17.483000],
+          [78.691000, 17.489000],
+          [78.696000, 17.494000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-104",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0104",
+        "description": "Drinking Water Pipeline Network Segment 104",
+        "capacity_rating": 54,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.688000, 17.484000],
+          [78.693000, 17.490000],
+          [78.698000, 17.495000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-105",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0105",
+        "description": "Drinking Water Pipeline Network Segment 105",
+        "capacity_rating": 55,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.690000, 17.485000],
+          [78.695000, 17.491000],
+          [78.700000, 17.496000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-106",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0106",
+        "description": "Drinking Water Pipeline Network Segment 106",
+        "capacity_rating": 56,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.692000, 17.486000],
+          [78.697000, 17.492000],
+          [78.702000, 17.497000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-107",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0107",
+        "description": "Drinking Water Pipeline Network Segment 107",
+        "capacity_rating": 57,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.694000, 17.487000],
+          [78.699000, 17.493000],
+          [78.704000, 17.498000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-108",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0108",
+        "description": "Drinking Water Pipeline Network Segment 108",
+        "capacity_rating": 58,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.696000, 17.488000],
+          [78.701000, 17.494000],
+          [78.706000, 17.499000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-109",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0109",
+        "description": "Drinking Water Pipeline Network Segment 109",
+        "capacity_rating": 59,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.698000, 17.489000],
+          [78.703000, 17.495000],
+          [78.708000, 17.500000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-110",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0110",
+        "description": "Drinking Water Pipeline Network Segment 110",
+        "capacity_rating": 60,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.700000, 17.490000],
+          [78.705000, 17.496000],
+          [78.710000, 17.501000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-111",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0111",
+        "description": "Drinking Water Pipeline Network Segment 111",
+        "capacity_rating": 61,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.702000, 17.491000],
+          [78.707000, 17.497000],
+          [78.712000, 17.502000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-112",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0112",
+        "description": "Drinking Water Pipeline Network Segment 112",
+        "capacity_rating": 62,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.704000, 17.492000],
+          [78.709000, 17.498000],
+          [78.714000, 17.503000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-113",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0113",
+        "description": "Drinking Water Pipeline Network Segment 113",
+        "capacity_rating": 63,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.706000, 17.493000],
+          [78.711000, 17.499000],
+          [78.716000, 17.504000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-114",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0114",
+        "description": "Drinking Water Pipeline Network Segment 114",
+        "capacity_rating": 64,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.708000, 17.494000],
+          [78.713000, 17.500000],
+          [78.718000, 17.505000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-115",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0115",
+        "description": "Drinking Water Pipeline Network Segment 115",
+        "capacity_rating": 65,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.710000, 17.495000],
+          [78.715000, 17.501000],
+          [78.720000, 17.506000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-116",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0116",
+        "description": "Drinking Water Pipeline Network Segment 116",
+        "capacity_rating": 66,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 1",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.712000, 17.496000],
+          [78.717000, 17.502000],
+          [78.722000, 17.507000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-117",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0117",
+        "description": "Drinking Water Pipeline Network Segment 117",
+        "capacity_rating": 67,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 2",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.714000, 17.497000],
+          [78.719000, 17.503000],
+          [78.724000, 17.508000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-118",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0118",
+        "description": "Drinking Water Pipeline Network Segment 118",
+        "capacity_rating": 68,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 3",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.716000, 17.498000],
+          [78.721000, 17.504000],
+          [78.726000, 17.509000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-119",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0119",
+        "description": "Drinking Water Pipeline Network Segment 119",
+        "capacity_rating": 69,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 4",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.718000, 17.499000],
+          [78.723000, 17.505000],
+          [78.728000, 17.510000]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INFRA-120",
+      "properties": {
+        "asset_tag": "ASSET-WAT-0120",
+        "description": "Drinking Water Pipeline Network Segment 120",
+        "capacity_rating": 70,
+        "installation_year": 2018 + (i % 8),
+        "maintenance_contractor": "Nagar Municipal Infrastructure Concessionaire 0",
+        "inspection_frequency": "QUARTERLY"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [78.720000, 17.500000],
+          [78.725000, 17.506000],
+          [78.730000, 17.511000]
+        ]
+      }
+    }
+  }
+}
