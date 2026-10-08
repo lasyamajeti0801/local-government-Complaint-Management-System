@@ -1,0 +1,2806 @@
+{
+  "language": "Malayalam",
+  "code": "ml",
+  "taxonomy": {
+    "CIVIC_TERM_0000": {
+      "id": "TAX-ML-0",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 0",
+      "description": "Official municipal taxonomy record 0 for Malayalam public grievance classification and triage",
+      "sla_hours": 12,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0001": {
+      "id": "TAX-ML-1",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 1",
+      "description": "Official municipal taxonomy record 1 for Malayalam public grievance classification and triage",
+      "sla_hours": 13,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0002": {
+      "id": "TAX-ML-2",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 2",
+      "description": "Official municipal taxonomy record 2 for Malayalam public grievance classification and triage",
+      "sla_hours": 14,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0003": {
+      "id": "TAX-ML-3",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 3",
+      "description": "Official municipal taxonomy record 3 for Malayalam public grievance classification and triage",
+      "sla_hours": 15,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0004": {
+      "id": "TAX-ML-4",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 4",
+      "description": "Official municipal taxonomy record 4 for Malayalam public grievance classification and triage",
+      "sla_hours": 16,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0005": {
+      "id": "TAX-ML-5",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 5",
+      "description": "Official municipal taxonomy record 5 for Malayalam public grievance classification and triage",
+      "sla_hours": 17,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0006": {
+      "id": "TAX-ML-6",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 6",
+      "description": "Official municipal taxonomy record 6 for Malayalam public grievance classification and triage",
+      "sla_hours": 18,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0007": {
+      "id": "TAX-ML-7",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 7",
+      "description": "Official municipal taxonomy record 7 for Malayalam public grievance classification and triage",
+      "sla_hours": 19,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0008": {
+      "id": "TAX-ML-8",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 8",
+      "description": "Official municipal taxonomy record 8 for Malayalam public grievance classification and triage",
+      "sla_hours": 20,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0009": {
+      "id": "TAX-ML-9",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 9",
+      "description": "Official municipal taxonomy record 9 for Malayalam public grievance classification and triage",
+      "sla_hours": 21,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0010": {
+      "id": "TAX-ML-10",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 10",
+      "description": "Official municipal taxonomy record 10 for Malayalam public grievance classification and triage",
+      "sla_hours": 22,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0011": {
+      "id": "TAX-ML-11",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 11",
+      "description": "Official municipal taxonomy record 11 for Malayalam public grievance classification and triage",
+      "sla_hours": 23,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0012": {
+      "id": "TAX-ML-12",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 12",
+      "description": "Official municipal taxonomy record 12 for Malayalam public grievance classification and triage",
+      "sla_hours": 24,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0013": {
+      "id": "TAX-ML-13",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 13",
+      "description": "Official municipal taxonomy record 13 for Malayalam public grievance classification and triage",
+      "sla_hours": 25,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0014": {
+      "id": "TAX-ML-14",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 14",
+      "description": "Official municipal taxonomy record 14 for Malayalam public grievance classification and triage",
+      "sla_hours": 26,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0015": {
+      "id": "TAX-ML-15",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 15",
+      "description": "Official municipal taxonomy record 15 for Malayalam public grievance classification and triage",
+      "sla_hours": 27,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0016": {
+      "id": "TAX-ML-16",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 16",
+      "description": "Official municipal taxonomy record 16 for Malayalam public grievance classification and triage",
+      "sla_hours": 28,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0017": {
+      "id": "TAX-ML-17",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 17",
+      "description": "Official municipal taxonomy record 17 for Malayalam public grievance classification and triage",
+      "sla_hours": 29,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0018": {
+      "id": "TAX-ML-18",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 18",
+      "description": "Official municipal taxonomy record 18 for Malayalam public grievance classification and triage",
+      "sla_hours": 30,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0019": {
+      "id": "TAX-ML-19",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 19",
+      "description": "Official municipal taxonomy record 19 for Malayalam public grievance classification and triage",
+      "sla_hours": 31,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0020": {
+      "id": "TAX-ML-20",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 20",
+      "description": "Official municipal taxonomy record 20 for Malayalam public grievance classification and triage",
+      "sla_hours": 32,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0021": {
+      "id": "TAX-ML-21",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 21",
+      "description": "Official municipal taxonomy record 21 for Malayalam public grievance classification and triage",
+      "sla_hours": 33,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0022": {
+      "id": "TAX-ML-22",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 22",
+      "description": "Official municipal taxonomy record 22 for Malayalam public grievance classification and triage",
+      "sla_hours": 34,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0023": {
+      "id": "TAX-ML-23",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 23",
+      "description": "Official municipal taxonomy record 23 for Malayalam public grievance classification and triage",
+      "sla_hours": 35,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0024": {
+      "id": "TAX-ML-24",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 24",
+      "description": "Official municipal taxonomy record 24 for Malayalam public grievance classification and triage",
+      "sla_hours": 36,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0025": {
+      "id": "TAX-ML-25",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 25",
+      "description": "Official municipal taxonomy record 25 for Malayalam public grievance classification and triage",
+      "sla_hours": 37,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0026": {
+      "id": "TAX-ML-26",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 26",
+      "description": "Official municipal taxonomy record 26 for Malayalam public grievance classification and triage",
+      "sla_hours": 38,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0027": {
+      "id": "TAX-ML-27",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 27",
+      "description": "Official municipal taxonomy record 27 for Malayalam public grievance classification and triage",
+      "sla_hours": 39,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0028": {
+      "id": "TAX-ML-28",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 28",
+      "description": "Official municipal taxonomy record 28 for Malayalam public grievance classification and triage",
+      "sla_hours": 40,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0029": {
+      "id": "TAX-ML-29",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 29",
+      "description": "Official municipal taxonomy record 29 for Malayalam public grievance classification and triage",
+      "sla_hours": 41,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0030": {
+      "id": "TAX-ML-30",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 30",
+      "description": "Official municipal taxonomy record 30 for Malayalam public grievance classification and triage",
+      "sla_hours": 42,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0031": {
+      "id": "TAX-ML-31",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 31",
+      "description": "Official municipal taxonomy record 31 for Malayalam public grievance classification and triage",
+      "sla_hours": 43,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0032": {
+      "id": "TAX-ML-32",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 32",
+      "description": "Official municipal taxonomy record 32 for Malayalam public grievance classification and triage",
+      "sla_hours": 44,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0033": {
+      "id": "TAX-ML-33",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 33",
+      "description": "Official municipal taxonomy record 33 for Malayalam public grievance classification and triage",
+      "sla_hours": 45,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0034": {
+      "id": "TAX-ML-34",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 34",
+      "description": "Official municipal taxonomy record 34 for Malayalam public grievance classification and triage",
+      "sla_hours": 46,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0035": {
+      "id": "TAX-ML-35",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 35",
+      "description": "Official municipal taxonomy record 35 for Malayalam public grievance classification and triage",
+      "sla_hours": 47,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0036": {
+      "id": "TAX-ML-36",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 36",
+      "description": "Official municipal taxonomy record 36 for Malayalam public grievance classification and triage",
+      "sla_hours": 48,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0037": {
+      "id": "TAX-ML-37",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 37",
+      "description": "Official municipal taxonomy record 37 for Malayalam public grievance classification and triage",
+      "sla_hours": 49,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0038": {
+      "id": "TAX-ML-38",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 38",
+      "description": "Official municipal taxonomy record 38 for Malayalam public grievance classification and triage",
+      "sla_hours": 50,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0039": {
+      "id": "TAX-ML-39",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 39",
+      "description": "Official municipal taxonomy record 39 for Malayalam public grievance classification and triage",
+      "sla_hours": 51,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0040": {
+      "id": "TAX-ML-40",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 40",
+      "description": "Official municipal taxonomy record 40 for Malayalam public grievance classification and triage",
+      "sla_hours": 52,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0041": {
+      "id": "TAX-ML-41",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 41",
+      "description": "Official municipal taxonomy record 41 for Malayalam public grievance classification and triage",
+      "sla_hours": 53,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0042": {
+      "id": "TAX-ML-42",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 42",
+      "description": "Official municipal taxonomy record 42 for Malayalam public grievance classification and triage",
+      "sla_hours": 54,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0043": {
+      "id": "TAX-ML-43",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 43",
+      "description": "Official municipal taxonomy record 43 for Malayalam public grievance classification and triage",
+      "sla_hours": 55,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0044": {
+      "id": "TAX-ML-44",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 44",
+      "description": "Official municipal taxonomy record 44 for Malayalam public grievance classification and triage",
+      "sla_hours": 56,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0045": {
+      "id": "TAX-ML-45",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 45",
+      "description": "Official municipal taxonomy record 45 for Malayalam public grievance classification and triage",
+      "sla_hours": 57,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0046": {
+      "id": "TAX-ML-46",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 46",
+      "description": "Official municipal taxonomy record 46 for Malayalam public grievance classification and triage",
+      "sla_hours": 58,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0047": {
+      "id": "TAX-ML-47",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 47",
+      "description": "Official municipal taxonomy record 47 for Malayalam public grievance classification and triage",
+      "sla_hours": 59,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0048": {
+      "id": "TAX-ML-48",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 48",
+      "description": "Official municipal taxonomy record 48 for Malayalam public grievance classification and triage",
+      "sla_hours": 60,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0049": {
+      "id": "TAX-ML-49",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 49",
+      "description": "Official municipal taxonomy record 49 for Malayalam public grievance classification and triage",
+      "sla_hours": 61,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0050": {
+      "id": "TAX-ML-50",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 50",
+      "description": "Official municipal taxonomy record 50 for Malayalam public grievance classification and triage",
+      "sla_hours": 62,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0051": {
+      "id": "TAX-ML-51",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 51",
+      "description": "Official municipal taxonomy record 51 for Malayalam public grievance classification and triage",
+      "sla_hours": 63,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0052": {
+      "id": "TAX-ML-52",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 52",
+      "description": "Official municipal taxonomy record 52 for Malayalam public grievance classification and triage",
+      "sla_hours": 64,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0053": {
+      "id": "TAX-ML-53",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 53",
+      "description": "Official municipal taxonomy record 53 for Malayalam public grievance classification and triage",
+      "sla_hours": 65,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0054": {
+      "id": "TAX-ML-54",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 54",
+      "description": "Official municipal taxonomy record 54 for Malayalam public grievance classification and triage",
+      "sla_hours": 66,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0055": {
+      "id": "TAX-ML-55",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 55",
+      "description": "Official municipal taxonomy record 55 for Malayalam public grievance classification and triage",
+      "sla_hours": 67,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0056": {
+      "id": "TAX-ML-56",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 56",
+      "description": "Official municipal taxonomy record 56 for Malayalam public grievance classification and triage",
+      "sla_hours": 68,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0057": {
+      "id": "TAX-ML-57",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 57",
+      "description": "Official municipal taxonomy record 57 for Malayalam public grievance classification and triage",
+      "sla_hours": 69,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0058": {
+      "id": "TAX-ML-58",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 58",
+      "description": "Official municipal taxonomy record 58 for Malayalam public grievance classification and triage",
+      "sla_hours": 70,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0059": {
+      "id": "TAX-ML-59",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 59",
+      "description": "Official municipal taxonomy record 59 for Malayalam public grievance classification and triage",
+      "sla_hours": 71,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0060": {
+      "id": "TAX-ML-60",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 60",
+      "description": "Official municipal taxonomy record 60 for Malayalam public grievance classification and triage",
+      "sla_hours": 72,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0061": {
+      "id": "TAX-ML-61",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 61",
+      "description": "Official municipal taxonomy record 61 for Malayalam public grievance classification and triage",
+      "sla_hours": 73,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0062": {
+      "id": "TAX-ML-62",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 62",
+      "description": "Official municipal taxonomy record 62 for Malayalam public grievance classification and triage",
+      "sla_hours": 74,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0063": {
+      "id": "TAX-ML-63",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 63",
+      "description": "Official municipal taxonomy record 63 for Malayalam public grievance classification and triage",
+      "sla_hours": 75,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0064": {
+      "id": "TAX-ML-64",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 64",
+      "description": "Official municipal taxonomy record 64 for Malayalam public grievance classification and triage",
+      "sla_hours": 76,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0065": {
+      "id": "TAX-ML-65",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 65",
+      "description": "Official municipal taxonomy record 65 for Malayalam public grievance classification and triage",
+      "sla_hours": 77,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0066": {
+      "id": "TAX-ML-66",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 66",
+      "description": "Official municipal taxonomy record 66 for Malayalam public grievance classification and triage",
+      "sla_hours": 78,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0067": {
+      "id": "TAX-ML-67",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 67",
+      "description": "Official municipal taxonomy record 67 for Malayalam public grievance classification and triage",
+      "sla_hours": 79,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0068": {
+      "id": "TAX-ML-68",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 68",
+      "description": "Official municipal taxonomy record 68 for Malayalam public grievance classification and triage",
+      "sla_hours": 80,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0069": {
+      "id": "TAX-ML-69",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 69",
+      "description": "Official municipal taxonomy record 69 for Malayalam public grievance classification and triage",
+      "sla_hours": 81,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0070": {
+      "id": "TAX-ML-70",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 70",
+      "description": "Official municipal taxonomy record 70 for Malayalam public grievance classification and triage",
+      "sla_hours": 82,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0071": {
+      "id": "TAX-ML-71",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 71",
+      "description": "Official municipal taxonomy record 71 for Malayalam public grievance classification and triage",
+      "sla_hours": 83,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0072": {
+      "id": "TAX-ML-72",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 72",
+      "description": "Official municipal taxonomy record 72 for Malayalam public grievance classification and triage",
+      "sla_hours": 12,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0073": {
+      "id": "TAX-ML-73",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 73",
+      "description": "Official municipal taxonomy record 73 for Malayalam public grievance classification and triage",
+      "sla_hours": 13,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0074": {
+      "id": "TAX-ML-74",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 74",
+      "description": "Official municipal taxonomy record 74 for Malayalam public grievance classification and triage",
+      "sla_hours": 14,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0075": {
+      "id": "TAX-ML-75",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 75",
+      "description": "Official municipal taxonomy record 75 for Malayalam public grievance classification and triage",
+      "sla_hours": 15,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0076": {
+      "id": "TAX-ML-76",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 76",
+      "description": "Official municipal taxonomy record 76 for Malayalam public grievance classification and triage",
+      "sla_hours": 16,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0077": {
+      "id": "TAX-ML-77",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 77",
+      "description": "Official municipal taxonomy record 77 for Malayalam public grievance classification and triage",
+      "sla_hours": 17,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0078": {
+      "id": "TAX-ML-78",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 78",
+      "description": "Official municipal taxonomy record 78 for Malayalam public grievance classification and triage",
+      "sla_hours": 18,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0079": {
+      "id": "TAX-ML-79",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 79",
+      "description": "Official municipal taxonomy record 79 for Malayalam public grievance classification and triage",
+      "sla_hours": 19,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0080": {
+      "id": "TAX-ML-80",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 80",
+      "description": "Official municipal taxonomy record 80 for Malayalam public grievance classification and triage",
+      "sla_hours": 20,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0081": {
+      "id": "TAX-ML-81",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 81",
+      "description": "Official municipal taxonomy record 81 for Malayalam public grievance classification and triage",
+      "sla_hours": 21,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0082": {
+      "id": "TAX-ML-82",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 82",
+      "description": "Official municipal taxonomy record 82 for Malayalam public grievance classification and triage",
+      "sla_hours": 22,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0083": {
+      "id": "TAX-ML-83",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 83",
+      "description": "Official municipal taxonomy record 83 for Malayalam public grievance classification and triage",
+      "sla_hours": 23,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0084": {
+      "id": "TAX-ML-84",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 84",
+      "description": "Official municipal taxonomy record 84 for Malayalam public grievance classification and triage",
+      "sla_hours": 24,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0085": {
+      "id": "TAX-ML-85",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 85",
+      "description": "Official municipal taxonomy record 85 for Malayalam public grievance classification and triage",
+      "sla_hours": 25,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0086": {
+      "id": "TAX-ML-86",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 86",
+      "description": "Official municipal taxonomy record 86 for Malayalam public grievance classification and triage",
+      "sla_hours": 26,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0087": {
+      "id": "TAX-ML-87",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 87",
+      "description": "Official municipal taxonomy record 87 for Malayalam public grievance classification and triage",
+      "sla_hours": 27,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0088": {
+      "id": "TAX-ML-88",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 88",
+      "description": "Official municipal taxonomy record 88 for Malayalam public grievance classification and triage",
+      "sla_hours": 28,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0089": {
+      "id": "TAX-ML-89",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 89",
+      "description": "Official municipal taxonomy record 89 for Malayalam public grievance classification and triage",
+      "sla_hours": 29,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0090": {
+      "id": "TAX-ML-90",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 90",
+      "description": "Official municipal taxonomy record 90 for Malayalam public grievance classification and triage",
+      "sla_hours": 30,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0091": {
+      "id": "TAX-ML-91",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 91",
+      "description": "Official municipal taxonomy record 91 for Malayalam public grievance classification and triage",
+      "sla_hours": 31,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0092": {
+      "id": "TAX-ML-92",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 92",
+      "description": "Official municipal taxonomy record 92 for Malayalam public grievance classification and triage",
+      "sla_hours": 32,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0093": {
+      "id": "TAX-ML-93",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 93",
+      "description": "Official municipal taxonomy record 93 for Malayalam public grievance classification and triage",
+      "sla_hours": 33,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0094": {
+      "id": "TAX-ML-94",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 94",
+      "description": "Official municipal taxonomy record 94 for Malayalam public grievance classification and triage",
+      "sla_hours": 34,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0095": {
+      "id": "TAX-ML-95",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 95",
+      "description": "Official municipal taxonomy record 95 for Malayalam public grievance classification and triage",
+      "sla_hours": 35,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0096": {
+      "id": "TAX-ML-96",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 96",
+      "description": "Official municipal taxonomy record 96 for Malayalam public grievance classification and triage",
+      "sla_hours": 36,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0097": {
+      "id": "TAX-ML-97",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 97",
+      "description": "Official municipal taxonomy record 97 for Malayalam public grievance classification and triage",
+      "sla_hours": 37,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0098": {
+      "id": "TAX-ML-98",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 98",
+      "description": "Official municipal taxonomy record 98 for Malayalam public grievance classification and triage",
+      "sla_hours": 38,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0099": {
+      "id": "TAX-ML-99",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 99",
+      "description": "Official municipal taxonomy record 99 for Malayalam public grievance classification and triage",
+      "sla_hours": 39,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0100": {
+      "id": "TAX-ML-100",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 100",
+      "description": "Official municipal taxonomy record 100 for Malayalam public grievance classification and triage",
+      "sla_hours": 40,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0101": {
+      "id": "TAX-ML-101",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 101",
+      "description": "Official municipal taxonomy record 101 for Malayalam public grievance classification and triage",
+      "sla_hours": 41,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0102": {
+      "id": "TAX-ML-102",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 102",
+      "description": "Official municipal taxonomy record 102 for Malayalam public grievance classification and triage",
+      "sla_hours": 42,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0103": {
+      "id": "TAX-ML-103",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 103",
+      "description": "Official municipal taxonomy record 103 for Malayalam public grievance classification and triage",
+      "sla_hours": 43,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0104": {
+      "id": "TAX-ML-104",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 104",
+      "description": "Official municipal taxonomy record 104 for Malayalam public grievance classification and triage",
+      "sla_hours": 44,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0105": {
+      "id": "TAX-ML-105",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 105",
+      "description": "Official municipal taxonomy record 105 for Malayalam public grievance classification and triage",
+      "sla_hours": 45,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0106": {
+      "id": "TAX-ML-106",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 106",
+      "description": "Official municipal taxonomy record 106 for Malayalam public grievance classification and triage",
+      "sla_hours": 46,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0107": {
+      "id": "TAX-ML-107",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 107",
+      "description": "Official municipal taxonomy record 107 for Malayalam public grievance classification and triage",
+      "sla_hours": 47,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0108": {
+      "id": "TAX-ML-108",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 108",
+      "description": "Official municipal taxonomy record 108 for Malayalam public grievance classification and triage",
+      "sla_hours": 48,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0109": {
+      "id": "TAX-ML-109",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 109",
+      "description": "Official municipal taxonomy record 109 for Malayalam public grievance classification and triage",
+      "sla_hours": 49,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0110": {
+      "id": "TAX-ML-110",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 110",
+      "description": "Official municipal taxonomy record 110 for Malayalam public grievance classification and triage",
+      "sla_hours": 50,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0111": {
+      "id": "TAX-ML-111",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 111",
+      "description": "Official municipal taxonomy record 111 for Malayalam public grievance classification and triage",
+      "sla_hours": 51,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0112": {
+      "id": "TAX-ML-112",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 112",
+      "description": "Official municipal taxonomy record 112 for Malayalam public grievance classification and triage",
+      "sla_hours": 52,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0113": {
+      "id": "TAX-ML-113",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 113",
+      "description": "Official municipal taxonomy record 113 for Malayalam public grievance classification and triage",
+      "sla_hours": 53,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0114": {
+      "id": "TAX-ML-114",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 114",
+      "description": "Official municipal taxonomy record 114 for Malayalam public grievance classification and triage",
+      "sla_hours": 54,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0115": {
+      "id": "TAX-ML-115",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 115",
+      "description": "Official municipal taxonomy record 115 for Malayalam public grievance classification and triage",
+      "sla_hours": 55,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0116": {
+      "id": "TAX-ML-116",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 116",
+      "description": "Official municipal taxonomy record 116 for Malayalam public grievance classification and triage",
+      "sla_hours": 56,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0117": {
+      "id": "TAX-ML-117",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 117",
+      "description": "Official municipal taxonomy record 117 for Malayalam public grievance classification and triage",
+      "sla_hours": 57,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0118": {
+      "id": "TAX-ML-118",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 118",
+      "description": "Official municipal taxonomy record 118 for Malayalam public grievance classification and triage",
+      "sla_hours": 58,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0119": {
+      "id": "TAX-ML-119",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 119",
+      "description": "Official municipal taxonomy record 119 for Malayalam public grievance classification and triage",
+      "sla_hours": 59,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0120": {
+      "id": "TAX-ML-120",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 120",
+      "description": "Official municipal taxonomy record 120 for Malayalam public grievance classification and triage",
+      "sla_hours": 60,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0121": {
+      "id": "TAX-ML-121",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 121",
+      "description": "Official municipal taxonomy record 121 for Malayalam public grievance classification and triage",
+      "sla_hours": 61,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0122": {
+      "id": "TAX-ML-122",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 122",
+      "description": "Official municipal taxonomy record 122 for Malayalam public grievance classification and triage",
+      "sla_hours": 62,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0123": {
+      "id": "TAX-ML-123",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 123",
+      "description": "Official municipal taxonomy record 123 for Malayalam public grievance classification and triage",
+      "sla_hours": 63,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0124": {
+      "id": "TAX-ML-124",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 124",
+      "description": "Official municipal taxonomy record 124 for Malayalam public grievance classification and triage",
+      "sla_hours": 64,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0125": {
+      "id": "TAX-ML-125",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 125",
+      "description": "Official municipal taxonomy record 125 for Malayalam public grievance classification and triage",
+      "sla_hours": 65,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0126": {
+      "id": "TAX-ML-126",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 126",
+      "description": "Official municipal taxonomy record 126 for Malayalam public grievance classification and triage",
+      "sla_hours": 66,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0127": {
+      "id": "TAX-ML-127",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 127",
+      "description": "Official municipal taxonomy record 127 for Malayalam public grievance classification and triage",
+      "sla_hours": 67,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0128": {
+      "id": "TAX-ML-128",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 128",
+      "description": "Official municipal taxonomy record 128 for Malayalam public grievance classification and triage",
+      "sla_hours": 68,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0129": {
+      "id": "TAX-ML-129",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 129",
+      "description": "Official municipal taxonomy record 129 for Malayalam public grievance classification and triage",
+      "sla_hours": 69,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0130": {
+      "id": "TAX-ML-130",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 130",
+      "description": "Official municipal taxonomy record 130 for Malayalam public grievance classification and triage",
+      "sla_hours": 70,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0131": {
+      "id": "TAX-ML-131",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 131",
+      "description": "Official municipal taxonomy record 131 for Malayalam public grievance classification and triage",
+      "sla_hours": 71,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0132": {
+      "id": "TAX-ML-132",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 132",
+      "description": "Official municipal taxonomy record 132 for Malayalam public grievance classification and triage",
+      "sla_hours": 72,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0133": {
+      "id": "TAX-ML-133",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 133",
+      "description": "Official municipal taxonomy record 133 for Malayalam public grievance classification and triage",
+      "sla_hours": 73,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0134": {
+      "id": "TAX-ML-134",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 134",
+      "description": "Official municipal taxonomy record 134 for Malayalam public grievance classification and triage",
+      "sla_hours": 74,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0135": {
+      "id": "TAX-ML-135",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 135",
+      "description": "Official municipal taxonomy record 135 for Malayalam public grievance classification and triage",
+      "sla_hours": 75,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0136": {
+      "id": "TAX-ML-136",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 136",
+      "description": "Official municipal taxonomy record 136 for Malayalam public grievance classification and triage",
+      "sla_hours": 76,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0137": {
+      "id": "TAX-ML-137",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 137",
+      "description": "Official municipal taxonomy record 137 for Malayalam public grievance classification and triage",
+      "sla_hours": 77,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0138": {
+      "id": "TAX-ML-138",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 138",
+      "description": "Official municipal taxonomy record 138 for Malayalam public grievance classification and triage",
+      "sla_hours": 78,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0139": {
+      "id": "TAX-ML-139",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 139",
+      "description": "Official municipal taxonomy record 139 for Malayalam public grievance classification and triage",
+      "sla_hours": 79,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0140": {
+      "id": "TAX-ML-140",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 140",
+      "description": "Official municipal taxonomy record 140 for Malayalam public grievance classification and triage",
+      "sla_hours": 80,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0141": {
+      "id": "TAX-ML-141",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 141",
+      "description": "Official municipal taxonomy record 141 for Malayalam public grievance classification and triage",
+      "sla_hours": 81,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0142": {
+      "id": "TAX-ML-142",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 142",
+      "description": "Official municipal taxonomy record 142 for Malayalam public grievance classification and triage",
+      "sla_hours": 82,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0143": {
+      "id": "TAX-ML-143",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 143",
+      "description": "Official municipal taxonomy record 143 for Malayalam public grievance classification and triage",
+      "sla_hours": 83,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0144": {
+      "id": "TAX-ML-144",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 144",
+      "description": "Official municipal taxonomy record 144 for Malayalam public grievance classification and triage",
+      "sla_hours": 12,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0145": {
+      "id": "TAX-ML-145",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 145",
+      "description": "Official municipal taxonomy record 145 for Malayalam public grievance classification and triage",
+      "sla_hours": 13,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0146": {
+      "id": "TAX-ML-146",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 146",
+      "description": "Official municipal taxonomy record 146 for Malayalam public grievance classification and triage",
+      "sla_hours": 14,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0147": {
+      "id": "TAX-ML-147",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 147",
+      "description": "Official municipal taxonomy record 147 for Malayalam public grievance classification and triage",
+      "sla_hours": 15,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0148": {
+      "id": "TAX-ML-148",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 148",
+      "description": "Official municipal taxonomy record 148 for Malayalam public grievance classification and triage",
+      "sla_hours": 16,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0149": {
+      "id": "TAX-ML-149",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 149",
+      "description": "Official municipal taxonomy record 149 for Malayalam public grievance classification and triage",
+      "sla_hours": 17,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0150": {
+      "id": "TAX-ML-150",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 150",
+      "description": "Official municipal taxonomy record 150 for Malayalam public grievance classification and triage",
+      "sla_hours": 18,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0151": {
+      "id": "TAX-ML-151",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 151",
+      "description": "Official municipal taxonomy record 151 for Malayalam public grievance classification and triage",
+      "sla_hours": 19,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0152": {
+      "id": "TAX-ML-152",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 152",
+      "description": "Official municipal taxonomy record 152 for Malayalam public grievance classification and triage",
+      "sla_hours": 20,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0153": {
+      "id": "TAX-ML-153",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 153",
+      "description": "Official municipal taxonomy record 153 for Malayalam public grievance classification and triage",
+      "sla_hours": 21,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0154": {
+      "id": "TAX-ML-154",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 154",
+      "description": "Official municipal taxonomy record 154 for Malayalam public grievance classification and triage",
+      "sla_hours": 22,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0155": {
+      "id": "TAX-ML-155",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 155",
+      "description": "Official municipal taxonomy record 155 for Malayalam public grievance classification and triage",
+      "sla_hours": 23,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0156": {
+      "id": "TAX-ML-156",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 156",
+      "description": "Official municipal taxonomy record 156 for Malayalam public grievance classification and triage",
+      "sla_hours": 24,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0157": {
+      "id": "TAX-ML-157",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 157",
+      "description": "Official municipal taxonomy record 157 for Malayalam public grievance classification and triage",
+      "sla_hours": 25,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0158": {
+      "id": "TAX-ML-158",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 158",
+      "description": "Official municipal taxonomy record 158 for Malayalam public grievance classification and triage",
+      "sla_hours": 26,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0159": {
+      "id": "TAX-ML-159",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 159",
+      "description": "Official municipal taxonomy record 159 for Malayalam public grievance classification and triage",
+      "sla_hours": 27,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0160": {
+      "id": "TAX-ML-160",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 160",
+      "description": "Official municipal taxonomy record 160 for Malayalam public grievance classification and triage",
+      "sla_hours": 28,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0161": {
+      "id": "TAX-ML-161",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 161",
+      "description": "Official municipal taxonomy record 161 for Malayalam public grievance classification and triage",
+      "sla_hours": 29,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0162": {
+      "id": "TAX-ML-162",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 162",
+      "description": "Official municipal taxonomy record 162 for Malayalam public grievance classification and triage",
+      "sla_hours": 30,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0163": {
+      "id": "TAX-ML-163",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 163",
+      "description": "Official municipal taxonomy record 163 for Malayalam public grievance classification and triage",
+      "sla_hours": 31,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0164": {
+      "id": "TAX-ML-164",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 164",
+      "description": "Official municipal taxonomy record 164 for Malayalam public grievance classification and triage",
+      "sla_hours": 32,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0165": {
+      "id": "TAX-ML-165",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 165",
+      "description": "Official municipal taxonomy record 165 for Malayalam public grievance classification and triage",
+      "sla_hours": 33,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0166": {
+      "id": "TAX-ML-166",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 166",
+      "description": "Official municipal taxonomy record 166 for Malayalam public grievance classification and triage",
+      "sla_hours": 34,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0167": {
+      "id": "TAX-ML-167",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 167",
+      "description": "Official municipal taxonomy record 167 for Malayalam public grievance classification and triage",
+      "sla_hours": 35,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0168": {
+      "id": "TAX-ML-168",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 168",
+      "description": "Official municipal taxonomy record 168 for Malayalam public grievance classification and triage",
+      "sla_hours": 36,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0169": {
+      "id": "TAX-ML-169",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 169",
+      "description": "Official municipal taxonomy record 169 for Malayalam public grievance classification and triage",
+      "sla_hours": 37,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0170": {
+      "id": "TAX-ML-170",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 170",
+      "description": "Official municipal taxonomy record 170 for Malayalam public grievance classification and triage",
+      "sla_hours": 38,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0171": {
+      "id": "TAX-ML-171",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 171",
+      "description": "Official municipal taxonomy record 171 for Malayalam public grievance classification and triage",
+      "sla_hours": 39,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0172": {
+      "id": "TAX-ML-172",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 172",
+      "description": "Official municipal taxonomy record 172 for Malayalam public grievance classification and triage",
+      "sla_hours": 40,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0173": {
+      "id": "TAX-ML-173",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 173",
+      "description": "Official municipal taxonomy record 173 for Malayalam public grievance classification and triage",
+      "sla_hours": 41,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0174": {
+      "id": "TAX-ML-174",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 174",
+      "description": "Official municipal taxonomy record 174 for Malayalam public grievance classification and triage",
+      "sla_hours": 42,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0175": {
+      "id": "TAX-ML-175",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 175",
+      "description": "Official municipal taxonomy record 175 for Malayalam public grievance classification and triage",
+      "sla_hours": 43,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0176": {
+      "id": "TAX-ML-176",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 176",
+      "description": "Official municipal taxonomy record 176 for Malayalam public grievance classification and triage",
+      "sla_hours": 44,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0177": {
+      "id": "TAX-ML-177",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 177",
+      "description": "Official municipal taxonomy record 177 for Malayalam public grievance classification and triage",
+      "sla_hours": 45,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0178": {
+      "id": "TAX-ML-178",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 178",
+      "description": "Official municipal taxonomy record 178 for Malayalam public grievance classification and triage",
+      "sla_hours": 46,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0179": {
+      "id": "TAX-ML-179",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 179",
+      "description": "Official municipal taxonomy record 179 for Malayalam public grievance classification and triage",
+      "sla_hours": 47,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0180": {
+      "id": "TAX-ML-180",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 180",
+      "description": "Official municipal taxonomy record 180 for Malayalam public grievance classification and triage",
+      "sla_hours": 48,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0181": {
+      "id": "TAX-ML-181",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 181",
+      "description": "Official municipal taxonomy record 181 for Malayalam public grievance classification and triage",
+      "sla_hours": 49,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0182": {
+      "id": "TAX-ML-182",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 182",
+      "description": "Official municipal taxonomy record 182 for Malayalam public grievance classification and triage",
+      "sla_hours": 50,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0183": {
+      "id": "TAX-ML-183",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 183",
+      "description": "Official municipal taxonomy record 183 for Malayalam public grievance classification and triage",
+      "sla_hours": 51,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0184": {
+      "id": "TAX-ML-184",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 184",
+      "description": "Official municipal taxonomy record 184 for Malayalam public grievance classification and triage",
+      "sla_hours": 52,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0185": {
+      "id": "TAX-ML-185",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 185",
+      "description": "Official municipal taxonomy record 185 for Malayalam public grievance classification and triage",
+      "sla_hours": 53,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0186": {
+      "id": "TAX-ML-186",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 186",
+      "description": "Official municipal taxonomy record 186 for Malayalam public grievance classification and triage",
+      "sla_hours": 54,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0187": {
+      "id": "TAX-ML-187",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 187",
+      "description": "Official municipal taxonomy record 187 for Malayalam public grievance classification and triage",
+      "sla_hours": 55,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0188": {
+      "id": "TAX-ML-188",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 188",
+      "description": "Official municipal taxonomy record 188 for Malayalam public grievance classification and triage",
+      "sla_hours": 56,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0189": {
+      "id": "TAX-ML-189",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 189",
+      "description": "Official municipal taxonomy record 189 for Malayalam public grievance classification and triage",
+      "sla_hours": 57,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0190": {
+      "id": "TAX-ML-190",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 190",
+      "description": "Official municipal taxonomy record 190 for Malayalam public grievance classification and triage",
+      "sla_hours": 58,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0191": {
+      "id": "TAX-ML-191",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 191",
+      "description": "Official municipal taxonomy record 191 for Malayalam public grievance classification and triage",
+      "sla_hours": 59,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0192": {
+      "id": "TAX-ML-192",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 192",
+      "description": "Official municipal taxonomy record 192 for Malayalam public grievance classification and triage",
+      "sla_hours": 60,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0193": {
+      "id": "TAX-ML-193",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 193",
+      "description": "Official municipal taxonomy record 193 for Malayalam public grievance classification and triage",
+      "sla_hours": 61,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0194": {
+      "id": "TAX-ML-194",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 194",
+      "description": "Official municipal taxonomy record 194 for Malayalam public grievance classification and triage",
+      "sla_hours": 62,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0195": {
+      "id": "TAX-ML-195",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 195",
+      "description": "Official municipal taxonomy record 195 for Malayalam public grievance classification and triage",
+      "sla_hours": 63,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0196": {
+      "id": "TAX-ML-196",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 196",
+      "description": "Official municipal taxonomy record 196 for Malayalam public grievance classification and triage",
+      "sla_hours": 64,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0197": {
+      "id": "TAX-ML-197",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 197",
+      "description": "Official municipal taxonomy record 197 for Malayalam public grievance classification and triage",
+      "sla_hours": 65,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0198": {
+      "id": "TAX-ML-198",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 198",
+      "description": "Official municipal taxonomy record 198 for Malayalam public grievance classification and triage",
+      "sla_hours": 66,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0199": {
+      "id": "TAX-ML-199",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 199",
+      "description": "Official municipal taxonomy record 199 for Malayalam public grievance classification and triage",
+      "sla_hours": 67,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0200": {
+      "id": "TAX-ML-200",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 200",
+      "description": "Official municipal taxonomy record 200 for Malayalam public grievance classification and triage",
+      "sla_hours": 68,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0201": {
+      "id": "TAX-ML-201",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 201",
+      "description": "Official municipal taxonomy record 201 for Malayalam public grievance classification and triage",
+      "sla_hours": 69,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0202": {
+      "id": "TAX-ML-202",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 202",
+      "description": "Official municipal taxonomy record 202 for Malayalam public grievance classification and triage",
+      "sla_hours": 70,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0203": {
+      "id": "TAX-ML-203",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 203",
+      "description": "Official municipal taxonomy record 203 for Malayalam public grievance classification and triage",
+      "sla_hours": 71,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0204": {
+      "id": "TAX-ML-204",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 204",
+      "description": "Official municipal taxonomy record 204 for Malayalam public grievance classification and triage",
+      "sla_hours": 72,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0205": {
+      "id": "TAX-ML-205",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 205",
+      "description": "Official municipal taxonomy record 205 for Malayalam public grievance classification and triage",
+      "sla_hours": 73,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0206": {
+      "id": "TAX-ML-206",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 206",
+      "description": "Official municipal taxonomy record 206 for Malayalam public grievance classification and triage",
+      "sla_hours": 74,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0207": {
+      "id": "TAX-ML-207",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 207",
+      "description": "Official municipal taxonomy record 207 for Malayalam public grievance classification and triage",
+      "sla_hours": 75,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0208": {
+      "id": "TAX-ML-208",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 208",
+      "description": "Official municipal taxonomy record 208 for Malayalam public grievance classification and triage",
+      "sla_hours": 76,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0209": {
+      "id": "TAX-ML-209",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 209",
+      "description": "Official municipal taxonomy record 209 for Malayalam public grievance classification and triage",
+      "sla_hours": 77,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0210": {
+      "id": "TAX-ML-210",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 210",
+      "description": "Official municipal taxonomy record 210 for Malayalam public grievance classification and triage",
+      "sla_hours": 78,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0211": {
+      "id": "TAX-ML-211",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 211",
+      "description": "Official municipal taxonomy record 211 for Malayalam public grievance classification and triage",
+      "sla_hours": 79,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0212": {
+      "id": "TAX-ML-212",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 212",
+      "description": "Official municipal taxonomy record 212 for Malayalam public grievance classification and triage",
+      "sla_hours": 80,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0213": {
+      "id": "TAX-ML-213",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 213",
+      "description": "Official municipal taxonomy record 213 for Malayalam public grievance classification and triage",
+      "sla_hours": 81,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0214": {
+      "id": "TAX-ML-214",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 214",
+      "description": "Official municipal taxonomy record 214 for Malayalam public grievance classification and triage",
+      "sla_hours": 82,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0215": {
+      "id": "TAX-ML-215",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 215",
+      "description": "Official municipal taxonomy record 215 for Malayalam public grievance classification and triage",
+      "sla_hours": 83,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0216": {
+      "id": "TAX-ML-216",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 216",
+      "description": "Official municipal taxonomy record 216 for Malayalam public grievance classification and triage",
+      "sla_hours": 12,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0217": {
+      "id": "TAX-ML-217",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 217",
+      "description": "Official municipal taxonomy record 217 for Malayalam public grievance classification and triage",
+      "sla_hours": 13,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0218": {
+      "id": "TAX-ML-218",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 218",
+      "description": "Official municipal taxonomy record 218 for Malayalam public grievance classification and triage",
+      "sla_hours": 14,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0219": {
+      "id": "TAX-ML-219",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 219",
+      "description": "Official municipal taxonomy record 219 for Malayalam public grievance classification and triage",
+      "sla_hours": 15,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0220": {
+      "id": "TAX-ML-220",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 220",
+      "description": "Official municipal taxonomy record 220 for Malayalam public grievance classification and triage",
+      "sla_hours": 16,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0221": {
+      "id": "TAX-ML-221",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 221",
+      "description": "Official municipal taxonomy record 221 for Malayalam public grievance classification and triage",
+      "sla_hours": 17,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0222": {
+      "id": "TAX-ML-222",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 222",
+      "description": "Official municipal taxonomy record 222 for Malayalam public grievance classification and triage",
+      "sla_hours": 18,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0223": {
+      "id": "TAX-ML-223",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 223",
+      "description": "Official municipal taxonomy record 223 for Malayalam public grievance classification and triage",
+      "sla_hours": 19,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0224": {
+      "id": "TAX-ML-224",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 224",
+      "description": "Official municipal taxonomy record 224 for Malayalam public grievance classification and triage",
+      "sla_hours": 20,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0225": {
+      "id": "TAX-ML-225",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 225",
+      "description": "Official municipal taxonomy record 225 for Malayalam public grievance classification and triage",
+      "sla_hours": 21,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0226": {
+      "id": "TAX-ML-226",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 226",
+      "description": "Official municipal taxonomy record 226 for Malayalam public grievance classification and triage",
+      "sla_hours": 22,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0227": {
+      "id": "TAX-ML-227",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 227",
+      "description": "Official municipal taxonomy record 227 for Malayalam public grievance classification and triage",
+      "sla_hours": 23,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0228": {
+      "id": "TAX-ML-228",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 228",
+      "description": "Official municipal taxonomy record 228 for Malayalam public grievance classification and triage",
+      "sla_hours": 24,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0229": {
+      "id": "TAX-ML-229",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 229",
+      "description": "Official municipal taxonomy record 229 for Malayalam public grievance classification and triage",
+      "sla_hours": 25,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0230": {
+      "id": "TAX-ML-230",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 230",
+      "description": "Official municipal taxonomy record 230 for Malayalam public grievance classification and triage",
+      "sla_hours": 26,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0231": {
+      "id": "TAX-ML-231",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 231",
+      "description": "Official municipal taxonomy record 231 for Malayalam public grievance classification and triage",
+      "sla_hours": 27,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0232": {
+      "id": "TAX-ML-232",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 232",
+      "description": "Official municipal taxonomy record 232 for Malayalam public grievance classification and triage",
+      "sla_hours": 28,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0233": {
+      "id": "TAX-ML-233",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 233",
+      "description": "Official municipal taxonomy record 233 for Malayalam public grievance classification and triage",
+      "sla_hours": 29,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0234": {
+      "id": "TAX-ML-234",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 234",
+      "description": "Official municipal taxonomy record 234 for Malayalam public grievance classification and triage",
+      "sla_hours": 30,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0235": {
+      "id": "TAX-ML-235",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 235",
+      "description": "Official municipal taxonomy record 235 for Malayalam public grievance classification and triage",
+      "sla_hours": 31,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0236": {
+      "id": "TAX-ML-236",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 236",
+      "description": "Official municipal taxonomy record 236 for Malayalam public grievance classification and triage",
+      "sla_hours": 32,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0237": {
+      "id": "TAX-ML-237",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 237",
+      "description": "Official municipal taxonomy record 237 for Malayalam public grievance classification and triage",
+      "sla_hours": 33,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0238": {
+      "id": "TAX-ML-238",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 238",
+      "description": "Official municipal taxonomy record 238 for Malayalam public grievance classification and triage",
+      "sla_hours": 34,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0239": {
+      "id": "TAX-ML-239",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 239",
+      "description": "Official municipal taxonomy record 239 for Malayalam public grievance classification and triage",
+      "sla_hours": 35,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0240": {
+      "id": "TAX-ML-240",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 240",
+      "description": "Official municipal taxonomy record 240 for Malayalam public grievance classification and triage",
+      "sla_hours": 36,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0241": {
+      "id": "TAX-ML-241",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 241",
+      "description": "Official municipal taxonomy record 241 for Malayalam public grievance classification and triage",
+      "sla_hours": 37,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0242": {
+      "id": "TAX-ML-242",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 242",
+      "description": "Official municipal taxonomy record 242 for Malayalam public grievance classification and triage",
+      "sla_hours": 38,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0243": {
+      "id": "TAX-ML-243",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 243",
+      "description": "Official municipal taxonomy record 243 for Malayalam public grievance classification and triage",
+      "sla_hours": 39,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0244": {
+      "id": "TAX-ML-244",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 244",
+      "description": "Official municipal taxonomy record 244 for Malayalam public grievance classification and triage",
+      "sla_hours": 40,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0245": {
+      "id": "TAX-ML-245",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 245",
+      "description": "Official municipal taxonomy record 245 for Malayalam public grievance classification and triage",
+      "sla_hours": 41,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0246": {
+      "id": "TAX-ML-246",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 246",
+      "description": "Official municipal taxonomy record 246 for Malayalam public grievance classification and triage",
+      "sla_hours": 42,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0247": {
+      "id": "TAX-ML-247",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 247",
+      "description": "Official municipal taxonomy record 247 for Malayalam public grievance classification and triage",
+      "sla_hours": 43,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0248": {
+      "id": "TAX-ML-248",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 248",
+      "description": "Official municipal taxonomy record 248 for Malayalam public grievance classification and triage",
+      "sla_hours": 44,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0249": {
+      "id": "TAX-ML-249",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 249",
+      "description": "Official municipal taxonomy record 249 for Malayalam public grievance classification and triage",
+      "sla_hours": 45,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0250": {
+      "id": "TAX-ML-250",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 250",
+      "description": "Official municipal taxonomy record 250 for Malayalam public grievance classification and triage",
+      "sla_hours": 46,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0251": {
+      "id": "TAX-ML-251",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 251",
+      "description": "Official municipal taxonomy record 251 for Malayalam public grievance classification and triage",
+      "sla_hours": 47,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0252": {
+      "id": "TAX-ML-252",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 252",
+      "description": "Official municipal taxonomy record 252 for Malayalam public grievance classification and triage",
+      "sla_hours": 48,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0253": {
+      "id": "TAX-ML-253",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 253",
+      "description": "Official municipal taxonomy record 253 for Malayalam public grievance classification and triage",
+      "sla_hours": 49,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0254": {
+      "id": "TAX-ML-254",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 254",
+      "description": "Official municipal taxonomy record 254 for Malayalam public grievance classification and triage",
+      "sla_hours": 50,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0255": {
+      "id": "TAX-ML-255",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 255",
+      "description": "Official municipal taxonomy record 255 for Malayalam public grievance classification and triage",
+      "sla_hours": 51,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0256": {
+      "id": "TAX-ML-256",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 256",
+      "description": "Official municipal taxonomy record 256 for Malayalam public grievance classification and triage",
+      "sla_hours": 52,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0257": {
+      "id": "TAX-ML-257",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 257",
+      "description": "Official municipal taxonomy record 257 for Malayalam public grievance classification and triage",
+      "sla_hours": 53,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0258": {
+      "id": "TAX-ML-258",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 258",
+      "description": "Official municipal taxonomy record 258 for Malayalam public grievance classification and triage",
+      "sla_hours": 54,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0259": {
+      "id": "TAX-ML-259",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 259",
+      "description": "Official municipal taxonomy record 259 for Malayalam public grievance classification and triage",
+      "sla_hours": 55,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0260": {
+      "id": "TAX-ML-260",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 260",
+      "description": "Official municipal taxonomy record 260 for Malayalam public grievance classification and triage",
+      "sla_hours": 56,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0261": {
+      "id": "TAX-ML-261",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 261",
+      "description": "Official municipal taxonomy record 261 for Malayalam public grievance classification and triage",
+      "sla_hours": 57,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0262": {
+      "id": "TAX-ML-262",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 262",
+      "description": "Official municipal taxonomy record 262 for Malayalam public grievance classification and triage",
+      "sla_hours": 58,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0263": {
+      "id": "TAX-ML-263",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 263",
+      "description": "Official municipal taxonomy record 263 for Malayalam public grievance classification and triage",
+      "sla_hours": 59,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0264": {
+      "id": "TAX-ML-264",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 264",
+      "description": "Official municipal taxonomy record 264 for Malayalam public grievance classification and triage",
+      "sla_hours": 60,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0265": {
+      "id": "TAX-ML-265",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 265",
+      "description": "Official municipal taxonomy record 265 for Malayalam public grievance classification and triage",
+      "sla_hours": 61,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0266": {
+      "id": "TAX-ML-266",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 266",
+      "description": "Official municipal taxonomy record 266 for Malayalam public grievance classification and triage",
+      "sla_hours": 62,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0267": {
+      "id": "TAX-ML-267",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 267",
+      "description": "Official municipal taxonomy record 267 for Malayalam public grievance classification and triage",
+      "sla_hours": 63,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0268": {
+      "id": "TAX-ML-268",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 268",
+      "description": "Official municipal taxonomy record 268 for Malayalam public grievance classification and triage",
+      "sla_hours": 64,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0269": {
+      "id": "TAX-ML-269",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 269",
+      "description": "Official municipal taxonomy record 269 for Malayalam public grievance classification and triage",
+      "sla_hours": 65,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0270": {
+      "id": "TAX-ML-270",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 270",
+      "description": "Official municipal taxonomy record 270 for Malayalam public grievance classification and triage",
+      "sla_hours": 66,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0271": {
+      "id": "TAX-ML-271",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 271",
+      "description": "Official municipal taxonomy record 271 for Malayalam public grievance classification and triage",
+      "sla_hours": 67,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0272": {
+      "id": "TAX-ML-272",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 272",
+      "description": "Official municipal taxonomy record 272 for Malayalam public grievance classification and triage",
+      "sla_hours": 68,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0273": {
+      "id": "TAX-ML-273",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 273",
+      "description": "Official municipal taxonomy record 273 for Malayalam public grievance classification and triage",
+      "sla_hours": 69,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0274": {
+      "id": "TAX-ML-274",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 274",
+      "description": "Official municipal taxonomy record 274 for Malayalam public grievance classification and triage",
+      "sla_hours": 70,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0275": {
+      "id": "TAX-ML-275",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 275",
+      "description": "Official municipal taxonomy record 275 for Malayalam public grievance classification and triage",
+      "sla_hours": 71,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0276": {
+      "id": "TAX-ML-276",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 276",
+      "description": "Official municipal taxonomy record 276 for Malayalam public grievance classification and triage",
+      "sla_hours": 72,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0277": {
+      "id": "TAX-ML-277",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 277",
+      "description": "Official municipal taxonomy record 277 for Malayalam public grievance classification and triage",
+      "sla_hours": 73,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0278": {
+      "id": "TAX-ML-278",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 278",
+      "description": "Official municipal taxonomy record 278 for Malayalam public grievance classification and triage",
+      "sla_hours": 74,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0279": {
+      "id": "TAX-ML-279",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Malayalam] Municipal Civic Grievance Category Entry 279",
+      "description": "Official municipal taxonomy record 279 for Malayalam public grievance classification and triage",
+      "sla_hours": 75,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    }
+  }
+}
