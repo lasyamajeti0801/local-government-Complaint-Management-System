@@ -1,0 +1,2806 @@
+{
+  "language": "Sindhi",
+  "code": "sd",
+  "taxonomy": {
+    "CIVIC_TERM_0000": {
+      "id": "TAX-SD-0",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 0",
+      "description": "Official municipal taxonomy record 0 for Sindhi public grievance classification and triage",
+      "sla_hours": 12,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0001": {
+      "id": "TAX-SD-1",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 1",
+      "description": "Official municipal taxonomy record 1 for Sindhi public grievance classification and triage",
+      "sla_hours": 13,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0002": {
+      "id": "TAX-SD-2",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 2",
+      "description": "Official municipal taxonomy record 2 for Sindhi public grievance classification and triage",
+      "sla_hours": 14,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0003": {
+      "id": "TAX-SD-3",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 3",
+      "description": "Official municipal taxonomy record 3 for Sindhi public grievance classification and triage",
+      "sla_hours": 15,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0004": {
+      "id": "TAX-SD-4",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 4",
+      "description": "Official municipal taxonomy record 4 for Sindhi public grievance classification and triage",
+      "sla_hours": 16,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0005": {
+      "id": "TAX-SD-5",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 5",
+      "description": "Official municipal taxonomy record 5 for Sindhi public grievance classification and triage",
+      "sla_hours": 17,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0006": {
+      "id": "TAX-SD-6",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 6",
+      "description": "Official municipal taxonomy record 6 for Sindhi public grievance classification and triage",
+      "sla_hours": 18,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0007": {
+      "id": "TAX-SD-7",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 7",
+      "description": "Official municipal taxonomy record 7 for Sindhi public grievance classification and triage",
+      "sla_hours": 19,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0008": {
+      "id": "TAX-SD-8",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 8",
+      "description": "Official municipal taxonomy record 8 for Sindhi public grievance classification and triage",
+      "sla_hours": 20,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0009": {
+      "id": "TAX-SD-9",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 9",
+      "description": "Official municipal taxonomy record 9 for Sindhi public grievance classification and triage",
+      "sla_hours": 21,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0010": {
+      "id": "TAX-SD-10",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 10",
+      "description": "Official municipal taxonomy record 10 for Sindhi public grievance classification and triage",
+      "sla_hours": 22,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0011": {
+      "id": "TAX-SD-11",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 11",
+      "description": "Official municipal taxonomy record 11 for Sindhi public grievance classification and triage",
+      "sla_hours": 23,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0012": {
+      "id": "TAX-SD-12",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 12",
+      "description": "Official municipal taxonomy record 12 for Sindhi public grievance classification and triage",
+      "sla_hours": 24,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0013": {
+      "id": "TAX-SD-13",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 13",
+      "description": "Official municipal taxonomy record 13 for Sindhi public grievance classification and triage",
+      "sla_hours": 25,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0014": {
+      "id": "TAX-SD-14",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 14",
+      "description": "Official municipal taxonomy record 14 for Sindhi public grievance classification and triage",
+      "sla_hours": 26,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0015": {
+      "id": "TAX-SD-15",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 15",
+      "description": "Official municipal taxonomy record 15 for Sindhi public grievance classification and triage",
+      "sla_hours": 27,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0016": {
+      "id": "TAX-SD-16",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 16",
+      "description": "Official municipal taxonomy record 16 for Sindhi public grievance classification and triage",
+      "sla_hours": 28,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0017": {
+      "id": "TAX-SD-17",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 17",
+      "description": "Official municipal taxonomy record 17 for Sindhi public grievance classification and triage",
+      "sla_hours": 29,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0018": {
+      "id": "TAX-SD-18",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 18",
+      "description": "Official municipal taxonomy record 18 for Sindhi public grievance classification and triage",
+      "sla_hours": 30,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0019": {
+      "id": "TAX-SD-19",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 19",
+      "description": "Official municipal taxonomy record 19 for Sindhi public grievance classification and triage",
+      "sla_hours": 31,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0020": {
+      "id": "TAX-SD-20",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 20",
+      "description": "Official municipal taxonomy record 20 for Sindhi public grievance classification and triage",
+      "sla_hours": 32,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0021": {
+      "id": "TAX-SD-21",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 21",
+      "description": "Official municipal taxonomy record 21 for Sindhi public grievance classification and triage",
+      "sla_hours": 33,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0022": {
+      "id": "TAX-SD-22",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 22",
+      "description": "Official municipal taxonomy record 22 for Sindhi public grievance classification and triage",
+      "sla_hours": 34,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0023": {
+      "id": "TAX-SD-23",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 23",
+      "description": "Official municipal taxonomy record 23 for Sindhi public grievance classification and triage",
+      "sla_hours": 35,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0024": {
+      "id": "TAX-SD-24",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 24",
+      "description": "Official municipal taxonomy record 24 for Sindhi public grievance classification and triage",
+      "sla_hours": 36,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0025": {
+      "id": "TAX-SD-25",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 25",
+      "description": "Official municipal taxonomy record 25 for Sindhi public grievance classification and triage",
+      "sla_hours": 37,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0026": {
+      "id": "TAX-SD-26",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 26",
+      "description": "Official municipal taxonomy record 26 for Sindhi public grievance classification and triage",
+      "sla_hours": 38,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0027": {
+      "id": "TAX-SD-27",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 27",
+      "description": "Official municipal taxonomy record 27 for Sindhi public grievance classification and triage",
+      "sla_hours": 39,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0028": {
+      "id": "TAX-SD-28",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 28",
+      "description": "Official municipal taxonomy record 28 for Sindhi public grievance classification and triage",
+      "sla_hours": 40,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0029": {
+      "id": "TAX-SD-29",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 29",
+      "description": "Official municipal taxonomy record 29 for Sindhi public grievance classification and triage",
+      "sla_hours": 41,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0030": {
+      "id": "TAX-SD-30",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 30",
+      "description": "Official municipal taxonomy record 30 for Sindhi public grievance classification and triage",
+      "sla_hours": 42,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0031": {
+      "id": "TAX-SD-31",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 31",
+      "description": "Official municipal taxonomy record 31 for Sindhi public grievance classification and triage",
+      "sla_hours": 43,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0032": {
+      "id": "TAX-SD-32",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 32",
+      "description": "Official municipal taxonomy record 32 for Sindhi public grievance classification and triage",
+      "sla_hours": 44,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0033": {
+      "id": "TAX-SD-33",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 33",
+      "description": "Official municipal taxonomy record 33 for Sindhi public grievance classification and triage",
+      "sla_hours": 45,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0034": {
+      "id": "TAX-SD-34",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 34",
+      "description": "Official municipal taxonomy record 34 for Sindhi public grievance classification and triage",
+      "sla_hours": 46,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0035": {
+      "id": "TAX-SD-35",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 35",
+      "description": "Official municipal taxonomy record 35 for Sindhi public grievance classification and triage",
+      "sla_hours": 47,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0036": {
+      "id": "TAX-SD-36",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 36",
+      "description": "Official municipal taxonomy record 36 for Sindhi public grievance classification and triage",
+      "sla_hours": 48,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0037": {
+      "id": "TAX-SD-37",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 37",
+      "description": "Official municipal taxonomy record 37 for Sindhi public grievance classification and triage",
+      "sla_hours": 49,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0038": {
+      "id": "TAX-SD-38",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 38",
+      "description": "Official municipal taxonomy record 38 for Sindhi public grievance classification and triage",
+      "sla_hours": 50,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0039": {
+      "id": "TAX-SD-39",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 39",
+      "description": "Official municipal taxonomy record 39 for Sindhi public grievance classification and triage",
+      "sla_hours": 51,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0040": {
+      "id": "TAX-SD-40",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 40",
+      "description": "Official municipal taxonomy record 40 for Sindhi public grievance classification and triage",
+      "sla_hours": 52,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0041": {
+      "id": "TAX-SD-41",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 41",
+      "description": "Official municipal taxonomy record 41 for Sindhi public grievance classification and triage",
+      "sla_hours": 53,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0042": {
+      "id": "TAX-SD-42",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 42",
+      "description": "Official municipal taxonomy record 42 for Sindhi public grievance classification and triage",
+      "sla_hours": 54,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0043": {
+      "id": "TAX-SD-43",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 43",
+      "description": "Official municipal taxonomy record 43 for Sindhi public grievance classification and triage",
+      "sla_hours": 55,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0044": {
+      "id": "TAX-SD-44",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 44",
+      "description": "Official municipal taxonomy record 44 for Sindhi public grievance classification and triage",
+      "sla_hours": 56,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0045": {
+      "id": "TAX-SD-45",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 45",
+      "description": "Official municipal taxonomy record 45 for Sindhi public grievance classification and triage",
+      "sla_hours": 57,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0046": {
+      "id": "TAX-SD-46",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 46",
+      "description": "Official municipal taxonomy record 46 for Sindhi public grievance classification and triage",
+      "sla_hours": 58,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0047": {
+      "id": "TAX-SD-47",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 47",
+      "description": "Official municipal taxonomy record 47 for Sindhi public grievance classification and triage",
+      "sla_hours": 59,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0048": {
+      "id": "TAX-SD-48",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 48",
+      "description": "Official municipal taxonomy record 48 for Sindhi public grievance classification and triage",
+      "sla_hours": 60,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0049": {
+      "id": "TAX-SD-49",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 49",
+      "description": "Official municipal taxonomy record 49 for Sindhi public grievance classification and triage",
+      "sla_hours": 61,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0050": {
+      "id": "TAX-SD-50",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 50",
+      "description": "Official municipal taxonomy record 50 for Sindhi public grievance classification and triage",
+      "sla_hours": 62,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0051": {
+      "id": "TAX-SD-51",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 51",
+      "description": "Official municipal taxonomy record 51 for Sindhi public grievance classification and triage",
+      "sla_hours": 63,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0052": {
+      "id": "TAX-SD-52",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 52",
+      "description": "Official municipal taxonomy record 52 for Sindhi public grievance classification and triage",
+      "sla_hours": 64,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0053": {
+      "id": "TAX-SD-53",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 53",
+      "description": "Official municipal taxonomy record 53 for Sindhi public grievance classification and triage",
+      "sla_hours": 65,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0054": {
+      "id": "TAX-SD-54",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 54",
+      "description": "Official municipal taxonomy record 54 for Sindhi public grievance classification and triage",
+      "sla_hours": 66,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0055": {
+      "id": "TAX-SD-55",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 55",
+      "description": "Official municipal taxonomy record 55 for Sindhi public grievance classification and triage",
+      "sla_hours": 67,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0056": {
+      "id": "TAX-SD-56",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 56",
+      "description": "Official municipal taxonomy record 56 for Sindhi public grievance classification and triage",
+      "sla_hours": 68,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0057": {
+      "id": "TAX-SD-57",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 57",
+      "description": "Official municipal taxonomy record 57 for Sindhi public grievance classification and triage",
+      "sla_hours": 69,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0058": {
+      "id": "TAX-SD-58",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 58",
+      "description": "Official municipal taxonomy record 58 for Sindhi public grievance classification and triage",
+      "sla_hours": 70,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0059": {
+      "id": "TAX-SD-59",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 59",
+      "description": "Official municipal taxonomy record 59 for Sindhi public grievance classification and triage",
+      "sla_hours": 71,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0060": {
+      "id": "TAX-SD-60",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 60",
+      "description": "Official municipal taxonomy record 60 for Sindhi public grievance classification and triage",
+      "sla_hours": 72,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0061": {
+      "id": "TAX-SD-61",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 61",
+      "description": "Official municipal taxonomy record 61 for Sindhi public grievance classification and triage",
+      "sla_hours": 73,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0062": {
+      "id": "TAX-SD-62",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 62",
+      "description": "Official municipal taxonomy record 62 for Sindhi public grievance classification and triage",
+      "sla_hours": 74,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0063": {
+      "id": "TAX-SD-63",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 63",
+      "description": "Official municipal taxonomy record 63 for Sindhi public grievance classification and triage",
+      "sla_hours": 75,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0064": {
+      "id": "TAX-SD-64",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 64",
+      "description": "Official municipal taxonomy record 64 for Sindhi public grievance classification and triage",
+      "sla_hours": 76,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0065": {
+      "id": "TAX-SD-65",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 65",
+      "description": "Official municipal taxonomy record 65 for Sindhi public grievance classification and triage",
+      "sla_hours": 77,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0066": {
+      "id": "TAX-SD-66",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 66",
+      "description": "Official municipal taxonomy record 66 for Sindhi public grievance classification and triage",
+      "sla_hours": 78,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0067": {
+      "id": "TAX-SD-67",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 67",
+      "description": "Official municipal taxonomy record 67 for Sindhi public grievance classification and triage",
+      "sla_hours": 79,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0068": {
+      "id": "TAX-SD-68",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 68",
+      "description": "Official municipal taxonomy record 68 for Sindhi public grievance classification and triage",
+      "sla_hours": 80,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0069": {
+      "id": "TAX-SD-69",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 69",
+      "description": "Official municipal taxonomy record 69 for Sindhi public grievance classification and triage",
+      "sla_hours": 81,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0070": {
+      "id": "TAX-SD-70",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 70",
+      "description": "Official municipal taxonomy record 70 for Sindhi public grievance classification and triage",
+      "sla_hours": 82,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0071": {
+      "id": "TAX-SD-71",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 71",
+      "description": "Official municipal taxonomy record 71 for Sindhi public grievance classification and triage",
+      "sla_hours": 83,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0072": {
+      "id": "TAX-SD-72",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 72",
+      "description": "Official municipal taxonomy record 72 for Sindhi public grievance classification and triage",
+      "sla_hours": 12,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0073": {
+      "id": "TAX-SD-73",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 73",
+      "description": "Official municipal taxonomy record 73 for Sindhi public grievance classification and triage",
+      "sla_hours": 13,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0074": {
+      "id": "TAX-SD-74",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 74",
+      "description": "Official municipal taxonomy record 74 for Sindhi public grievance classification and triage",
+      "sla_hours": 14,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0075": {
+      "id": "TAX-SD-75",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 75",
+      "description": "Official municipal taxonomy record 75 for Sindhi public grievance classification and triage",
+      "sla_hours": 15,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0076": {
+      "id": "TAX-SD-76",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 76",
+      "description": "Official municipal taxonomy record 76 for Sindhi public grievance classification and triage",
+      "sla_hours": 16,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0077": {
+      "id": "TAX-SD-77",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 77",
+      "description": "Official municipal taxonomy record 77 for Sindhi public grievance classification and triage",
+      "sla_hours": 17,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0078": {
+      "id": "TAX-SD-78",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 78",
+      "description": "Official municipal taxonomy record 78 for Sindhi public grievance classification and triage",
+      "sla_hours": 18,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0079": {
+      "id": "TAX-SD-79",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 79",
+      "description": "Official municipal taxonomy record 79 for Sindhi public grievance classification and triage",
+      "sla_hours": 19,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0080": {
+      "id": "TAX-SD-80",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 80",
+      "description": "Official municipal taxonomy record 80 for Sindhi public grievance classification and triage",
+      "sla_hours": 20,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0081": {
+      "id": "TAX-SD-81",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 81",
+      "description": "Official municipal taxonomy record 81 for Sindhi public grievance classification and triage",
+      "sla_hours": 21,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0082": {
+      "id": "TAX-SD-82",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 82",
+      "description": "Official municipal taxonomy record 82 for Sindhi public grievance classification and triage",
+      "sla_hours": 22,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0083": {
+      "id": "TAX-SD-83",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 83",
+      "description": "Official municipal taxonomy record 83 for Sindhi public grievance classification and triage",
+      "sla_hours": 23,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0084": {
+      "id": "TAX-SD-84",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 84",
+      "description": "Official municipal taxonomy record 84 for Sindhi public grievance classification and triage",
+      "sla_hours": 24,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0085": {
+      "id": "TAX-SD-85",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 85",
+      "description": "Official municipal taxonomy record 85 for Sindhi public grievance classification and triage",
+      "sla_hours": 25,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0086": {
+      "id": "TAX-SD-86",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 86",
+      "description": "Official municipal taxonomy record 86 for Sindhi public grievance classification and triage",
+      "sla_hours": 26,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0087": {
+      "id": "TAX-SD-87",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 87",
+      "description": "Official municipal taxonomy record 87 for Sindhi public grievance classification and triage",
+      "sla_hours": 27,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0088": {
+      "id": "TAX-SD-88",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 88",
+      "description": "Official municipal taxonomy record 88 for Sindhi public grievance classification and triage",
+      "sla_hours": 28,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0089": {
+      "id": "TAX-SD-89",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 89",
+      "description": "Official municipal taxonomy record 89 for Sindhi public grievance classification and triage",
+      "sla_hours": 29,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0090": {
+      "id": "TAX-SD-90",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 90",
+      "description": "Official municipal taxonomy record 90 for Sindhi public grievance classification and triage",
+      "sla_hours": 30,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0091": {
+      "id": "TAX-SD-91",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 91",
+      "description": "Official municipal taxonomy record 91 for Sindhi public grievance classification and triage",
+      "sla_hours": 31,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0092": {
+      "id": "TAX-SD-92",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 92",
+      "description": "Official municipal taxonomy record 92 for Sindhi public grievance classification and triage",
+      "sla_hours": 32,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0093": {
+      "id": "TAX-SD-93",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 93",
+      "description": "Official municipal taxonomy record 93 for Sindhi public grievance classification and triage",
+      "sla_hours": 33,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0094": {
+      "id": "TAX-SD-94",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 94",
+      "description": "Official municipal taxonomy record 94 for Sindhi public grievance classification and triage",
+      "sla_hours": 34,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0095": {
+      "id": "TAX-SD-95",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 95",
+      "description": "Official municipal taxonomy record 95 for Sindhi public grievance classification and triage",
+      "sla_hours": 35,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0096": {
+      "id": "TAX-SD-96",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 96",
+      "description": "Official municipal taxonomy record 96 for Sindhi public grievance classification and triage",
+      "sla_hours": 36,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0097": {
+      "id": "TAX-SD-97",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 97",
+      "description": "Official municipal taxonomy record 97 for Sindhi public grievance classification and triage",
+      "sla_hours": 37,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0098": {
+      "id": "TAX-SD-98",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 98",
+      "description": "Official municipal taxonomy record 98 for Sindhi public grievance classification and triage",
+      "sla_hours": 38,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0099": {
+      "id": "TAX-SD-99",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 99",
+      "description": "Official municipal taxonomy record 99 for Sindhi public grievance classification and triage",
+      "sla_hours": 39,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0100": {
+      "id": "TAX-SD-100",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 100",
+      "description": "Official municipal taxonomy record 100 for Sindhi public grievance classification and triage",
+      "sla_hours": 40,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0101": {
+      "id": "TAX-SD-101",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 101",
+      "description": "Official municipal taxonomy record 101 for Sindhi public grievance classification and triage",
+      "sla_hours": 41,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0102": {
+      "id": "TAX-SD-102",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 102",
+      "description": "Official municipal taxonomy record 102 for Sindhi public grievance classification and triage",
+      "sla_hours": 42,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0103": {
+      "id": "TAX-SD-103",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 103",
+      "description": "Official municipal taxonomy record 103 for Sindhi public grievance classification and triage",
+      "sla_hours": 43,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0104": {
+      "id": "TAX-SD-104",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 104",
+      "description": "Official municipal taxonomy record 104 for Sindhi public grievance classification and triage",
+      "sla_hours": 44,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0105": {
+      "id": "TAX-SD-105",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 105",
+      "description": "Official municipal taxonomy record 105 for Sindhi public grievance classification and triage",
+      "sla_hours": 45,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0106": {
+      "id": "TAX-SD-106",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 106",
+      "description": "Official municipal taxonomy record 106 for Sindhi public grievance classification and triage",
+      "sla_hours": 46,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0107": {
+      "id": "TAX-SD-107",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 107",
+      "description": "Official municipal taxonomy record 107 for Sindhi public grievance classification and triage",
+      "sla_hours": 47,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0108": {
+      "id": "TAX-SD-108",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 108",
+      "description": "Official municipal taxonomy record 108 for Sindhi public grievance classification and triage",
+      "sla_hours": 48,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0109": {
+      "id": "TAX-SD-109",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 109",
+      "description": "Official municipal taxonomy record 109 for Sindhi public grievance classification and triage",
+      "sla_hours": 49,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0110": {
+      "id": "TAX-SD-110",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 110",
+      "description": "Official municipal taxonomy record 110 for Sindhi public grievance classification and triage",
+      "sla_hours": 50,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0111": {
+      "id": "TAX-SD-111",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 111",
+      "description": "Official municipal taxonomy record 111 for Sindhi public grievance classification and triage",
+      "sla_hours": 51,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0112": {
+      "id": "TAX-SD-112",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 112",
+      "description": "Official municipal taxonomy record 112 for Sindhi public grievance classification and triage",
+      "sla_hours": 52,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0113": {
+      "id": "TAX-SD-113",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 113",
+      "description": "Official municipal taxonomy record 113 for Sindhi public grievance classification and triage",
+      "sla_hours": 53,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0114": {
+      "id": "TAX-SD-114",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 114",
+      "description": "Official municipal taxonomy record 114 for Sindhi public grievance classification and triage",
+      "sla_hours": 54,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0115": {
+      "id": "TAX-SD-115",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 115",
+      "description": "Official municipal taxonomy record 115 for Sindhi public grievance classification and triage",
+      "sla_hours": 55,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0116": {
+      "id": "TAX-SD-116",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 116",
+      "description": "Official municipal taxonomy record 116 for Sindhi public grievance classification and triage",
+      "sla_hours": 56,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0117": {
+      "id": "TAX-SD-117",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 117",
+      "description": "Official municipal taxonomy record 117 for Sindhi public grievance classification and triage",
+      "sla_hours": 57,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0118": {
+      "id": "TAX-SD-118",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 118",
+      "description": "Official municipal taxonomy record 118 for Sindhi public grievance classification and triage",
+      "sla_hours": 58,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0119": {
+      "id": "TAX-SD-119",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 119",
+      "description": "Official municipal taxonomy record 119 for Sindhi public grievance classification and triage",
+      "sla_hours": 59,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0120": {
+      "id": "TAX-SD-120",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 120",
+      "description": "Official municipal taxonomy record 120 for Sindhi public grievance classification and triage",
+      "sla_hours": 60,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0121": {
+      "id": "TAX-SD-121",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 121",
+      "description": "Official municipal taxonomy record 121 for Sindhi public grievance classification and triage",
+      "sla_hours": 61,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0122": {
+      "id": "TAX-SD-122",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 122",
+      "description": "Official municipal taxonomy record 122 for Sindhi public grievance classification and triage",
+      "sla_hours": 62,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0123": {
+      "id": "TAX-SD-123",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 123",
+      "description": "Official municipal taxonomy record 123 for Sindhi public grievance classification and triage",
+      "sla_hours": 63,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0124": {
+      "id": "TAX-SD-124",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 124",
+      "description": "Official municipal taxonomy record 124 for Sindhi public grievance classification and triage",
+      "sla_hours": 64,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0125": {
+      "id": "TAX-SD-125",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 125",
+      "description": "Official municipal taxonomy record 125 for Sindhi public grievance classification and triage",
+      "sla_hours": 65,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0126": {
+      "id": "TAX-SD-126",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 126",
+      "description": "Official municipal taxonomy record 126 for Sindhi public grievance classification and triage",
+      "sla_hours": 66,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0127": {
+      "id": "TAX-SD-127",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 127",
+      "description": "Official municipal taxonomy record 127 for Sindhi public grievance classification and triage",
+      "sla_hours": 67,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0128": {
+      "id": "TAX-SD-128",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 128",
+      "description": "Official municipal taxonomy record 128 for Sindhi public grievance classification and triage",
+      "sla_hours": 68,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0129": {
+      "id": "TAX-SD-129",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 129",
+      "description": "Official municipal taxonomy record 129 for Sindhi public grievance classification and triage",
+      "sla_hours": 69,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0130": {
+      "id": "TAX-SD-130",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 130",
+      "description": "Official municipal taxonomy record 130 for Sindhi public grievance classification and triage",
+      "sla_hours": 70,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0131": {
+      "id": "TAX-SD-131",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 131",
+      "description": "Official municipal taxonomy record 131 for Sindhi public grievance classification and triage",
+      "sla_hours": 71,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0132": {
+      "id": "TAX-SD-132",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 132",
+      "description": "Official municipal taxonomy record 132 for Sindhi public grievance classification and triage",
+      "sla_hours": 72,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0133": {
+      "id": "TAX-SD-133",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 133",
+      "description": "Official municipal taxonomy record 133 for Sindhi public grievance classification and triage",
+      "sla_hours": 73,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0134": {
+      "id": "TAX-SD-134",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 134",
+      "description": "Official municipal taxonomy record 134 for Sindhi public grievance classification and triage",
+      "sla_hours": 74,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0135": {
+      "id": "TAX-SD-135",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 135",
+      "description": "Official municipal taxonomy record 135 for Sindhi public grievance classification and triage",
+      "sla_hours": 75,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0136": {
+      "id": "TAX-SD-136",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 136",
+      "description": "Official municipal taxonomy record 136 for Sindhi public grievance classification and triage",
+      "sla_hours": 76,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0137": {
+      "id": "TAX-SD-137",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 137",
+      "description": "Official municipal taxonomy record 137 for Sindhi public grievance classification and triage",
+      "sla_hours": 77,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0138": {
+      "id": "TAX-SD-138",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 138",
+      "description": "Official municipal taxonomy record 138 for Sindhi public grievance classification and triage",
+      "sla_hours": 78,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0139": {
+      "id": "TAX-SD-139",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 139",
+      "description": "Official municipal taxonomy record 139 for Sindhi public grievance classification and triage",
+      "sla_hours": 79,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0140": {
+      "id": "TAX-SD-140",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 140",
+      "description": "Official municipal taxonomy record 140 for Sindhi public grievance classification and triage",
+      "sla_hours": 80,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0141": {
+      "id": "TAX-SD-141",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 141",
+      "description": "Official municipal taxonomy record 141 for Sindhi public grievance classification and triage",
+      "sla_hours": 81,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0142": {
+      "id": "TAX-SD-142",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 142",
+      "description": "Official municipal taxonomy record 142 for Sindhi public grievance classification and triage",
+      "sla_hours": 82,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0143": {
+      "id": "TAX-SD-143",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 143",
+      "description": "Official municipal taxonomy record 143 for Sindhi public grievance classification and triage",
+      "sla_hours": 83,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0144": {
+      "id": "TAX-SD-144",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 144",
+      "description": "Official municipal taxonomy record 144 for Sindhi public grievance classification and triage",
+      "sla_hours": 12,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0145": {
+      "id": "TAX-SD-145",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 145",
+      "description": "Official municipal taxonomy record 145 for Sindhi public grievance classification and triage",
+      "sla_hours": 13,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0146": {
+      "id": "TAX-SD-146",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 146",
+      "description": "Official municipal taxonomy record 146 for Sindhi public grievance classification and triage",
+      "sla_hours": 14,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0147": {
+      "id": "TAX-SD-147",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 147",
+      "description": "Official municipal taxonomy record 147 for Sindhi public grievance classification and triage",
+      "sla_hours": 15,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0148": {
+      "id": "TAX-SD-148",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 148",
+      "description": "Official municipal taxonomy record 148 for Sindhi public grievance classification and triage",
+      "sla_hours": 16,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0149": {
+      "id": "TAX-SD-149",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 149",
+      "description": "Official municipal taxonomy record 149 for Sindhi public grievance classification and triage",
+      "sla_hours": 17,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0150": {
+      "id": "TAX-SD-150",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 150",
+      "description": "Official municipal taxonomy record 150 for Sindhi public grievance classification and triage",
+      "sla_hours": 18,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0151": {
+      "id": "TAX-SD-151",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 151",
+      "description": "Official municipal taxonomy record 151 for Sindhi public grievance classification and triage",
+      "sla_hours": 19,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0152": {
+      "id": "TAX-SD-152",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 152",
+      "description": "Official municipal taxonomy record 152 for Sindhi public grievance classification and triage",
+      "sla_hours": 20,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0153": {
+      "id": "TAX-SD-153",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 153",
+      "description": "Official municipal taxonomy record 153 for Sindhi public grievance classification and triage",
+      "sla_hours": 21,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0154": {
+      "id": "TAX-SD-154",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 154",
+      "description": "Official municipal taxonomy record 154 for Sindhi public grievance classification and triage",
+      "sla_hours": 22,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0155": {
+      "id": "TAX-SD-155",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 155",
+      "description": "Official municipal taxonomy record 155 for Sindhi public grievance classification and triage",
+      "sla_hours": 23,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0156": {
+      "id": "TAX-SD-156",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 156",
+      "description": "Official municipal taxonomy record 156 for Sindhi public grievance classification and triage",
+      "sla_hours": 24,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0157": {
+      "id": "TAX-SD-157",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 157",
+      "description": "Official municipal taxonomy record 157 for Sindhi public grievance classification and triage",
+      "sla_hours": 25,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0158": {
+      "id": "TAX-SD-158",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 158",
+      "description": "Official municipal taxonomy record 158 for Sindhi public grievance classification and triage",
+      "sla_hours": 26,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0159": {
+      "id": "TAX-SD-159",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 159",
+      "description": "Official municipal taxonomy record 159 for Sindhi public grievance classification and triage",
+      "sla_hours": 27,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0160": {
+      "id": "TAX-SD-160",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 160",
+      "description": "Official municipal taxonomy record 160 for Sindhi public grievance classification and triage",
+      "sla_hours": 28,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0161": {
+      "id": "TAX-SD-161",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 161",
+      "description": "Official municipal taxonomy record 161 for Sindhi public grievance classification and triage",
+      "sla_hours": 29,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0162": {
+      "id": "TAX-SD-162",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 162",
+      "description": "Official municipal taxonomy record 162 for Sindhi public grievance classification and triage",
+      "sla_hours": 30,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0163": {
+      "id": "TAX-SD-163",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 163",
+      "description": "Official municipal taxonomy record 163 for Sindhi public grievance classification and triage",
+      "sla_hours": 31,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0164": {
+      "id": "TAX-SD-164",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 164",
+      "description": "Official municipal taxonomy record 164 for Sindhi public grievance classification and triage",
+      "sla_hours": 32,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0165": {
+      "id": "TAX-SD-165",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 165",
+      "description": "Official municipal taxonomy record 165 for Sindhi public grievance classification and triage",
+      "sla_hours": 33,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0166": {
+      "id": "TAX-SD-166",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 166",
+      "description": "Official municipal taxonomy record 166 for Sindhi public grievance classification and triage",
+      "sla_hours": 34,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0167": {
+      "id": "TAX-SD-167",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 167",
+      "description": "Official municipal taxonomy record 167 for Sindhi public grievance classification and triage",
+      "sla_hours": 35,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0168": {
+      "id": "TAX-SD-168",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 168",
+      "description": "Official municipal taxonomy record 168 for Sindhi public grievance classification and triage",
+      "sla_hours": 36,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0169": {
+      "id": "TAX-SD-169",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 169",
+      "description": "Official municipal taxonomy record 169 for Sindhi public grievance classification and triage",
+      "sla_hours": 37,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0170": {
+      "id": "TAX-SD-170",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 170",
+      "description": "Official municipal taxonomy record 170 for Sindhi public grievance classification and triage",
+      "sla_hours": 38,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0171": {
+      "id": "TAX-SD-171",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 171",
+      "description": "Official municipal taxonomy record 171 for Sindhi public grievance classification and triage",
+      "sla_hours": 39,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0172": {
+      "id": "TAX-SD-172",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 172",
+      "description": "Official municipal taxonomy record 172 for Sindhi public grievance classification and triage",
+      "sla_hours": 40,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0173": {
+      "id": "TAX-SD-173",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 173",
+      "description": "Official municipal taxonomy record 173 for Sindhi public grievance classification and triage",
+      "sla_hours": 41,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0174": {
+      "id": "TAX-SD-174",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 174",
+      "description": "Official municipal taxonomy record 174 for Sindhi public grievance classification and triage",
+      "sla_hours": 42,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0175": {
+      "id": "TAX-SD-175",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 175",
+      "description": "Official municipal taxonomy record 175 for Sindhi public grievance classification and triage",
+      "sla_hours": 43,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0176": {
+      "id": "TAX-SD-176",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 176",
+      "description": "Official municipal taxonomy record 176 for Sindhi public grievance classification and triage",
+      "sla_hours": 44,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0177": {
+      "id": "TAX-SD-177",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 177",
+      "description": "Official municipal taxonomy record 177 for Sindhi public grievance classification and triage",
+      "sla_hours": 45,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0178": {
+      "id": "TAX-SD-178",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 178",
+      "description": "Official municipal taxonomy record 178 for Sindhi public grievance classification and triage",
+      "sla_hours": 46,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0179": {
+      "id": "TAX-SD-179",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 179",
+      "description": "Official municipal taxonomy record 179 for Sindhi public grievance classification and triage",
+      "sla_hours": 47,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0180": {
+      "id": "TAX-SD-180",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 180",
+      "description": "Official municipal taxonomy record 180 for Sindhi public grievance classification and triage",
+      "sla_hours": 48,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0181": {
+      "id": "TAX-SD-181",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 181",
+      "description": "Official municipal taxonomy record 181 for Sindhi public grievance classification and triage",
+      "sla_hours": 49,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0182": {
+      "id": "TAX-SD-182",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 182",
+      "description": "Official municipal taxonomy record 182 for Sindhi public grievance classification and triage",
+      "sla_hours": 50,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0183": {
+      "id": "TAX-SD-183",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 183",
+      "description": "Official municipal taxonomy record 183 for Sindhi public grievance classification and triage",
+      "sla_hours": 51,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0184": {
+      "id": "TAX-SD-184",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 184",
+      "description": "Official municipal taxonomy record 184 for Sindhi public grievance classification and triage",
+      "sla_hours": 52,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0185": {
+      "id": "TAX-SD-185",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 185",
+      "description": "Official municipal taxonomy record 185 for Sindhi public grievance classification and triage",
+      "sla_hours": 53,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0186": {
+      "id": "TAX-SD-186",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 186",
+      "description": "Official municipal taxonomy record 186 for Sindhi public grievance classification and triage",
+      "sla_hours": 54,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0187": {
+      "id": "TAX-SD-187",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 187",
+      "description": "Official municipal taxonomy record 187 for Sindhi public grievance classification and triage",
+      "sla_hours": 55,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0188": {
+      "id": "TAX-SD-188",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 188",
+      "description": "Official municipal taxonomy record 188 for Sindhi public grievance classification and triage",
+      "sla_hours": 56,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0189": {
+      "id": "TAX-SD-189",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 189",
+      "description": "Official municipal taxonomy record 189 for Sindhi public grievance classification and triage",
+      "sla_hours": 57,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0190": {
+      "id": "TAX-SD-190",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 190",
+      "description": "Official municipal taxonomy record 190 for Sindhi public grievance classification and triage",
+      "sla_hours": 58,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0191": {
+      "id": "TAX-SD-191",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 191",
+      "description": "Official municipal taxonomy record 191 for Sindhi public grievance classification and triage",
+      "sla_hours": 59,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0192": {
+      "id": "TAX-SD-192",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 192",
+      "description": "Official municipal taxonomy record 192 for Sindhi public grievance classification and triage",
+      "sla_hours": 60,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0193": {
+      "id": "TAX-SD-193",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 193",
+      "description": "Official municipal taxonomy record 193 for Sindhi public grievance classification and triage",
+      "sla_hours": 61,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0194": {
+      "id": "TAX-SD-194",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 194",
+      "description": "Official municipal taxonomy record 194 for Sindhi public grievance classification and triage",
+      "sla_hours": 62,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0195": {
+      "id": "TAX-SD-195",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 195",
+      "description": "Official municipal taxonomy record 195 for Sindhi public grievance classification and triage",
+      "sla_hours": 63,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0196": {
+      "id": "TAX-SD-196",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 196",
+      "description": "Official municipal taxonomy record 196 for Sindhi public grievance classification and triage",
+      "sla_hours": 64,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0197": {
+      "id": "TAX-SD-197",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 197",
+      "description": "Official municipal taxonomy record 197 for Sindhi public grievance classification and triage",
+      "sla_hours": 65,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0198": {
+      "id": "TAX-SD-198",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 198",
+      "description": "Official municipal taxonomy record 198 for Sindhi public grievance classification and triage",
+      "sla_hours": 66,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0199": {
+      "id": "TAX-SD-199",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 199",
+      "description": "Official municipal taxonomy record 199 for Sindhi public grievance classification and triage",
+      "sla_hours": 67,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0200": {
+      "id": "TAX-SD-200",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 200",
+      "description": "Official municipal taxonomy record 200 for Sindhi public grievance classification and triage",
+      "sla_hours": 68,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0201": {
+      "id": "TAX-SD-201",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 201",
+      "description": "Official municipal taxonomy record 201 for Sindhi public grievance classification and triage",
+      "sla_hours": 69,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0202": {
+      "id": "TAX-SD-202",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 202",
+      "description": "Official municipal taxonomy record 202 for Sindhi public grievance classification and triage",
+      "sla_hours": 70,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0203": {
+      "id": "TAX-SD-203",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 203",
+      "description": "Official municipal taxonomy record 203 for Sindhi public grievance classification and triage",
+      "sla_hours": 71,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0204": {
+      "id": "TAX-SD-204",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 204",
+      "description": "Official municipal taxonomy record 204 for Sindhi public grievance classification and triage",
+      "sla_hours": 72,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0205": {
+      "id": "TAX-SD-205",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 205",
+      "description": "Official municipal taxonomy record 205 for Sindhi public grievance classification and triage",
+      "sla_hours": 73,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0206": {
+      "id": "TAX-SD-206",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 206",
+      "description": "Official municipal taxonomy record 206 for Sindhi public grievance classification and triage",
+      "sla_hours": 74,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0207": {
+      "id": "TAX-SD-207",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 207",
+      "description": "Official municipal taxonomy record 207 for Sindhi public grievance classification and triage",
+      "sla_hours": 75,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0208": {
+      "id": "TAX-SD-208",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 208",
+      "description": "Official municipal taxonomy record 208 for Sindhi public grievance classification and triage",
+      "sla_hours": 76,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0209": {
+      "id": "TAX-SD-209",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 209",
+      "description": "Official municipal taxonomy record 209 for Sindhi public grievance classification and triage",
+      "sla_hours": 77,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0210": {
+      "id": "TAX-SD-210",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 210",
+      "description": "Official municipal taxonomy record 210 for Sindhi public grievance classification and triage",
+      "sla_hours": 78,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0211": {
+      "id": "TAX-SD-211",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 211",
+      "description": "Official municipal taxonomy record 211 for Sindhi public grievance classification and triage",
+      "sla_hours": 79,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0212": {
+      "id": "TAX-SD-212",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 212",
+      "description": "Official municipal taxonomy record 212 for Sindhi public grievance classification and triage",
+      "sla_hours": 80,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0213": {
+      "id": "TAX-SD-213",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 213",
+      "description": "Official municipal taxonomy record 213 for Sindhi public grievance classification and triage",
+      "sla_hours": 81,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0214": {
+      "id": "TAX-SD-214",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 214",
+      "description": "Official municipal taxonomy record 214 for Sindhi public grievance classification and triage",
+      "sla_hours": 82,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0215": {
+      "id": "TAX-SD-215",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 215",
+      "description": "Official municipal taxonomy record 215 for Sindhi public grievance classification and triage",
+      "sla_hours": 83,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0216": {
+      "id": "TAX-SD-216",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 216",
+      "description": "Official municipal taxonomy record 216 for Sindhi public grievance classification and triage",
+      "sla_hours": 12,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0217": {
+      "id": "TAX-SD-217",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 217",
+      "description": "Official municipal taxonomy record 217 for Sindhi public grievance classification and triage",
+      "sla_hours": 13,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0218": {
+      "id": "TAX-SD-218",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 218",
+      "description": "Official municipal taxonomy record 218 for Sindhi public grievance classification and triage",
+      "sla_hours": 14,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0219": {
+      "id": "TAX-SD-219",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 219",
+      "description": "Official municipal taxonomy record 219 for Sindhi public grievance classification and triage",
+      "sla_hours": 15,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0220": {
+      "id": "TAX-SD-220",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 220",
+      "description": "Official municipal taxonomy record 220 for Sindhi public grievance classification and triage",
+      "sla_hours": 16,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0221": {
+      "id": "TAX-SD-221",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 221",
+      "description": "Official municipal taxonomy record 221 for Sindhi public grievance classification and triage",
+      "sla_hours": 17,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0222": {
+      "id": "TAX-SD-222",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 222",
+      "description": "Official municipal taxonomy record 222 for Sindhi public grievance classification and triage",
+      "sla_hours": 18,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0223": {
+      "id": "TAX-SD-223",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 223",
+      "description": "Official municipal taxonomy record 223 for Sindhi public grievance classification and triage",
+      "sla_hours": 19,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0224": {
+      "id": "TAX-SD-224",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 224",
+      "description": "Official municipal taxonomy record 224 for Sindhi public grievance classification and triage",
+      "sla_hours": 20,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0225": {
+      "id": "TAX-SD-225",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 225",
+      "description": "Official municipal taxonomy record 225 for Sindhi public grievance classification and triage",
+      "sla_hours": 21,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0226": {
+      "id": "TAX-SD-226",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 226",
+      "description": "Official municipal taxonomy record 226 for Sindhi public grievance classification and triage",
+      "sla_hours": 22,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0227": {
+      "id": "TAX-SD-227",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 227",
+      "description": "Official municipal taxonomy record 227 for Sindhi public grievance classification and triage",
+      "sla_hours": 23,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0228": {
+      "id": "TAX-SD-228",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 228",
+      "description": "Official municipal taxonomy record 228 for Sindhi public grievance classification and triage",
+      "sla_hours": 24,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0229": {
+      "id": "TAX-SD-229",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 229",
+      "description": "Official municipal taxonomy record 229 for Sindhi public grievance classification and triage",
+      "sla_hours": 25,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0230": {
+      "id": "TAX-SD-230",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 230",
+      "description": "Official municipal taxonomy record 230 for Sindhi public grievance classification and triage",
+      "sla_hours": 26,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0231": {
+      "id": "TAX-SD-231",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 231",
+      "description": "Official municipal taxonomy record 231 for Sindhi public grievance classification and triage",
+      "sla_hours": 27,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0232": {
+      "id": "TAX-SD-232",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 232",
+      "description": "Official municipal taxonomy record 232 for Sindhi public grievance classification and triage",
+      "sla_hours": 28,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0233": {
+      "id": "TAX-SD-233",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 233",
+      "description": "Official municipal taxonomy record 233 for Sindhi public grievance classification and triage",
+      "sla_hours": 29,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0234": {
+      "id": "TAX-SD-234",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 234",
+      "description": "Official municipal taxonomy record 234 for Sindhi public grievance classification and triage",
+      "sla_hours": 30,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0235": {
+      "id": "TAX-SD-235",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 235",
+      "description": "Official municipal taxonomy record 235 for Sindhi public grievance classification and triage",
+      "sla_hours": 31,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0236": {
+      "id": "TAX-SD-236",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 236",
+      "description": "Official municipal taxonomy record 236 for Sindhi public grievance classification and triage",
+      "sla_hours": 32,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0237": {
+      "id": "TAX-SD-237",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 237",
+      "description": "Official municipal taxonomy record 237 for Sindhi public grievance classification and triage",
+      "sla_hours": 33,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0238": {
+      "id": "TAX-SD-238",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 238",
+      "description": "Official municipal taxonomy record 238 for Sindhi public grievance classification and triage",
+      "sla_hours": 34,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0239": {
+      "id": "TAX-SD-239",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 239",
+      "description": "Official municipal taxonomy record 239 for Sindhi public grievance classification and triage",
+      "sla_hours": 35,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0240": {
+      "id": "TAX-SD-240",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 240",
+      "description": "Official municipal taxonomy record 240 for Sindhi public grievance classification and triage",
+      "sla_hours": 36,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0241": {
+      "id": "TAX-SD-241",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 241",
+      "description": "Official municipal taxonomy record 241 for Sindhi public grievance classification and triage",
+      "sla_hours": 37,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0242": {
+      "id": "TAX-SD-242",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 242",
+      "description": "Official municipal taxonomy record 242 for Sindhi public grievance classification and triage",
+      "sla_hours": 38,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0243": {
+      "id": "TAX-SD-243",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 243",
+      "description": "Official municipal taxonomy record 243 for Sindhi public grievance classification and triage",
+      "sla_hours": 39,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0244": {
+      "id": "TAX-SD-244",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 244",
+      "description": "Official municipal taxonomy record 244 for Sindhi public grievance classification and triage",
+      "sla_hours": 40,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0245": {
+      "id": "TAX-SD-245",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 245",
+      "description": "Official municipal taxonomy record 245 for Sindhi public grievance classification and triage",
+      "sla_hours": 41,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0246": {
+      "id": "TAX-SD-246",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 246",
+      "description": "Official municipal taxonomy record 246 for Sindhi public grievance classification and triage",
+      "sla_hours": 42,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0247": {
+      "id": "TAX-SD-247",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 247",
+      "description": "Official municipal taxonomy record 247 for Sindhi public grievance classification and triage",
+      "sla_hours": 43,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0248": {
+      "id": "TAX-SD-248",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 248",
+      "description": "Official municipal taxonomy record 248 for Sindhi public grievance classification and triage",
+      "sla_hours": 44,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0249": {
+      "id": "TAX-SD-249",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 249",
+      "description": "Official municipal taxonomy record 249 for Sindhi public grievance classification and triage",
+      "sla_hours": 45,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0250": {
+      "id": "TAX-SD-250",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 250",
+      "description": "Official municipal taxonomy record 250 for Sindhi public grievance classification and triage",
+      "sla_hours": 46,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0251": {
+      "id": "TAX-SD-251",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 251",
+      "description": "Official municipal taxonomy record 251 for Sindhi public grievance classification and triage",
+      "sla_hours": 47,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0252": {
+      "id": "TAX-SD-252",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 252",
+      "description": "Official municipal taxonomy record 252 for Sindhi public grievance classification and triage",
+      "sla_hours": 48,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0253": {
+      "id": "TAX-SD-253",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 253",
+      "description": "Official municipal taxonomy record 253 for Sindhi public grievance classification and triage",
+      "sla_hours": 49,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0254": {
+      "id": "TAX-SD-254",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 254",
+      "description": "Official municipal taxonomy record 254 for Sindhi public grievance classification and triage",
+      "sla_hours": 50,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0255": {
+      "id": "TAX-SD-255",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 255",
+      "description": "Official municipal taxonomy record 255 for Sindhi public grievance classification and triage",
+      "sla_hours": 51,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0256": {
+      "id": "TAX-SD-256",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 256",
+      "description": "Official municipal taxonomy record 256 for Sindhi public grievance classification and triage",
+      "sla_hours": 52,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0257": {
+      "id": "TAX-SD-257",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 257",
+      "description": "Official municipal taxonomy record 257 for Sindhi public grievance classification and triage",
+      "sla_hours": 53,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0258": {
+      "id": "TAX-SD-258",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 258",
+      "description": "Official municipal taxonomy record 258 for Sindhi public grievance classification and triage",
+      "sla_hours": 54,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0259": {
+      "id": "TAX-SD-259",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 259",
+      "description": "Official municipal taxonomy record 259 for Sindhi public grievance classification and triage",
+      "sla_hours": 55,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0260": {
+      "id": "TAX-SD-260",
+      "canonical_name": "WATER_SUPPLY_PIPELINE_BURST",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 260",
+      "description": "Official municipal taxonomy record 260 for Sindhi public grievance classification and triage",
+      "sla_hours": 56,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0261": {
+      "id": "TAX-SD-261",
+      "canonical_name": "CONTAMINATED_DRINKING_WATER",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 261",
+      "description": "Official municipal taxonomy record 261 for Sindhi public grievance classification and triage",
+      "sla_hours": 57,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0262": {
+      "id": "TAX-SD-262",
+      "canonical_name": "LOW_WATER_PRESSURE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 262",
+      "description": "Official municipal taxonomy record 262 for Sindhi public grievance classification and triage",
+      "sla_hours": 58,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0263": {
+      "id": "TAX-SD-263",
+      "canonical_name": "STREET_GARBAGE_DUMP",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 263",
+      "description": "Official municipal taxonomy record 263 for Sindhi public grievance classification and triage",
+      "sla_hours": 59,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0264": {
+      "id": "TAX-SD-264",
+      "canonical_name": "PUBLIC_TOILET_UNHYGIENIC",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 264",
+      "description": "Official municipal taxonomy record 264 for Sindhi public grievance classification and triage",
+      "sla_hours": 60,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0265": {
+      "id": "TAX-SD-265",
+      "canonical_name": "DEAD_ANIMAL_REMOVAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 265",
+      "description": "Official municipal taxonomy record 265 for Sindhi public grievance classification and triage",
+      "sla_hours": 61,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0266": {
+      "id": "TAX-SD-266",
+      "canonical_name": "ROAD_HAZARDOUS_POTHOLE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 266",
+      "description": "Official municipal taxonomy record 266 for Sindhi public grievance classification and triage",
+      "sla_hours": 62,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0267": {
+      "id": "TAX-SD-267",
+      "canonical_name": "BROKEN_FOOTPATH_PAVER_BLOCKS",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 267",
+      "description": "Official municipal taxonomy record 267 for Sindhi public grievance classification and triage",
+      "sla_hours": 63,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0268": {
+      "id": "TAX-SD-268",
+      "canonical_name": "DAMAGED_CENTRAL_MEDIAN",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 268",
+      "description": "Official municipal taxonomy record 268 for Sindhi public grievance classification and triage",
+      "sla_hours": 64,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0269": {
+      "id": "TAX-SD-269",
+      "canonical_name": "STREETLIGHT_OUTAGE_LANE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 269",
+      "description": "Official municipal taxonomy record 269 for Sindhi public grievance classification and triage",
+      "sla_hours": 65,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0270": {
+      "id": "TAX-SD-270",
+      "canonical_name": "HIGH_MAST_LIGHT_DEFECT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 270",
+      "description": "Official municipal taxonomy record 270 for Sindhi public grievance classification and triage",
+      "sla_hours": 66,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0271": {
+      "id": "TAX-SD-271",
+      "canonical_name": "STORM_DRAIN_DESILTING_NEEDED",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 271",
+      "description": "Official municipal taxonomy record 271 for Sindhi public grievance classification and triage",
+      "sla_hours": 67,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    },
+    "CIVIC_TERM_0272": {
+      "id": "TAX-SD-272",
+      "canonical_name": "OPEN_MANHOLE_HAZARD",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 272",
+      "description": "Official municipal taxonomy record 272 for Sindhi public grievance classification and triage",
+      "sla_hours": 68,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_1",
+      "active_status": true
+    },
+    "CIVIC_TERM_0273": {
+      "id": "TAX-SD-273",
+      "canonical_name": "OVERFLOWING_SEWAGE_LINE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 273",
+      "description": "Official municipal taxonomy record 273 for Sindhi public grievance classification and triage",
+      "sla_hours": 69,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_2",
+      "active_status": true
+    },
+    "CIVIC_TERM_0274": {
+      "id": "TAX-SD-274",
+      "canonical_name": "FALLEN_TREE_ROAD_OBSTRUCTION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 274",
+      "description": "Official municipal taxonomy record 274 for Sindhi public grievance classification and triage",
+      "sla_hours": 70,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_3",
+      "active_status": true
+    },
+    "CIVIC_TERM_0275": {
+      "id": "TAX-SD-275",
+      "canonical_name": "ILLEGAL_CONSTRUCTION_ENCROACHMENT",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 275",
+      "description": "Official municipal taxonomy record 275 for Sindhi public grievance classification and triage",
+      "sla_hours": 71,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_4",
+      "active_status": true
+    },
+    "CIVIC_TERM_0276": {
+      "id": "TAX-SD-276",
+      "canonical_name": "MOSQUITO_BREEDING_WATER_STAGNATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 276",
+      "description": "Official municipal taxonomy record 276 for Sindhi public grievance classification and triage",
+      "sla_hours": 72,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_5",
+      "active_status": true
+    },
+    "CIVIC_TERM_0277": {
+      "id": "TAX-SD-277",
+      "canonical_name": "STRAY_CATTLE_MENACE",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 277",
+      "description": "Official municipal taxonomy record 277 for Sindhi public grievance classification and triage",
+      "sla_hours": 73,
+      "escalation_tier": "TIER_2",
+      "reporting_department": "DEPT_6",
+      "active_status": true
+    },
+    "CIVIC_TERM_0278": {
+      "id": "TAX-SD-278",
+      "canonical_name": "NOISE_POLLUTION_COMMERCIAL",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 278",
+      "description": "Official municipal taxonomy record 278 for Sindhi public grievance classification and triage",
+      "sla_hours": 74,
+      "escalation_tier": "TIER_3",
+      "reporting_department": "DEPT_7",
+      "active_status": true
+    },
+    "CIVIC_TERM_0279": {
+      "id": "TAX-SD-279",
+      "canonical_name": "BUILDING_PERMISSION_VIOLATION",
+      "localized_label": "[Sindhi] Municipal Civic Grievance Category Entry 279",
+      "description": "Official municipal taxonomy record 279 for Sindhi public grievance classification and triage",
+      "sla_hours": 75,
+      "escalation_tier": "TIER_1",
+      "reporting_department": "DEPT_8",
+      "active_status": true
+    }
+  }
+}
