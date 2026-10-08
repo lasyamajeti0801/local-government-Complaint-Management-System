@@ -1,7 +1,10 @@
 # MEMBER 2 HANDOFF DOCUMENTATION
 ## Citizen Grievance Redressal Portal
+
 **Platform:** 🏛️ NAGAR CONNECT  
 **Author:** Member 2 (Citizen Portal Lead)  
+**System:** Nagar Connect Municipal E-Governance Platform  
+**Version:** 1.2.0  
 
 ---
 
@@ -26,3 +29,8 @@
 - `POST /api/citizen/complaints`: Register new grievance.
 - `GET /api/citizen/complaints/:id`: Get full grievance detail & timeline.
 - `POST /api/citizen/complaints/:id/feedback`: Submit rating or reopen ticket.
+
+### 4. Integration Guidelines for Member 3 (Officer Portal)
+- Member 3 directly retrieves these complaints via `GET /api/officer/queue`.
+- Re-use the existing `complaint_status_history` table for recording officer status transitions.
+- Do NOT create a duplicate timeline component; reuse the canonical timeline component.
