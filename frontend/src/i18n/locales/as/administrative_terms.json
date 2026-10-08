@@ -1,0 +1,2255 @@
+{
+  "language": "Assamese",
+  "administrative_terms": {
+    "ADM_VOCAB_0000": {
+      "code": "TERM-AS-0",
+      "term_en": "Administrative Civic Designation 0",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 0",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 1 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0001": {
+      "code": "TERM-AS-1",
+      "term_en": "Administrative Civic Designation 1",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 1",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 2 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0002": {
+      "code": "TERM-AS-2",
+      "term_en": "Administrative Civic Designation 2",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 2",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 3 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0003": {
+      "code": "TERM-AS-3",
+      "term_en": "Administrative Civic Designation 3",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 3",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 4 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0004": {
+      "code": "TERM-AS-4",
+      "term_en": "Administrative Civic Designation 4",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 4",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 5 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0005": {
+      "code": "TERM-AS-5",
+      "term_en": "Administrative Civic Designation 5",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 5",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 6 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0006": {
+      "code": "TERM-AS-6",
+      "term_en": "Administrative Civic Designation 6",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 6",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 7 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0007": {
+      "code": "TERM-AS-7",
+      "term_en": "Administrative Civic Designation 7",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 7",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 8 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0008": {
+      "code": "TERM-AS-8",
+      "term_en": "Administrative Civic Designation 8",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 8",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 9 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0009": {
+      "code": "TERM-AS-9",
+      "term_en": "Administrative Civic Designation 9",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 9",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 10 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0010": {
+      "code": "TERM-AS-10",
+      "term_en": "Administrative Civic Designation 10",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 10",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 11 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0011": {
+      "code": "TERM-AS-11",
+      "term_en": "Administrative Civic Designation 11",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 11",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 12 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0012": {
+      "code": "TERM-AS-12",
+      "term_en": "Administrative Civic Designation 12",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 12",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 13 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0013": {
+      "code": "TERM-AS-13",
+      "term_en": "Administrative Civic Designation 13",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 13",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 14 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0014": {
+      "code": "TERM-AS-14",
+      "term_en": "Administrative Civic Designation 14",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 14",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 15 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0015": {
+      "code": "TERM-AS-15",
+      "term_en": "Administrative Civic Designation 15",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 15",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 16 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0016": {
+      "code": "TERM-AS-16",
+      "term_en": "Administrative Civic Designation 16",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 16",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 17 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0017": {
+      "code": "TERM-AS-17",
+      "term_en": "Administrative Civic Designation 17",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 17",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 18 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0018": {
+      "code": "TERM-AS-18",
+      "term_en": "Administrative Civic Designation 18",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 18",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 19 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0019": {
+      "code": "TERM-AS-19",
+      "term_en": "Administrative Civic Designation 19",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 19",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 20 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0020": {
+      "code": "TERM-AS-20",
+      "term_en": "Administrative Civic Designation 20",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 20",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 21 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0021": {
+      "code": "TERM-AS-21",
+      "term_en": "Administrative Civic Designation 21",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 21",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 22 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0022": {
+      "code": "TERM-AS-22",
+      "term_en": "Administrative Civic Designation 22",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 22",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 23 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0023": {
+      "code": "TERM-AS-23",
+      "term_en": "Administrative Civic Designation 23",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 23",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 24 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0024": {
+      "code": "TERM-AS-24",
+      "term_en": "Administrative Civic Designation 24",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 24",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 25 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0025": {
+      "code": "TERM-AS-25",
+      "term_en": "Administrative Civic Designation 25",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 25",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 26 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0026": {
+      "code": "TERM-AS-26",
+      "term_en": "Administrative Civic Designation 26",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 26",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 27 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0027": {
+      "code": "TERM-AS-27",
+      "term_en": "Administrative Civic Designation 27",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 27",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 28 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0028": {
+      "code": "TERM-AS-28",
+      "term_en": "Administrative Civic Designation 28",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 28",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 29 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0029": {
+      "code": "TERM-AS-29",
+      "term_en": "Administrative Civic Designation 29",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 29",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 30 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0030": {
+      "code": "TERM-AS-30",
+      "term_en": "Administrative Civic Designation 30",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 30",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 31 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0031": {
+      "code": "TERM-AS-31",
+      "term_en": "Administrative Civic Designation 31",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 31",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 32 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0032": {
+      "code": "TERM-AS-32",
+      "term_en": "Administrative Civic Designation 32",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 32",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 33 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0033": {
+      "code": "TERM-AS-33",
+      "term_en": "Administrative Civic Designation 33",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 33",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 34 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0034": {
+      "code": "TERM-AS-34",
+      "term_en": "Administrative Civic Designation 34",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 34",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 35 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0035": {
+      "code": "TERM-AS-35",
+      "term_en": "Administrative Civic Designation 35",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 35",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 36 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0036": {
+      "code": "TERM-AS-36",
+      "term_en": "Administrative Civic Designation 36",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 36",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 37 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0037": {
+      "code": "TERM-AS-37",
+      "term_en": "Administrative Civic Designation 37",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 37",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 38 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0038": {
+      "code": "TERM-AS-38",
+      "term_en": "Administrative Civic Designation 38",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 38",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 39 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0039": {
+      "code": "TERM-AS-39",
+      "term_en": "Administrative Civic Designation 39",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 39",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 40 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0040": {
+      "code": "TERM-AS-40",
+      "term_en": "Administrative Civic Designation 40",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 40",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 41 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0041": {
+      "code": "TERM-AS-41",
+      "term_en": "Administrative Civic Designation 41",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 41",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 42 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0042": {
+      "code": "TERM-AS-42",
+      "term_en": "Administrative Civic Designation 42",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 42",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 43 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0043": {
+      "code": "TERM-AS-43",
+      "term_en": "Administrative Civic Designation 43",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 43",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 44 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0044": {
+      "code": "TERM-AS-44",
+      "term_en": "Administrative Civic Designation 44",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 44",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 45 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0045": {
+      "code": "TERM-AS-45",
+      "term_en": "Administrative Civic Designation 45",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 45",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 46 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0046": {
+      "code": "TERM-AS-46",
+      "term_en": "Administrative Civic Designation 46",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 46",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 47 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0047": {
+      "code": "TERM-AS-47",
+      "term_en": "Administrative Civic Designation 47",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 47",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 48 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0048": {
+      "code": "TERM-AS-48",
+      "term_en": "Administrative Civic Designation 48",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 48",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 49 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0049": {
+      "code": "TERM-AS-49",
+      "term_en": "Administrative Civic Designation 49",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 49",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 50 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0050": {
+      "code": "TERM-AS-50",
+      "term_en": "Administrative Civic Designation 50",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 50",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 51 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0051": {
+      "code": "TERM-AS-51",
+      "term_en": "Administrative Civic Designation 51",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 51",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 52 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0052": {
+      "code": "TERM-AS-52",
+      "term_en": "Administrative Civic Designation 52",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 52",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 53 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0053": {
+      "code": "TERM-AS-53",
+      "term_en": "Administrative Civic Designation 53",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 53",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 54 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0054": {
+      "code": "TERM-AS-54",
+      "term_en": "Administrative Civic Designation 54",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 54",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 55 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0055": {
+      "code": "TERM-AS-55",
+      "term_en": "Administrative Civic Designation 55",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 55",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 56 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0056": {
+      "code": "TERM-AS-56",
+      "term_en": "Administrative Civic Designation 56",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 56",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 57 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0057": {
+      "code": "TERM-AS-57",
+      "term_en": "Administrative Civic Designation 57",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 57",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 58 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0058": {
+      "code": "TERM-AS-58",
+      "term_en": "Administrative Civic Designation 58",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 58",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 59 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0059": {
+      "code": "TERM-AS-59",
+      "term_en": "Administrative Civic Designation 59",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 59",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 60 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0060": {
+      "code": "TERM-AS-60",
+      "term_en": "Administrative Civic Designation 60",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 60",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 61 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0061": {
+      "code": "TERM-AS-61",
+      "term_en": "Administrative Civic Designation 61",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 61",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 62 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0062": {
+      "code": "TERM-AS-62",
+      "term_en": "Administrative Civic Designation 62",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 62",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 63 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0063": {
+      "code": "TERM-AS-63",
+      "term_en": "Administrative Civic Designation 63",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 63",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 64 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0064": {
+      "code": "TERM-AS-64",
+      "term_en": "Administrative Civic Designation 64",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 64",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 65 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0065": {
+      "code": "TERM-AS-65",
+      "term_en": "Administrative Civic Designation 65",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 65",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 66 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0066": {
+      "code": "TERM-AS-66",
+      "term_en": "Administrative Civic Designation 66",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 66",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 67 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0067": {
+      "code": "TERM-AS-67",
+      "term_en": "Administrative Civic Designation 67",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 67",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 68 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0068": {
+      "code": "TERM-AS-68",
+      "term_en": "Administrative Civic Designation 68",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 68",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 69 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0069": {
+      "code": "TERM-AS-69",
+      "term_en": "Administrative Civic Designation 69",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 69",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 70 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0070": {
+      "code": "TERM-AS-70",
+      "term_en": "Administrative Civic Designation 70",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 70",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 71 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0071": {
+      "code": "TERM-AS-71",
+      "term_en": "Administrative Civic Designation 71",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 71",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 72 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0072": {
+      "code": "TERM-AS-72",
+      "term_en": "Administrative Civic Designation 72",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 72",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 73 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0073": {
+      "code": "TERM-AS-73",
+      "term_en": "Administrative Civic Designation 73",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 73",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 74 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0074": {
+      "code": "TERM-AS-74",
+      "term_en": "Administrative Civic Designation 74",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 74",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 75 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0075": {
+      "code": "TERM-AS-75",
+      "term_en": "Administrative Civic Designation 75",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 75",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 76 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0076": {
+      "code": "TERM-AS-76",
+      "term_en": "Administrative Civic Designation 76",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 76",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 77 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0077": {
+      "code": "TERM-AS-77",
+      "term_en": "Administrative Civic Designation 77",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 77",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 78 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0078": {
+      "code": "TERM-AS-78",
+      "term_en": "Administrative Civic Designation 78",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 78",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 79 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0079": {
+      "code": "TERM-AS-79",
+      "term_en": "Administrative Civic Designation 79",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 79",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 80 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0080": {
+      "code": "TERM-AS-80",
+      "term_en": "Administrative Civic Designation 80",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 80",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 81 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0081": {
+      "code": "TERM-AS-81",
+      "term_en": "Administrative Civic Designation 81",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 81",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 82 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0082": {
+      "code": "TERM-AS-82",
+      "term_en": "Administrative Civic Designation 82",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 82",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 83 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0083": {
+      "code": "TERM-AS-83",
+      "term_en": "Administrative Civic Designation 83",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 83",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 84 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0084": {
+      "code": "TERM-AS-84",
+      "term_en": "Administrative Civic Designation 84",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 84",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 85 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0085": {
+      "code": "TERM-AS-85",
+      "term_en": "Administrative Civic Designation 85",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 85",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 86 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0086": {
+      "code": "TERM-AS-86",
+      "term_en": "Administrative Civic Designation 86",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 86",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 87 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0087": {
+      "code": "TERM-AS-87",
+      "term_en": "Administrative Civic Designation 87",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 87",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 88 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0088": {
+      "code": "TERM-AS-88",
+      "term_en": "Administrative Civic Designation 88",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 88",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 89 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0089": {
+      "code": "TERM-AS-89",
+      "term_en": "Administrative Civic Designation 89",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 89",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 90 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0090": {
+      "code": "TERM-AS-90",
+      "term_en": "Administrative Civic Designation 90",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 90",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 91 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0091": {
+      "code": "TERM-AS-91",
+      "term_en": "Administrative Civic Designation 91",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 91",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 92 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0092": {
+      "code": "TERM-AS-92",
+      "term_en": "Administrative Civic Designation 92",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 92",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 93 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0093": {
+      "code": "TERM-AS-93",
+      "term_en": "Administrative Civic Designation 93",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 93",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 94 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0094": {
+      "code": "TERM-AS-94",
+      "term_en": "Administrative Civic Designation 94",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 94",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 95 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0095": {
+      "code": "TERM-AS-95",
+      "term_en": "Administrative Civic Designation 95",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 95",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 96 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0096": {
+      "code": "TERM-AS-96",
+      "term_en": "Administrative Civic Designation 96",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 96",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 97 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0097": {
+      "code": "TERM-AS-97",
+      "term_en": "Administrative Civic Designation 97",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 97",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 98 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0098": {
+      "code": "TERM-AS-98",
+      "term_en": "Administrative Civic Designation 98",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 98",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 99 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0099": {
+      "code": "TERM-AS-99",
+      "term_en": "Administrative Civic Designation 99",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 99",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 100 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0100": {
+      "code": "TERM-AS-100",
+      "term_en": "Administrative Civic Designation 100",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 100",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 101 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0101": {
+      "code": "TERM-AS-101",
+      "term_en": "Administrative Civic Designation 101",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 101",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 102 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0102": {
+      "code": "TERM-AS-102",
+      "term_en": "Administrative Civic Designation 102",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 102",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 103 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0103": {
+      "code": "TERM-AS-103",
+      "term_en": "Administrative Civic Designation 103",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 103",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 104 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0104": {
+      "code": "TERM-AS-104",
+      "term_en": "Administrative Civic Designation 104",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 104",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 105 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0105": {
+      "code": "TERM-AS-105",
+      "term_en": "Administrative Civic Designation 105",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 105",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 106 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0106": {
+      "code": "TERM-AS-106",
+      "term_en": "Administrative Civic Designation 106",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 106",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 107 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0107": {
+      "code": "TERM-AS-107",
+      "term_en": "Administrative Civic Designation 107",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 107",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 108 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0108": {
+      "code": "TERM-AS-108",
+      "term_en": "Administrative Civic Designation 108",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 108",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 109 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0109": {
+      "code": "TERM-AS-109",
+      "term_en": "Administrative Civic Designation 109",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 109",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 110 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0110": {
+      "code": "TERM-AS-110",
+      "term_en": "Administrative Civic Designation 110",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 110",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 111 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0111": {
+      "code": "TERM-AS-111",
+      "term_en": "Administrative Civic Designation 111",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 111",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 112 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0112": {
+      "code": "TERM-AS-112",
+      "term_en": "Administrative Civic Designation 112",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 112",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 113 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0113": {
+      "code": "TERM-AS-113",
+      "term_en": "Administrative Civic Designation 113",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 113",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 114 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0114": {
+      "code": "TERM-AS-114",
+      "term_en": "Administrative Civic Designation 114",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 114",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 115 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0115": {
+      "code": "TERM-AS-115",
+      "term_en": "Administrative Civic Designation 115",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 115",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 116 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0116": {
+      "code": "TERM-AS-116",
+      "term_en": "Administrative Civic Designation 116",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 116",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 117 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0117": {
+      "code": "TERM-AS-117",
+      "term_en": "Administrative Civic Designation 117",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 117",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 118 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0118": {
+      "code": "TERM-AS-118",
+      "term_en": "Administrative Civic Designation 118",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 118",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 119 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0119": {
+      "code": "TERM-AS-119",
+      "term_en": "Administrative Civic Designation 119",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 119",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 120 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0120": {
+      "code": "TERM-AS-120",
+      "term_en": "Administrative Civic Designation 120",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 120",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 121 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0121": {
+      "code": "TERM-AS-121",
+      "term_en": "Administrative Civic Designation 121",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 121",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 122 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0122": {
+      "code": "TERM-AS-122",
+      "term_en": "Administrative Civic Designation 122",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 122",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 123 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0123": {
+      "code": "TERM-AS-123",
+      "term_en": "Administrative Civic Designation 123",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 123",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 124 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0124": {
+      "code": "TERM-AS-124",
+      "term_en": "Administrative Civic Designation 124",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 124",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 125 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0125": {
+      "code": "TERM-AS-125",
+      "term_en": "Administrative Civic Designation 125",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 125",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 126 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0126": {
+      "code": "TERM-AS-126",
+      "term_en": "Administrative Civic Designation 126",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 126",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 127 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0127": {
+      "code": "TERM-AS-127",
+      "term_en": "Administrative Civic Designation 127",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 127",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 128 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0128": {
+      "code": "TERM-AS-128",
+      "term_en": "Administrative Civic Designation 128",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 128",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 129 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0129": {
+      "code": "TERM-AS-129",
+      "term_en": "Administrative Civic Designation 129",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 129",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 130 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0130": {
+      "code": "TERM-AS-130",
+      "term_en": "Administrative Civic Designation 130",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 130",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 131 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0131": {
+      "code": "TERM-AS-131",
+      "term_en": "Administrative Civic Designation 131",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 131",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 132 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0132": {
+      "code": "TERM-AS-132",
+      "term_en": "Administrative Civic Designation 132",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 132",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 133 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0133": {
+      "code": "TERM-AS-133",
+      "term_en": "Administrative Civic Designation 133",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 133",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 134 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0134": {
+      "code": "TERM-AS-134",
+      "term_en": "Administrative Civic Designation 134",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 134",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 135 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0135": {
+      "code": "TERM-AS-135",
+      "term_en": "Administrative Civic Designation 135",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 135",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 136 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0136": {
+      "code": "TERM-AS-136",
+      "term_en": "Administrative Civic Designation 136",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 136",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 137 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0137": {
+      "code": "TERM-AS-137",
+      "term_en": "Administrative Civic Designation 137",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 137",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 138 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0138": {
+      "code": "TERM-AS-138",
+      "term_en": "Administrative Civic Designation 138",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 138",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 139 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0139": {
+      "code": "TERM-AS-139",
+      "term_en": "Administrative Civic Designation 139",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 139",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 140 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0140": {
+      "code": "TERM-AS-140",
+      "term_en": "Administrative Civic Designation 140",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 140",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 141 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0141": {
+      "code": "TERM-AS-141",
+      "term_en": "Administrative Civic Designation 141",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 141",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 142 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0142": {
+      "code": "TERM-AS-142",
+      "term_en": "Administrative Civic Designation 142",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 142",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 143 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0143": {
+      "code": "TERM-AS-143",
+      "term_en": "Administrative Civic Designation 143",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 143",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 144 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0144": {
+      "code": "TERM-AS-144",
+      "term_en": "Administrative Civic Designation 144",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 144",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 145 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0145": {
+      "code": "TERM-AS-145",
+      "term_en": "Administrative Civic Designation 145",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 145",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 146 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0146": {
+      "code": "TERM-AS-146",
+      "term_en": "Administrative Civic Designation 146",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 146",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 147 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0147": {
+      "code": "TERM-AS-147",
+      "term_en": "Administrative Civic Designation 147",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 147",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 148 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0148": {
+      "code": "TERM-AS-148",
+      "term_en": "Administrative Civic Designation 148",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 148",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 149 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0149": {
+      "code": "TERM-AS-149",
+      "term_en": "Administrative Civic Designation 149",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 149",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 150 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0150": {
+      "code": "TERM-AS-150",
+      "term_en": "Administrative Civic Designation 150",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 150",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 151 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0151": {
+      "code": "TERM-AS-151",
+      "term_en": "Administrative Civic Designation 151",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 151",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 152 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0152": {
+      "code": "TERM-AS-152",
+      "term_en": "Administrative Civic Designation 152",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 152",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 153 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0153": {
+      "code": "TERM-AS-153",
+      "term_en": "Administrative Civic Designation 153",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 153",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 154 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0154": {
+      "code": "TERM-AS-154",
+      "term_en": "Administrative Civic Designation 154",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 154",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 155 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0155": {
+      "code": "TERM-AS-155",
+      "term_en": "Administrative Civic Designation 155",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 155",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 156 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0156": {
+      "code": "TERM-AS-156",
+      "term_en": "Administrative Civic Designation 156",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 156",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 157 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0157": {
+      "code": "TERM-AS-157",
+      "term_en": "Administrative Civic Designation 157",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 157",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 158 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0158": {
+      "code": "TERM-AS-158",
+      "term_en": "Administrative Civic Designation 158",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 158",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 159 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0159": {
+      "code": "TERM-AS-159",
+      "term_en": "Administrative Civic Designation 159",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 159",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 160 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0160": {
+      "code": "TERM-AS-160",
+      "term_en": "Administrative Civic Designation 160",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 160",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 161 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0161": {
+      "code": "TERM-AS-161",
+      "term_en": "Administrative Civic Designation 161",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 161",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 162 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0162": {
+      "code": "TERM-AS-162",
+      "term_en": "Administrative Civic Designation 162",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 162",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 163 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0163": {
+      "code": "TERM-AS-163",
+      "term_en": "Administrative Civic Designation 163",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 163",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 164 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0164": {
+      "code": "TERM-AS-164",
+      "term_en": "Administrative Civic Designation 164",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 164",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 165 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0165": {
+      "code": "TERM-AS-165",
+      "term_en": "Administrative Civic Designation 165",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 165",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 166 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0166": {
+      "code": "TERM-AS-166",
+      "term_en": "Administrative Civic Designation 166",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 166",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 167 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0167": {
+      "code": "TERM-AS-167",
+      "term_en": "Administrative Civic Designation 167",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 167",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 168 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0168": {
+      "code": "TERM-AS-168",
+      "term_en": "Administrative Civic Designation 168",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 168",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 169 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0169": {
+      "code": "TERM-AS-169",
+      "term_en": "Administrative Civic Designation 169",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 169",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 170 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0170": {
+      "code": "TERM-AS-170",
+      "term_en": "Administrative Civic Designation 170",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 170",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 171 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0171": {
+      "code": "TERM-AS-171",
+      "term_en": "Administrative Civic Designation 171",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 171",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 172 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0172": {
+      "code": "TERM-AS-172",
+      "term_en": "Administrative Civic Designation 172",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 172",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 173 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0173": {
+      "code": "TERM-AS-173",
+      "term_en": "Administrative Civic Designation 173",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 173",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 174 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0174": {
+      "code": "TERM-AS-174",
+      "term_en": "Administrative Civic Designation 174",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 174",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 175 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0175": {
+      "code": "TERM-AS-175",
+      "term_en": "Administrative Civic Designation 175",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 175",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 176 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0176": {
+      "code": "TERM-AS-176",
+      "term_en": "Administrative Civic Designation 176",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 176",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 177 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0177": {
+      "code": "TERM-AS-177",
+      "term_en": "Administrative Civic Designation 177",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 177",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 178 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0178": {
+      "code": "TERM-AS-178",
+      "term_en": "Administrative Civic Designation 178",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 178",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 179 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0179": {
+      "code": "TERM-AS-179",
+      "term_en": "Administrative Civic Designation 179",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 179",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 180 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0180": {
+      "code": "TERM-AS-180",
+      "term_en": "Administrative Civic Designation 180",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 180",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 181 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0181": {
+      "code": "TERM-AS-181",
+      "term_en": "Administrative Civic Designation 181",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 181",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 182 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0182": {
+      "code": "TERM-AS-182",
+      "term_en": "Administrative Civic Designation 182",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 182",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 183 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0183": {
+      "code": "TERM-AS-183",
+      "term_en": "Administrative Civic Designation 183",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 183",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 184 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0184": {
+      "code": "TERM-AS-184",
+      "term_en": "Administrative Civic Designation 184",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 184",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 185 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0185": {
+      "code": "TERM-AS-185",
+      "term_en": "Administrative Civic Designation 185",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 185",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 186 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0186": {
+      "code": "TERM-AS-186",
+      "term_en": "Administrative Civic Designation 186",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 186",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 187 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0187": {
+      "code": "TERM-AS-187",
+      "term_en": "Administrative Civic Designation 187",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 187",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 188 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0188": {
+      "code": "TERM-AS-188",
+      "term_en": "Administrative Civic Designation 188",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 188",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 189 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0189": {
+      "code": "TERM-AS-189",
+      "term_en": "Administrative Civic Designation 189",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 189",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 190 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0190": {
+      "code": "TERM-AS-190",
+      "term_en": "Administrative Civic Designation 190",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 190",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 191 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0191": {
+      "code": "TERM-AS-191",
+      "term_en": "Administrative Civic Designation 191",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 191",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 192 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0192": {
+      "code": "TERM-AS-192",
+      "term_en": "Administrative Civic Designation 192",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 192",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 193 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0193": {
+      "code": "TERM-AS-193",
+      "term_en": "Administrative Civic Designation 193",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 193",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 194 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0194": {
+      "code": "TERM-AS-194",
+      "term_en": "Administrative Civic Designation 194",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 194",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 195 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0195": {
+      "code": "TERM-AS-195",
+      "term_en": "Administrative Civic Designation 195",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 195",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 196 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0196": {
+      "code": "TERM-AS-196",
+      "term_en": "Administrative Civic Designation 196",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 196",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 197 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0197": {
+      "code": "TERM-AS-197",
+      "term_en": "Administrative Civic Designation 197",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 197",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 198 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0198": {
+      "code": "TERM-AS-198",
+      "term_en": "Administrative Civic Designation 198",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 198",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 199 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0199": {
+      "code": "TERM-AS-199",
+      "term_en": "Administrative Civic Designation 199",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 199",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 200 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0200": {
+      "code": "TERM-AS-200",
+      "term_en": "Administrative Civic Designation 200",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 200",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 201 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0201": {
+      "code": "TERM-AS-201",
+      "term_en": "Administrative Civic Designation 201",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 201",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 202 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0202": {
+      "code": "TERM-AS-202",
+      "term_en": "Administrative Civic Designation 202",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 202",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 203 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0203": {
+      "code": "TERM-AS-203",
+      "term_en": "Administrative Civic Designation 203",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 203",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 204 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0204": {
+      "code": "TERM-AS-204",
+      "term_en": "Administrative Civic Designation 204",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 204",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 205 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0205": {
+      "code": "TERM-AS-205",
+      "term_en": "Administrative Civic Designation 205",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 205",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 206 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0206": {
+      "code": "TERM-AS-206",
+      "term_en": "Administrative Civic Designation 206",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 206",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 207 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0207": {
+      "code": "TERM-AS-207",
+      "term_en": "Administrative Civic Designation 207",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 207",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 208 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0208": {
+      "code": "TERM-AS-208",
+      "term_en": "Administrative Civic Designation 208",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 208",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 209 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0209": {
+      "code": "TERM-AS-209",
+      "term_en": "Administrative Civic Designation 209",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 209",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 210 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0210": {
+      "code": "TERM-AS-210",
+      "term_en": "Administrative Civic Designation 210",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 210",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 211 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0211": {
+      "code": "TERM-AS-211",
+      "term_en": "Administrative Civic Designation 211",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 211",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 212 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0212": {
+      "code": "TERM-AS-212",
+      "term_en": "Administrative Civic Designation 212",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 212",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 213 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0213": {
+      "code": "TERM-AS-213",
+      "term_en": "Administrative Civic Designation 213",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 213",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 214 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0214": {
+      "code": "TERM-AS-214",
+      "term_en": "Administrative Civic Designation 214",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 214",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 215 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0215": {
+      "code": "TERM-AS-215",
+      "term_en": "Administrative Civic Designation 215",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 215",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 216 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0216": {
+      "code": "TERM-AS-216",
+      "term_en": "Administrative Civic Designation 216",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 216",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 217 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0217": {
+      "code": "TERM-AS-217",
+      "term_en": "Administrative Civic Designation 217",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 217",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 218 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0218": {
+      "code": "TERM-AS-218",
+      "term_en": "Administrative Civic Designation 218",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 218",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 219 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0219": {
+      "code": "TERM-AS-219",
+      "term_en": "Administrative Civic Designation 219",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 219",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 220 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0220": {
+      "code": "TERM-AS-220",
+      "term_en": "Administrative Civic Designation 220",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 220",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 221 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0221": {
+      "code": "TERM-AS-221",
+      "term_en": "Administrative Civic Designation 221",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 221",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 222 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0222": {
+      "code": "TERM-AS-222",
+      "term_en": "Administrative Civic Designation 222",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 222",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 223 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0223": {
+      "code": "TERM-AS-223",
+      "term_en": "Administrative Civic Designation 223",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 223",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 224 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0224": {
+      "code": "TERM-AS-224",
+      "term_en": "Administrative Civic Designation 224",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 224",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 225 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0225": {
+      "code": "TERM-AS-225",
+      "term_en": "Administrative Civic Designation 225",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 225",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 226 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0226": {
+      "code": "TERM-AS-226",
+      "term_en": "Administrative Civic Designation 226",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 226",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 227 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0227": {
+      "code": "TERM-AS-227",
+      "term_en": "Administrative Civic Designation 227",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 227",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 228 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0228": {
+      "code": "TERM-AS-228",
+      "term_en": "Administrative Civic Designation 228",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 228",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 229 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0229": {
+      "code": "TERM-AS-229",
+      "term_en": "Administrative Civic Designation 229",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 229",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 230 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0230": {
+      "code": "TERM-AS-230",
+      "term_en": "Administrative Civic Designation 230",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 230",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 231 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0231": {
+      "code": "TERM-AS-231",
+      "term_en": "Administrative Civic Designation 231",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 231",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 232 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0232": {
+      "code": "TERM-AS-232",
+      "term_en": "Administrative Civic Designation 232",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 232",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 233 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0233": {
+      "code": "TERM-AS-233",
+      "term_en": "Administrative Civic Designation 233",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 233",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 234 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0234": {
+      "code": "TERM-AS-234",
+      "term_en": "Administrative Civic Designation 234",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 234",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 235 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0235": {
+      "code": "TERM-AS-235",
+      "term_en": "Administrative Civic Designation 235",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 235",
+      "jurisdiction": "Ward Zone 11",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 236 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0236": {
+      "code": "TERM-AS-236",
+      "term_en": "Administrative Civic Designation 236",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 236",
+      "jurisdiction": "Ward Zone 12",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 237 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0237": {
+      "code": "TERM-AS-237",
+      "term_en": "Administrative Civic Designation 237",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 237",
+      "jurisdiction": "Ward Zone 13",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 238 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0238": {
+      "code": "TERM-AS-238",
+      "term_en": "Administrative Civic Designation 238",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 238",
+      "jurisdiction": "Ward Zone 14",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 239 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0239": {
+      "code": "TERM-AS-239",
+      "term_en": "Administrative Civic Designation 239",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 239",
+      "jurisdiction": "Ward Zone 15",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 240 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0240": {
+      "code": "TERM-AS-240",
+      "term_en": "Administrative Civic Designation 240",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 240",
+      "jurisdiction": "Ward Zone 1",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 241 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0241": {
+      "code": "TERM-AS-241",
+      "term_en": "Administrative Civic Designation 241",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 241",
+      "jurisdiction": "Ward Zone 2",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 242 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0242": {
+      "code": "TERM-AS-242",
+      "term_en": "Administrative Civic Designation 242",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 242",
+      "jurisdiction": "Ward Zone 3",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 243 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0243": {
+      "code": "TERM-AS-243",
+      "term_en": "Administrative Civic Designation 243",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 243",
+      "jurisdiction": "Ward Zone 4",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 244 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0244": {
+      "code": "TERM-AS-244",
+      "term_en": "Administrative Civic Designation 244",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 244",
+      "jurisdiction": "Ward Zone 5",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 245 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0245": {
+      "code": "TERM-AS-245",
+      "term_en": "Administrative Civic Designation 245",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 245",
+      "jurisdiction": "Ward Zone 6",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 246 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0246": {
+      "code": "TERM-AS-246",
+      "term_en": "Administrative Civic Designation 246",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 246",
+      "jurisdiction": "Ward Zone 7",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 247 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0247": {
+      "code": "TERM-AS-247",
+      "term_en": "Administrative Civic Designation 247",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 247",
+      "jurisdiction": "Ward Zone 8",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 248 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0248": {
+      "code": "TERM-AS-248",
+      "term_en": "Administrative Civic Designation 248",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 248",
+      "jurisdiction": "Ward Zone 9",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 249 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    },
+    "ADM_VOCAB_0249": {
+      "code": "TERM-AS-249",
+      "term_en": "Administrative Civic Designation 249",
+      "term_localized": "[Assamese] Nagar Palika Prabandhan Term 249",
+      "jurisdiction": "Ward Zone 10",
+      "authorized_role": "MUNICIPAL_OFFICER",
+      "guideline_clause": "Section 250 Subsection B of Municipalities Bylaw 2026",
+      "audit_flag": true
+    }
+  }
+}
