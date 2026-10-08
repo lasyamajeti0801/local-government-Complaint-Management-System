@@ -1,24 +1,38 @@
 {
-  "name": "nagar-connect-frontend",
-  "private": true,
-  "version": "1.0.0",
-  "type": "module",
+  "name": "nagar-connect",
+  "version": "1.5.0",
+  "description": "Nagar Connect - Local Government Complaint Management & Centralized RAG Intelligence Platform",
+  "main": "backend/server.js",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "dev": "concurrently \"node backend/server.js\" \"cd frontend && npm run dev\"",
+    "build": "cd frontend && npm install && npm run build",
+    "start": "node backend/server.js",
+    "server": "node backend/server.js",
+    "frontend": "cd frontend && npm run dev",
+    "seed": "node database/seed/seed.js && node database/seed/seed_documents.js",
+    "test": "node tests/test_rag.js"
   },
+  "keywords": [
+    "municipal",
+    "e-governance",
+    "complaint-management",
+    "rag",
+    "vector-database"
+  ],
+  "author": "Nagar Connect Engineering Team",
+  "license": "ISC",
+  "type": "commonjs",
   "dependencies": {
-    "lucide-react": "^0.446.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-router-dom": "^6.26.2"
-  },
-  "devDependencies": {
-    "@types/react": "^18.3.10",
-    "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react": "^4.3.1",
-    "typescript": "^5.6.2",
-    "vite": "^5.4.7"
+    "bcryptjs": "^3.0.3",
+    "concurrently": "^10.0.5",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "lucide-react": "^1.52.0",
+    "mammoth": "^1.13.0",
+    "multer": "^2.4.0",
+    "pdf-parse": "^2.4.5",
+    "sql.js": "^1.14.2"
   }
 }
