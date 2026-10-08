@@ -32,3 +32,8 @@ logs/
 
 # Test coverage
 coverage/
+
+# Database files
+database/*.sqlite*
+database/*.db*
+
